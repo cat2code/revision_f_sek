@@ -1,6 +1,5 @@
 import csv
 
-
 bankFAccount = 1941
 bankCafeAccount = 1942
 bankNollningAccount = 1946
@@ -23,7 +22,8 @@ aspiaFile = 'aspia.csv'
 outputFile1 = 'output1.csv'
 outputFile2 = 'output2.csv'
 outputFile3 = 'output3.csv'
-
+outputFile4 = 'output4.csv'
+outputFile5 = 'output5.csv'
 
 
 #Här skapas all csv reader/writers för framtida användning
@@ -41,9 +41,11 @@ bankSexetReader = csv.reader(open(bankSexetFile, 'r'), dialect='excel')
 aspiaReader = csv.reader(open(aspiaFile, 'r'), delimiter=';')
 
 
-outputWriter1 = csv.writer(open(outputFile1, 'w', newline=''), dialect='excel')
-outputWriter2 = csv.writer(open(outputFile2, 'w', newline=''), dialect='excel')
+#outputWriter1 = csv.writer(open(outputFile1, 'w', newline=''), dialect='excel')
+#outputWriter2 = csv.writer(open(outputFile2, 'w', newline=''), dialect='excel')
 outputWriter3 = csv.writer(open(outputFile3, 'w', newline=''), dialect='excel')
+outputWriter4 = csv.writer(open(outputFile4, 'w', newline=''), dialect='excel')
+outputWriter5 = csv.writer(open(outputFile5, 'w', newline=''), dialect='excel')
 
 
 
@@ -100,10 +102,9 @@ def matchTransaction(reader, account):
                     transactions.remove(t)
                     break
 
-    outputWriter2.writerows(transactions)
+    #outputWriter2.writerows(transactions)
                     
-
-        
+     
 
 matchTransaction(bankFReader, bankFAccount)
 matchTransaction(bankCafeReader, bankCafeAccount)
@@ -112,7 +113,64 @@ matchTransaction(bankProjektReader, bankProjektAccount)
 matchTransaction(bankProjekt2Reader, bankProjekt2Account)
 matchTransaction(bankSexetReader, bankSexetAccount)
 
+#outputWriter1.writerows(verifikat.values())
 
-outputWriter1.writerows(verifikat.values())
+
+unusedVerifikatReader = csv.reader(open('output1.csv', 'r'),  dialect='excel')
+unUsedTransaktions = csv.reader(open('output2.csv', 'r'),  dialect='excel')
+
+accounts = [1941, 1942, 1943, 1944, 1945, 1946]
+
+unUsedVerifikat = {}
+for row in unusedVerifikatReader:
+    r = list(row)
+    if r[0] in unUsedVerifikat.keys():
+        unUsedVerifikat[r[0]].extend(r)
+    else:
+        unUsedVerifikat[r[0]] = r
 
 
+
+transactions = []
+
+for row in unUsedTransaktions:
+    transactions.append(row)
+
+
+
+
+keys = list(unUsedVerifikat.keys())
+for nr in keys:
+    candidates = []
+    rows = unUsedVerifikat[nr]
+    correctAccount = False
+    sum = 0
+    for row in rows:
+        print(type(row))
+        if int(row[3]) == 1941:
+            print('nej')
+            correctAccount = True
+            if(row[10] != ''):
+                sum = -float(row[10].replace(',', '.')) #Minustecken för att dettta är kredit och det kommer synas som minus på banken
+            else:
+                sum = float(row[9].replace(',', '.'))
+
+    if(correctAccount):
+        print('he2j')
+        for t in transactions:
+            if(sum == float(t[10])):
+                print('hej')
+                a = []
+                a.extend(unUsedVerifikat[nr])
+                a.extend(t)
+                outputWriter3.writerow(a)
+
+                unUsedVerifikat.pop(nr)
+                transactions.remove(t)
+                break
+
+outputWriter4.writerows(transactions)
+
+
+
+outputWriter5.writerows(unUsedVerifikat.values())
