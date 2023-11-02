@@ -152,9 +152,9 @@ for account in list(transactions.keys()):
                 #om man har banken på debit eller kredit.
                 if(row[10] != ''):
                     #Minustecken för att dettta är kredit och det kommer synas som minus på banken
-                    sum = -float(row[10].replace(',', '.')) 
+                    sum = sum-float(row[10].replace(',', '.')) 
                 else:
-                    sum = float(row[9].replace(',', '.'))
+                    sum = sum+float(row[9].replace(',', '.'))
         
         if(correctAccount):
             for t in transactions[account]:
