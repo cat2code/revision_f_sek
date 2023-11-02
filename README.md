@@ -72,6 +72,8 @@ Här tar jag bort alla transaktioner som sker mellan två av F sektionens konton
 
 Det här är den viktigaste metoden. Den gör mellan 70%-80% av allt arbete. Vad den gör är att den tar ett bankkonto i taget, sedan väljer den ett verifikat som angår det här bankkontot och försöker matcha det mot en transaktion av samma summa på samma dag. Det finns en chans här att fel verifikat matchas med fel transaktion om det finns flera transaktionern av samma storlek på samma dag
 
+Den kan också ta hänsyn till den nya bokföringen av zettles genom att den går igenom alla rader i verifikatet med kredit och debit för bankkontot och summerar dessa och sedan letar efter slutsumman. Detta gör att det kan bli fel om ett verifikat motsvaras av mer än en banktransaktion. Men det borde den inte ha matchat ändå så no loss
+
 ### matchKundbet
 
 Den här metoden hanterar fallet med att bankgiroinbetalningar kommer i klump ofta har flera verifikat kopplade till sig. Det den gör är att den kollar på alla verifikat som går in på bokföringskontot fodringar och summerar alla för en viss dag och försöker matcha det men en transaktion på banken. Den här metoden har begränsningen att om bankgiroinbetalningen inte bokförs som en fodring kommer den här metoden inte att hantera den.
