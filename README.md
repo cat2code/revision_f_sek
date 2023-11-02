@@ -96,3 +96,5 @@ Ett typiskt förfarande för felsökning av verifikat är:
 
 För felsökning av transaktioner är det nästa samma som för verifikat fast omvänt
 * Om man gåt in på aspia och klickar på sök belopp kan man söka efter ett givet bokfört belopp bland all verifikat
+
+Om man har bekräftat att allt står rätt till kan man då lägga in relevanta verifikat och transaktioner i manuellCheck.csv
