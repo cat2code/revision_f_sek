@@ -247,12 +247,12 @@ def checkedBank(checkedBank, firstString, account):
                 if T[0] == t:
                     transactions[account].remove(T)
 
-checkedBank(checkedBankF, 'BankF', bankFAccount)
-checkedBank(checkedBankCafe, 'BankCafe', bankCafeAccount)
-checkedBank(checkedBankNollning, 'BankNollning', bankNollningAccount)
-checkedBank(checkedBankProjekt, 'BankProjekt', bankProjektAccount)
-checkedBank(checkedBankProjekt2, 'BankProjekt2', bankProjekt2Account)
-checkedBank(checkedBankSexet, 'BankSexet', bankSexetAccount)
+checkedBank(checkedBankF, 'BankF_1941', bankFAccount)
+checkedBank(checkedBankCafe, 'BankCafe_1942', bankCafeAccount)
+checkedBank(checkedBankNollning, 'BankNollning_1946', bankNollningAccount)
+checkedBank(checkedBankProjekt, 'BankProjekt_1944', bankProjektAccount)
+checkedBank(checkedBankProjekt2, 'BankProjekt2_1945', bankProjekt2Account)
+checkedBank(checkedBankSexet, 'BankSexet_1943', bankSexetAccount)
 
 
 outputWriter1.writerows(verifikat.values())
