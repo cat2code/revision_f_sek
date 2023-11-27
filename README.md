@@ -12,7 +12,7 @@ Detta är en guide för hur man ska använda sig av scriptet och vad man ska tä
 
 * Under bokföring tryck på Verifikationslista
 
-* Välj "En serie" och "A - Bokföring" i dropdown menyn
+* Välj "En serie" och "A - Redovisning" i dropdown menyn
 
 * Tryck på export Excel
 
@@ -76,7 +76,7 @@ Den kan också ta hänsyn till den nya bokföringen av zettles genom att den gå
 
 ### matchKundbet
 
-Den här metoden hanterar fallet med att bankgiroinbetalningar kommer i klump ofta har flera verifikat kopplade till sig. Det den gör är att den kollar på alla verifikat som går in på bokföringskontot fodringar och summerar alla för en viss dag och försöker matcha det men en transaktion på banken. Den här metoden har begränsningen att om bankgiroinbetalningen inte bokförs som en fodring kommer den här metoden inte att hantera den.
+Den här metoden hanterar fallet med att bankgiroinbetalningar kommer i klump ofta har flera verifikat kopplade till sig. Det den gör är att den kollar på alla verifikat som går in på bokföringskontot fodringar och summerar alla för en viss dag och försöker matcha det men en transaktion på banken. Den här metoden har begränsningen att om bankgiroinbetalningen inte bokförs som en fodring kommer den här metoden inte att hantera den. Den ser också till att alla verifikat bokför till rätt konto.
 
 ### removeInternalBookkeeping
 

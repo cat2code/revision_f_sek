@@ -51,17 +51,23 @@ def matchKundbet(transactions, verifikat):
     for date in list(kundbet.keys()):
         #Beräkna hur mycket som har kommit in via bankgiro
         sum = 0
+        accounts = set()
         for verifika in kundbet[date]:
             for row in verifika:
                 if row[10] != '':
                     sum += float(row[10].replace(',', '.'))
 
+                #Ser till att alla kundbet har samma inbetalningskonto och vilket det är
+                if int(row[3]) != 1610:
+                    accounts.add(int(row[3]))
+
 
         #Ta bort den bankgiroinsättningen som motsvaras av de verifikaten
         for account in list(transactions.keys()):
 
-            for t in transactions[account]:
-                if(t[5] == date and sum == float(t[10])):                    
+            for t in transactions[account]:                
+
+                if(t[5] == date and sum == float(t[10]) and len(accounts) == 1 and account in accounts):                    
                     for verifika in kundbet[date]:
                         verifikat.pop(verifika[0][0])
                     
