@@ -99,4 +99,10 @@ Ett typiskt förfarande för felsökning av verifikat är:
 För felsökning av transaktioner är det nästa samma som för verifikat fast omvänt
 * Om man gåt in på aspia och klickar på sök belopp kan man söka efter ett givet bokfört belopp bland all verifikat
 
+I sällsynta fall kan man råka ut för Pythons decimalhantering. Ett exempel från verkligheten är 
+```py
+>>> 51641.24-809.23 == 50831.01
+False
+```
+
 Om man har bekräftat att allt står rätt till kan man då lägga in relevanta verifikat och transaktioner i manuellCheck.csv
