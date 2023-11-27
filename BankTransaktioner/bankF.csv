@@ -1,675 +1,714 @@
-* Transaktionsrapport Period 2023-01-01 – 2023-11-02 Skapad 2023-11-02 00:52 CET
+* Transaktionsrapport Period 2023-01-01 ï¿½ 2023-11-27 Skapad 2023-11-27 16:30 CET
 Radnr,Clnr,Kontonr,Produkt,Valuta,Bokfdag,Transdag,Valutadag,Referens,Text,Belopp,Saldo
-1,83139,0741326839,"Företagskonto",SEK,2023-01-02,2023-01-02,2023-01-03,"6428437","Bankgiro inbetalning",47504.00,80455.62
-2,83139,0741326839,"Företagskonto",SEK,2023-01-03,2023-01-03,2023-01-04,"6428437","Bankgiro inbetalning",2000.00,82455.62
-3,83139,0741326839,"Företagskonto",SEK,2023-01-04,2023-01-04,2023-01-05,"6428437","Bankgiro inbetalning",150.00,82605.62
-4,83139,0741326839,"Företagskonto",SEK,2023-01-11,2023-01-11,2023-01-11,"Bokföringsmat","Överföring via internet",-85.00,82520.62
-5,83139,0741326839,"Företagskonto",SEK,2023-01-11,2023-01-11,2023-01-11,"Bokföringsmat","Överföring via internet",-85.00,82435.62
-6,83139,0741326839,"Företagskonto",SEK,2023-01-11,2023-01-11,2023-01-11,"Ledningstack","Överföring via internet",-3457.70,78977.92
-7,83139,0741326839,"Företagskonto",SEK,2023-01-11,2023-01-11,2023-01-11,"Internöverföring","Överföring via internet",80000.00,158977.92
-8,83139,0741326839,"Företagskonto",SEK,2023-01-11,2023-01-11,2023-01-11,"Bokföringsmat","Överföring via internet",-170.00,158807.92
-9,83139,0741326839,"Företagskonto",SEK,2023-01-11,2023-01-11,2023-01-11,"Intervjumat","Överföring via internet",-85.00,158722.92
-10,83139,0741326839,"Företagskonto",SEK,2023-01-11,2023-01-11,2023-01-11,"Hyra Gasque Jubi","Bg-bet. via internet",-24595.00,134127.92
-11,83139,0741326839,"Företagskonto",SEK,2023-01-11,2023-01-11,2023-01-11,"Hyra Nollegasque","Bg-bet. via internet",-34290.00,99837.92
-12,83139,0741326839,"Företagskonto",SEK,2023-01-11,2023-01-11,2023-01-11,"Hyra Cornelis St","Bg-bet. via internet",-3800.00,96037.92
-13,83139,0741326839,"Företagskonto",SEK,2023-01-11,2023-01-11,2023-01-11,"E-tryckeriet","Bg-bet. via internet",-5947.00,90090.92
-14,83139,0741326839,"Företagskonto",SEK,2023-01-11,2023-01-11,2023-01-11,"Hyra gasque SING","Bg-bet. via internet",-16110.00,73980.92
-15,83139,0741326839,"Företagskonto",SEK,2023-01-11,2023-01-11,2023-01-12,"6428437","Bankgiro inbetalning",1180.00,75160.92
-16,83139,0741326839,"Företagskonto",SEK,2023-01-12,2023-01-11,2023-01-11,"Tillstånd Farad","Bg-bet. via internet",-1400.00,73760.92
-17,83139,0741326839,"Företagskonto",SEK,2023-01-12,2023-01-11,2023-01-11,"Tillstånd Farad","Bg-bet. via internet",-1400.00,72360.92
-18,83139,0741326839,"Företagskonto",SEK,2023-01-12,2023-01-12,2023-01-12,"FETSM 1","Bg-bet. via internet",-1400.00,70960.92
-19,83139,0741326839,"Företagskonto",SEK,2023-01-12,2023-01-12,2023-01-13,"6428437","Bankgiro inbetalning",36000.00,106960.92
-20,83139,0741326839,"Företagskonto",SEK,2023-01-13,2023-01-13,2023-01-13,"LUNDS KOMMUN","Bg-bet. via internet",-1200.00,105760.92
-21,83139,0741326839,"Företagskonto",SEK,2023-01-16,2023-01-16,2023-01-17,"6428437","Bankgiro inbetalning",220.00,105980.92
-22,83139,0741326839,"Företagskonto",SEK,2023-01-17,2023-01-16,2023-01-16,"Internöverföring","Överföring via internet",-20000.00,85980.92
-23,83139,0741326839,"Företagskonto",SEK,2023-01-17,2023-01-17,2023-01-17,"Adobe creative c","Bg-bet. via internet",-6243.00,79737.92
-24,83139,0741326839,"Företagskonto",SEK,2023-01-17,2023-01-17,2023-01-18,"6428437","Bankgiro inbetalning",1606.00,81343.92
-25,83139,0741326839,"Företagskonto",SEK,2023-01-18,2023-01-18,2023-01-19,"1022301180007526","Europabetalning",525.00,81868.92
-26,83139,0741326839,"Företagskonto",SEK,2023-01-18,2023-01-18,2023-01-18,"1022301180007526","Pris betalning",-1.50,81867.42
-27,83139,0741326839,"Företagskonto",SEK,2023-01-18,2023-01-18,2023-01-18,"1022301180007526","Pris avisering",-10.00,81857.42
-28,83139,0741326839,"Företagskonto",SEK,2023-01-20,2023-01-20,2023-01-20,"","Pris banktjänster enligt faktura",-1212.00,80645.42
-29,83139,0741326839,"Företagskonto",SEK,2023-01-23,2023-01-23,2023-01-23,"83139741326862","Överföring via internet",-800.00,79845.42
-30,83139,0741326839,"Företagskonto",SEK,2023-01-23,2023-01-23,2023-01-23,"Internöverföring","Överföring via internet",-1400.00,78445.42
-31,83139,0741326839,"Företagskonto",SEK,2023-01-23,2023-01-23,2023-01-23,"Bilförsäkring","Bg-bet. via internet",-1952.00,76493.42
-32,83139,0741326839,"Företagskonto",SEK,2023-01-24,2023-01-24,2023-01-24,"Scenkläder","Överföring via internet",-185.00,76308.42
-33,83139,0741326839,"Företagskonto",SEK,2023-01-24,2023-01-24,2023-01-24,"Scenkläder","Överföring via internet",-1036.00,75272.42
-34,83139,0741326839,"Företagskonto",SEK,2023-01-24,2023-01-24,2023-01-24,"Scenkläder","Överföring via internet",-105.00,75167.42
-35,83139,0741326839,"Företagskonto",SEK,2023-01-24,2023-01-24,2023-01-24,"Bokföringsmat","Överföring via internet",-170.00,74997.42
-36,83139,0741326839,"Företagskonto",SEK,2023-01-24,2023-01-24,2023-01-24,"Alkohol LednTack","Överföring via internet",-2350.20,72647.22
-37,83139,0741326839,"Företagskonto",SEK,2023-01-24,2023-01-24,2023-01-24,"Diesel F-bil","Överföring via internet",-1198.24,71448.98
-38,83139,0741326839,"Företagskonto",SEK,2023-01-24,2023-01-24,2023-01-24,"Alk Bordsvise","Överföring via internet",-627.00,70821.98
-39,83139,0741326839,"Företagskonto",SEK,2023-01-24,2023-01-24,2023-01-24,"Cafe Nycklar","Överföring via internet",-280.00,70541.98
-40,83139,0741326839,"Företagskonto",SEK,2023-01-24,2023-01-24,2023-01-24,"Mat Bordsvise","Överföring via internet",-2156.00,68385.98
-41,83139,0741326839,"Företagskonto",SEK,2023-01-24,2023-01-24,2023-01-24,"CafeLås","Överföring via internet",-449.00,67936.98
-42,83139,0741326839,"Företagskonto",SEK,2023-01-24,2023-01-24,2023-01-24,"Scenkläder","Överföring via internet",-309.50,67627.48
-43,83139,0741326839,"Företagskonto",SEK,2023-01-24,2023-01-24,2023-01-24,"Mat Reptillfälle","Överföring via internet",-919.32,66708.16
-44,83139,0741326839,"Företagskonto",SEK,2023-01-24,2023-01-24,2023-01-24,"Diesel F-bil","Överföring via internet",-1061.28,65646.88
-45,83139,0741326839,"Företagskonto",SEK,2023-01-24,2023-01-24,2023-01-24,"TipEx Lim","Överföring via internet",-78.80,65568.08
-46,83139,0741326839,"Företagskonto",SEK,2023-01-24,2023-01-24,2023-01-24,"Bar Bordsvise","Överföring via internet",-380.00,65188.08
-47,83139,0741326839,"Företagskonto",SEK,2023-01-24,2023-01-24,2023-01-24,"AuxBil","Överföring via internet",-39.90,65148.18
-48,83139,0741326839,"Företagskonto",SEK,2023-01-24,2023-01-24,2023-01-24,"Mat Bordsvise","Överföring via internet",-220.00,64928.18
-49,83139,0741326839,"Företagskonto",SEK,2023-01-24,2023-01-24,2023-01-24,"MatSyrelseUtbild","Överföring via internet",-700.00,64228.18
-50,83139,0741326839,"Företagskonto",SEK,2023-01-24,2023-01-24,2023-01-24,"PingisBollar","Pg-bet. via internet",-468.00,63760.18
-51,83139,0741326839,"Företagskonto",SEK,2023-01-24,2023-01-24,2023-01-24,"Hyra Ishall","Bg-bet. via internet",-400.00,63360.18
-52,83139,0741326839,"Företagskonto",SEK,2023-01-27,2023-01-27,2023-01-27,"83139741326862","Överföring via internet",-1500.00,61860.18
-53,83139,0741326839,"Företagskonto",SEK,2023-01-27,2023-01-27,2023-01-27,"83139741326862","Överföring via internet",-7000.00,54860.18
-54,83139,0741326839,"Företagskonto",SEK,2023-01-30,2023-01-30,2023-01-30,"83139741326862","Överföring via internet",-1000.00,53860.18
-55,83139,0741326839,"Företagskonto",SEK,2023-01-30,2023-01-30,2023-01-30,"SkiftesStuga","Bg-bet. via internet",-7000.00,46860.18
-56,83139,0741326839,"Företagskonto",SEK,2023-02-01,2023-02-01,2023-02-01,"83139741326862","Överföring via internet",-700.00,46160.18
-57,83139,0741326839,"Företagskonto",SEK,2023-02-01,2023-02-01,2023-02-01,"SkåpLås","Överföring via internet",-1996.00,44164.18
-58,83139,0741326839,"Företagskonto",SEK,2023-02-01,2023-02-01,2023-02-01,"FaradTejp","Överföring via internet",-39.90,44124.28
-59,83139,0741326839,"Företagskonto",SEK,2023-02-01,2023-02-01,2023-02-01,"Ansvarspostutbil","Överföring via internet",-1947.00,42177.28
-60,83139,0741326839,"Företagskonto",SEK,2023-02-01,2023-02-01,2023-02-01,"alkfriPryTack","Överföring via internet",-250.59,41926.69
-61,83139,0741326839,"Företagskonto",SEK,2023-02-01,2023-02-01,2023-02-01,"AlkoholPryltack","Överföring via internet",-1272.00,40654.69
-62,83139,0741326839,"Företagskonto",SEK,2023-02-01,2023-02-01,2023-02-01,"Kostym SåS","Överföring via internet",-791.75,39862.94
-63,83139,0741326839,"Företagskonto",SEK,2023-02-01,2023-02-01,2023-02-01,"Värdutbildning","Överföring via internet",-83.30,39779.64
-64,83139,0741326839,"Företagskonto",SEK,2023-02-01,2023-02-01,2023-02-01,"AlkTackSex","Överföring via internet",-1877.60,37902.04
-65,83139,0741326839,"Företagskonto",SEK,2023-02-01,2023-02-01,2023-02-01,"såsmat rep","Överföring via internet",-117.80,37784.24
-66,83139,0741326839,"Företagskonto",SEK,2023-02-01,2023-02-01,2023-02-01,"FaradMat","Överföring via internet",-5101.50,32682.74
-67,83139,0741326839,"Företagskonto",SEK,2023-02-01,2023-02-01,2023-02-01,"såsmat rep","Överföring via internet",-490.59,32192.15
-68,83139,0741326839,"Företagskonto",SEK,2023-02-01,2023-02-01,2023-02-01,"Alkoholcaftack","Överföring via internet",-1104.00,31088.15
-69,83139,0741326839,"Företagskonto",SEK,2023-02-01,2023-02-01,2023-02-01,"Dricka och snack","Överföring via internet",-341.00,30747.15
-70,83139,0741326839,"Företagskonto",SEK,2023-02-01,2023-02-01,2023-02-01,"FaradFika","Överföring via internet",-540.50,30206.65
-71,83139,0741326839,"Företagskonto",SEK,2023-02-01,2023-02-01,2023-02-01,"Kostym SåS","Överföring via internet",-175.90,30030.75
-72,83139,0741326839,"Företagskonto",SEK,2023-02-01,2023-02-01,2023-02-01,"SaftUmeåVT22","Bg-bet. via internet",-800.00,29230.75
-73,83139,0741326839,"Företagskonto",SEK,2023-02-02,2023-02-02,2023-02-02,"83139741326862","Överföring via internet",-14000.00,15230.75
-74,83139,0741326839,"Företagskonto",SEK,2023-02-03,2023-02-03,2023-02-03,"Lunchföreläsning","Överföring via internet",-119.00,15111.75
-75,83139,0741326839,"Företagskonto",SEK,2023-02-03,2023-02-03,2023-02-03,"Bokföringsmat","Överföring via internet",-85.00,15026.75
-76,83139,0741326839,"Företagskonto",SEK,2023-02-03,2023-02-03,2023-02-03,"MattejpFARAD","Överföring via internet",-1791.00,13235.75
-77,83139,0741326839,"Företagskonto",SEK,2023-02-03,2023-02-03,2023-02-03,"UtbildningFNU","Överföring via internet",-500.00,12735.75
-78,83139,0741326839,"Företagskonto",SEK,2023-02-06,2023-02-06,2023-02-06,"83139741326862","Överföring via internet",590.00,13325.75
-79,83139,0741326839,"Företagskonto",SEK,2023-02-07,2023-02-07,2023-02-07,"InternÖvf","Överföring via internet",21152.73,34478.48
-80,83139,0741326839,"Företagskonto",SEK,2023-02-07,2023-02-07,2023-02-07,"83139741326862","Överföring via internet",-10880.00,23598.48
-81,83139,0741326839,"Företagskonto",SEK,2023-02-07,2023-02-07,2023-02-07,"Bilreperation","Bg-bet. via internet",-6289.00,17309.48
-82,83139,0741326839,"Företagskonto",SEK,2023-02-08,2023-02-08,2023-02-08,"83139741326847","Överföring via internet",50000.00,67309.48
-83,83139,0741326839,"Företagskonto",SEK,2023-02-08,2023-02-08,2023-02-08,"AllaHjärtansDag","Överföring via internet",-195.50,67113.98
-84,83139,0741326839,"Företagskonto",SEK,2023-02-08,2023-02-08,2023-02-08,"Internöverföring","Överföring via internet",-5000.00,62113.98
-85,83139,0741326839,"Företagskonto",SEK,2023-02-08,2023-02-08,2023-02-08,"AllaHjärtansDag","Överföring via internet",-454.60,61659.38
-86,83139,0741326839,"Företagskonto",SEK,2023-02-08,2023-02-08,2023-02-08,"LedningsSkifte","Överföring via internet",-4769.43,56889.95
-87,83139,0741326839,"Företagskonto",SEK,2023-02-08,2023-02-08,2023-02-08,"AllaHjärtansDag","Överföring via internet",-60.00,56829.95
-88,83139,0741326839,"Företagskonto",SEK,2023-02-08,2023-02-08,2023-02-08,"AllaHjärtansDag","Överföring via internet",-100.00,56729.95
-89,83139,0741326839,"Företagskonto",SEK,2023-02-08,2023-02-08,2023-02-08,"Bänkolja","Överföring via internet",-99.90,56630.05
-90,83139,0741326839,"Företagskonto",SEK,2023-02-08,2023-02-08,2023-02-08,"AlkoholFARADPub","Överföring via internet",-2798.50,53831.55
-91,83139,0741326839,"Företagskonto",SEK,2023-02-08,2023-02-08,2023-02-08,"Intervjumat","Överföring via internet",-170.00,53661.55
-92,83139,0741326839,"Företagskonto",SEK,2023-02-08,2023-02-08,2023-02-08,"Lophtet Sexetkic","Bg-bet. via internet",-2500.00,51161.55
-93,83139,0741326839,"Företagskonto",SEK,2023-02-08,2023-02-08,2023-02-08,"SexetKablar","Bg-bet. via internet",-250.00,50911.55
-94,83139,0741326839,"Företagskonto",SEK,2023-02-08,2023-02-08,2023-02-08,"EHusetTryckeri","Bg-bet. via internet",-2537.00,48374.55
-95,83139,0741326839,"Företagskonto",SEK,2023-02-08,2023-02-08,2023-02-08,"GoGSalladFARAD","Bg-bet. via internet",-8062.00,40312.55
-96,83139,0741326839,"Företagskonto",SEK,2023-02-08,2023-02-08,2023-02-08,"AspiaBetalning","Bg-bet. via internet",-2772.50,37540.05
-97,83139,0741326839,"Företagskonto",SEK,2023-02-09,2023-02-09,2023-02-09,"83139741326862","Överföring via internet",4200.00,41740.05
-98,83139,0741326839,"Företagskonto",SEK,2023-02-10,2023-02-10,2023-02-13,"6428437","Bankgiro inbetalning",595.00,42335.05
-99,83139,0741326839,"Företagskonto",SEK,2023-02-13,2023-02-11,2023-02-11,"83139741326862","Överföring via internet",-49.50,42285.55
-100,83139,0741326839,"Företagskonto",SEK,2023-02-13,2023-02-13,2023-02-13,"Internövföring","Överföring via internet",-20000.00,22285.55
-101,83139,0741326839,"Företagskonto",SEK,2023-02-13,2023-02-13,2023-02-13,"Alkohol tacksitt","Överföring via internet",-3140.40,19145.15
-102,83139,0741326839,"Företagskonto",SEK,2023-02-13,2023-02-13,2023-02-13,"Diverse Tacksitt","Överföring via internet",-188.15,18957.00
-103,83139,0741326839,"Företagskonto",SEK,2023-02-13,2023-02-13,2023-02-13,"83139742551138","Överföring via internet",20000.00,38957.00
-104,83139,0741326839,"Företagskonto",SEK,2023-02-13,2023-02-13,2023-02-13,"+1 sittning Loph","Bg-bet. via internet",-2575.00,36382.00
-105,83139,0741326839,"Företagskonto",SEK,2023-02-13,2023-02-13,2023-02-13,"Tacksittning","Bg-bet. via internet",-10880.00,25502.00
-106,83139,0741326839,"Företagskonto",SEK,2023-02-13,2023-02-13,2023-02-13,"Tillbehör Symask","Bg-bet. via internet",-599.00,24903.00
-107,83139,0741326839,"Företagskonto",SEK,2023-02-13,2023-02-13,2023-02-13,"Symaskiner","Bg-bet. via internet",-5580.00,19323.00
-108,83139,0741326839,"Företagskonto",SEK,2023-02-13,2023-02-13,2023-02-13,"Släpp Lophtet","Bg-bet. via internet",-2400.00,16923.00
-109,83139,0741326839,"Företagskonto",SEK,2023-02-13,2023-02-13,2023-02-13,"Bussar FlyING","Bg-bet. via internet",-11560.00,5363.00
-110,83139,0741326839,"Företagskonto",SEK,2023-02-13,2023-02-13,2023-02-13,"Tryckeri","Bg-bet. via internet",-1832.00,3531.00
-111,83139,0741326839,"Företagskonto",SEK,2023-02-13,2023-02-13,2023-02-14,"6428437","Bankgiro inbetalning",800.00,4331.00
-112,83139,0741326839,"Företagskonto",SEK,2023-02-14,2023-02-14,2023-02-14,"LedningsskifteMa","Överföring via internet",-396.00,3935.00
-113,83139,0741326839,"Företagskonto",SEK,2023-02-14,2023-02-14,2023-02-14,"Farad","Överföring via internet",-42.90,3892.10
-114,83139,0741326839,"Företagskonto",SEK,2023-02-14,2023-02-14,2023-02-14,"KakorHTF","Överföring via internet",-46.50,3845.60
-115,83139,0741326839,"Företagskonto",SEK,2023-02-14,2023-02-14,2023-02-14,"Intervjumat","Överföring via internet",-85.00,3760.60
-116,83139,0741326839,"Företagskonto",SEK,2023-02-14,2023-02-14,2023-02-14,"Ceq Tävlingspris","Överföring via internet",-1200.00,2560.60
-117,83139,0741326839,"Företagskonto",SEK,2023-02-14,2023-02-14,2023-02-14,"Farad","Överföring via internet",-1938.69,621.91
-118,83139,0741326839,"Företagskonto",SEK,2023-02-14,2023-02-14,2023-02-14,"Farad","Överföring via internet",-286.42,335.49
-119,83139,0741326839,"Företagskonto",SEK,2023-02-14,2023-02-14,2023-02-14,"Farad","Överföring via internet",-17.90,317.59
-120,83139,0741326839,"Företagskonto",SEK,2023-02-14,2023-02-14,2023-02-14,"LedningsskifteMa","Överföring via internet",-251.20,66.39
-121,83139,0741326839,"Företagskonto",SEK,2023-02-14,2023-02-14,2023-02-14,"Farad","Överföring via internet",-565.00,-498.61
-122,83139,0741326839,"Företagskonto",SEK,2023-02-14,2023-02-14,2023-02-15,"6428437","Bankgiro inbetalning",4500.00,4001.39
-123,83139,0741326839,"Företagskonto",SEK,2023-02-16,2023-02-16,2023-02-17,"6428437","Bankgiro inbetalning",390.00,4391.39
-124,83139,0741326839,"Företagskonto",SEK,2023-02-17,2023-02-17,2023-02-17,"Bokföringsmat","Överföring via internet",-85.00,4306.39
-125,83139,0741326839,"Företagskonto",SEK,2023-02-17,2023-02-17,2023-02-17,"Alkohol KMtack","Överföring via internet",-3933.40,372.99
-126,83139,0741326839,"Företagskonto",SEK,2023-02-17,2023-02-17,2023-02-17,"Internöverföring","Överföring via internet",30000.00,30372.99
-127,83139,0741326839,"Företagskonto",SEK,2023-02-17,2023-02-17,2023-02-17,"Milersättning","Överföring via internet",-203.50,30169.49
-128,83139,0741326839,"Företagskonto",SEK,2023-02-17,2023-02-17,2023-02-17,"83139742551138","Överföring via internet",20000.00,50169.49
-129,83139,0741326839,"Företagskonto",SEK,2023-02-17,2023-02-17,2023-02-17,"FARAD","Överföring via internet",-2705.81,47463.68
-130,83139,0741326839,"Företagskonto",SEK,2023-02-17,2023-02-17,2023-02-17,"Bokföringsmat","Överföring via internet",-85.00,47378.68
-131,83139,0741326839,"Företagskonto",SEK,2023-02-17,2023-02-17,2023-02-17,"PingisPriser","Överföring via internet",-84.00,47294.68
-132,83139,0741326839,"Företagskonto",SEK,2023-02-17,2023-02-17,2023-02-17,"Milersättning","Överföring via internet",-185.00,47109.68
-133,83139,0741326839,"Företagskonto",SEK,2023-02-17,2023-02-17,2023-02-17,"83139742551138","Överföring via internet",30000.00,77109.68
-134,83139,0741326839,"Företagskonto",SEK,2023-02-17,2023-02-17,2023-02-17,"Revisormat","Överföring via internet",-170.00,76939.68
-135,83139,0741326839,"Företagskonto",SEK,2023-02-17,2023-02-17,2023-02-17,"Donation Regnbåg","Överföring via internet",-1735.50,75204.18
-136,83139,0741326839,"Företagskonto",SEK,2023-02-17,2023-02-17,2023-02-17,"AnmälanVolleybol","Pg-bet. via internet",-1300.00,73904.18
-137,83139,0741326839,"Företagskonto",SEK,2023-02-17,2023-02-17,2023-02-17,"AnmälanFotboll","Pg-bet. via internet",-1600.00,72304.18
-138,83139,0741326839,"Företagskonto",SEK,2023-02-17,2023-02-17,2023-02-17,"Pingisbollar","Pg-bet. via internet",-389.00,71915.18
-139,83139,0741326839,"Företagskonto",SEK,2023-02-17,2023-02-17,2023-02-17,"Utskottstack","Bg-bet. via internet",-26000.00,45915.18
-140,83139,0741326839,"Företagskonto",SEK,2023-02-17,2023-02-17,2023-02-17,"Funktionärstack","Bg-bet. via internet",-36750.00,9165.18
-141,83139,0741326839,"Företagskonto",SEK,2023-02-20,2023-02-18,2023-02-18,"83139741326862","Överföring via internet",-2000.00,7165.18
-142,83139,0741326839,"Företagskonto",SEK,2023-02-20,2023-02-18,2023-02-18,"83139741326862","Överföring via internet",-1000.00,6165.18
-143,83139,0741326839,"Företagskonto",SEK,2023-02-20,2023-02-20,2023-02-20,"83139741326862","Överföring via internet",-2200.00,3965.18
-144,83139,0741326839,"Företagskonto",SEK,2023-02-21,2023-02-21,2023-02-21,"Internöverföring","Överföring via internet",30000.00,33965.18
-145,83139,0741326839,"Företagskonto",SEK,2023-02-22,2023-02-22,2023-02-22,"Arbetskläder FAR","Överföring via internet",-3200.00,30765.18
-146,83139,0741326839,"Företagskonto",SEK,2023-02-22,2023-02-22,2023-02-22,"Intervjumat","Överföring via internet",-150.00,30615.18
-147,83139,0741326839,"Företagskonto",SEK,2023-02-23,2023-02-23,2023-02-23,"Internöverföring","Överföring via internet",-10240.00,20375.18
-148,83139,0741326839,"Företagskonto",SEK,2023-02-24,2023-02-24,2023-02-24,"Internöverföring","Överföring via internet",100000.00,120375.18
-149,83139,0741326839,"Företagskonto",SEK,2023-02-24,2023-02-24,2023-02-24,"83139741326862","Överföring via internet",-15000.00,105375.18
-150,83139,0741326839,"Företagskonto",SEK,2023-02-24,2023-02-24,2023-02-24,"83139741326862","Överföring via internet",-17000.00,88375.18
-151,83139,0741326839,"Företagskonto",SEK,2023-02-27,2023-02-27,2023-02-27,"Pingisbordsfrakt","Överföring via internet",-66.60,88308.58
-152,83139,0741326839,"Företagskonto",SEK,2023-02-27,2023-02-27,2023-02-27,"Svetshandskar","Överföring via internet",-119.00,88189.58
-153,83139,0741326839,"Företagskonto",SEK,2023-02-27,2023-02-27,2023-02-27,"Svetsförkläde","Överföring via internet",-499.00,87690.58
-154,83139,0741326839,"Företagskonto",SEK,2023-02-27,2023-02-27,2023-02-27,"Svetshjälm","Överföring via internet",-250.00,87440.58
-155,83139,0741326839,"Företagskonto",SEK,2023-02-27,2023-02-27,2023-02-27,"CEQ-mat","Överföring via internet",-61.00,87379.58
-156,83139,0741326839,"Företagskonto",SEK,2023-02-27,2023-02-27,2023-02-27,"Carrom bräde","Överföring via internet",-1244.80,86134.78
-157,83139,0741326839,"Företagskonto",SEK,2023-02-27,2023-02-27,2023-02-27,"FNU Kick Off","Överföring via internet",-380.56,85754.22
-158,83139,0741326839,"Företagskonto",SEK,2023-02-27,2023-02-27,2023-02-27,"Sexet Brodyr","Bg-bet. via internet",-7237.50,78516.72
-159,83139,0741326839,"Företagskonto",SEK,2023-02-27,2023-02-27,2023-02-28,"6428437","Bankgiro inbetalning",590.00,79106.72
-160,83139,0741326839,"Företagskonto",SEK,2023-02-28,2023-02-28,2023-02-28,"Intervjumat","Överföring via internet",-82.00,79024.72
-161,83139,0741326839,"Företagskonto",SEK,2023-02-28,2023-02-28,2023-02-28,"Intervjumat","Överföring via internet",-76.00,78948.72
-162,83139,0741326839,"Företagskonto",SEK,2023-02-28,2023-02-28,2023-02-28,"Intervjumat","Överföring via internet",-68.00,78880.72
-163,83139,0741326839,"Företagskonto",SEK,2023-02-28,2023-02-28,2023-02-28,"Intervjumat","Överföring via internet",-85.00,78795.72
-164,83139,0741326839,"Företagskonto",SEK,2023-02-28,2023-02-28,2023-02-28,"Intervjumat","Överföring via internet",-255.00,78540.72
-165,83139,0741326839,"Företagskonto",SEK,2023-02-28,2023-02-28,2023-02-28,"Intervjumat","Överföring via internet",-85.00,78455.72
-166,83139,0741326839,"Företagskonto",SEK,2023-02-28,2023-02-28,2023-02-28,"Intervjumat","Överföring via internet",-170.00,78285.72
-167,83139,0741326839,"Företagskonto",SEK,2023-02-28,2023-02-28,2023-02-28,"Intervjumat","Överföring via internet",-85.00,78200.72
-168,83139,0741326839,"Företagskonto",SEK,2023-02-28,2023-02-28,2023-02-28,"Intervjumat","Överföring via internet",-85.00,78115.72
-169,83139,0741326839,"Företagskonto",SEK,2023-02-28,2023-02-28,2023-02-28,"Intervjumat","Överföring via internet",-80.00,78035.72
-170,83139,0741326839,"Företagskonto",SEK,2023-02-28,2023-02-28,2023-02-28,"Intervjumat","Överföring via internet",-73.00,77962.72
-171,83139,0741326839,"Företagskonto",SEK,2023-02-28,2023-02-28,2023-02-28,"Intervjumat","Överföring via internet",-82.00,77880.72
-172,83139,0741326839,"Företagskonto",SEK,2023-02-28,2023-02-28,2023-02-28,"Intervjumat","Överföring via internet",-80.00,77800.72
-173,83139,0741326839,"Företagskonto",SEK,2023-02-28,2023-02-28,2023-02-28,"Intervjumat","Överföring via internet",-72.00,77728.72
-174,83139,0741326839,"Företagskonto",SEK,2023-02-28,2023-02-28,2023-03-01,"6428437","Bankgiro inbetalning",225.00,77953.72
-175,83139,0741326839,"Företagskonto",SEK,2023-03-01,2023-03-01,2023-03-01,"Intervjumat","Överföring via internet",-68.80,77884.92
-176,83139,0741326839,"Företagskonto",SEK,2023-03-01,2023-03-01,2023-03-01,"Intervjumat","Överföring via internet",-57.53,77827.39
-177,83139,0741326839,"Företagskonto",SEK,2023-03-01,2023-03-01,2023-03-01,"Intervjumat","Överföring via internet",-80.00,77747.39
-178,83139,0741326839,"Företagskonto",SEK,2023-03-01,2023-03-01,2023-03-01,"Intervjumat","Överföring via internet",-80.00,77667.39
-179,83139,0741326839,"Företagskonto",SEK,2023-03-01,2023-03-01,2023-03-02,"6428437","Bankgiro inbetalning",450.00,78117.39
-180,83139,0741326839,"Företagskonto",SEK,2023-03-02,2023-03-02,2023-03-03,"6428437","Bankgiro inbetalning",2000.00,80117.39
-181,83139,0741326839,"Företagskonto",SEK,2023-03-03,2023-03-03,2023-03-03,"Betalning Domän","Bg-bet. via internet",-236.25,79881.14
-182,83139,0741326839,"Företagskonto",SEK,2023-03-03,2023-03-03,2023-03-06,"6428437","Bankgiro inbetalning",133.00,80014.14
-183,83139,0741326839,"Företagskonto",SEK,2023-03-06,2023-03-06,2023-03-07,"6428437","Bankgiro inbetalning",20000.00,100014.14
-184,83139,0741326839,"Företagskonto",SEK,2023-03-07,2023-03-07,2023-03-08,"6428437","Bankgiro inbetalning",556.32,100570.46
-185,83139,0741326839,"Företagskonto",SEK,2023-03-08,2023-03-08,2023-03-08,"Revisorsmat","Överföring via internet",-85.00,100485.46
-186,83139,0741326839,"Företagskonto",SEK,2023-03-08,2023-03-08,2023-03-08,"Farad Märken","Överföring via internet",-1246.00,99239.46
-187,83139,0741326839,"Företagskonto",SEK,2023-03-08,2023-03-08,2023-03-08,"Ljus","Överföring via internet",-114.75,99124.71
-188,83139,0741326839,"Företagskonto",SEK,2023-03-08,2023-03-08,2023-03-08,"Revisorsmat","Överföring via internet",-170.00,98954.71
-189,83139,0741326839,"Företagskonto",SEK,2023-03-08,2023-03-08,2023-03-08,"Klubbor","Överföring via internet",-150.00,98804.71
-190,83139,0741326839,"Företagskonto",SEK,2023-03-08,2023-03-08,2023-03-08,"code sprint mat","Överföring via internet",-834.00,97970.71
-191,83139,0741326839,"Företagskonto",SEK,2023-03-08,2023-03-08,2023-03-08,"Milersättning","Överföring via internet",-185.00,97785.71
-192,83139,0741326839,"Företagskonto",SEK,2023-03-08,2023-03-08,2023-03-08,"@1337 Fika","Överföring via internet",-104.70,97681.01
-193,83139,0741326839,"Företagskonto",SEK,2023-03-08,2023-03-08,2023-03-08,"K sek Present","Överföring via internet",-399.00,97282.01
-194,83139,0741326839,"Företagskonto",SEK,2023-03-08,2023-03-08,2023-03-08,"Tandem","Överföring via internet",-3500.00,93782.01
-195,83139,0741326839,"Företagskonto",SEK,2023-03-08,2023-03-08,2023-03-08,"Transformator","Överföring via internet",-2627.00,91155.01
-196,83139,0741326839,"Företagskonto",SEK,2023-03-08,2023-03-08,2023-03-08,"Bokföringsmat","Överföring via internet",-85.00,91070.01
-197,83139,0741326839,"Företagskonto",SEK,2023-03-08,2023-03-08,2023-03-08,"Revisorsmat","Överföring via internet",-64.00,91006.01
-198,83139,0741326839,"Företagskonto",SEK,2023-03-08,2023-03-08,2023-03-08,"godis smurf","Överföring via internet",-279.33,90726.68
-199,83139,0741326839,"Företagskonto",SEK,2023-03-08,2023-03-08,2023-03-08,"Revisorsmat","Överföring via internet",-84.70,90641.98
-200,83139,0741326839,"Företagskonto",SEK,2023-03-08,2023-03-08,2023-03-08,"Mikrofoner","Bg-bet. via internet",-5000.00,85641.98
-201,83139,0741326839,"Företagskonto",SEK,2023-03-08,2023-03-08,2023-03-08,"Farad Mattor","Bg-bet. via internet",-2100.00,83541.98
-202,83139,0741326839,"Företagskonto",SEK,2023-03-08,2023-03-08,2023-03-08,"Farad Parkering","Bg-bet. via internet",-120.00,83421.98
-203,83139,0741326839,"Företagskonto",SEK,2023-03-08,2023-03-08,2023-03-08,"EHusetTryckeri","Bg-bet. via internet",-403.00,83018.98
-204,83139,0741326839,"Företagskonto",SEK,2023-03-08,2023-03-08,2023-03-09,"6428437","Bankgiro inbetalning",57.06,83076.04
-205,83139,0741326839,"Företagskonto",SEK,2023-03-10,2023-03-10,2023-03-13,"6428437","Bankgiro inbetalning",4590.00,87666.04
-206,83139,0741326839,"Företagskonto",SEK,2023-03-13,2023-03-13,2023-03-14,"1022303130010591","Internationell bet",4000.00,91666.04
-207,83139,0741326839,"Företagskonto",SEK,2023-03-13,2023-03-13,2023-03-13,"1022303130010591","Pris avisering",-10.00,91656.04
-208,83139,0741326839,"Företagskonto",SEK,2023-03-13,2023-03-13,2023-03-14,"6428437","Bankgiro inbetalning",175.00,91831.04
-209,83139,0741326839,"Företagskonto",SEK,2023-03-15,2023-03-15,2023-03-16,"6428437","Bankgiro inbetalning",270.00,92101.04
-210,83139,0741326839,"Företagskonto",SEK,2023-03-20,2023-03-20,2023-03-20,"Internövföring","Överföring via internet",-7000.00,85101.04
-211,83139,0741326839,"Företagskonto",SEK,2023-03-20,2023-03-20,2023-03-20,"Internöverföring","Överföring via internet",12689.00,97790.04
-212,83139,0741326839,"Företagskonto",SEK,2023-03-21,2023-03-21,2023-03-21,"Bokföringsmat","Överföring via internet",-85.00,97705.04
-213,83139,0741326839,"Företagskonto",SEK,2023-03-21,2023-03-21,2023-03-21,"Parkering","Överföring via internet",-143.00,97562.04
-214,83139,0741326839,"Företagskonto",SEK,2023-03-21,2023-03-21,2023-03-21,"Bokföringsmat","Överföring via internet",-80.00,97482.04
-215,83139,0741326839,"Företagskonto",SEK,2023-03-21,2023-03-21,2023-03-21,"Revisormat","Överföring via internet",-170.00,97312.04
-216,83139,0741326839,"Företagskonto",SEK,2023-03-21,2023-03-21,2023-03-21,"CykelSaker","Överföring via internet",-958.20,96353.84
-217,83139,0741326839,"Företagskonto",SEK,2023-03-21,2023-03-21,2023-03-21,"Farad Bord o Sto","Bg-bet. via internet",-13238.00,83115.84
-218,83139,0741326839,"Företagskonto",SEK,2023-03-21,2023-03-21,2023-03-21,"Fordonsskatt","Bg-bet. via internet",-1733.00,81382.84
-219,83139,0741326839,"Företagskonto",SEK,2023-03-22,2023-03-22,2023-03-22,"Intervjumat","Överföring via internet",-85.00,81297.84
-220,83139,0741326839,"Företagskonto",SEK,2023-03-22,2023-03-22,2023-03-22,"Intervjumat","Överföring via internet",-85.00,81212.84
-221,83139,0741326839,"Företagskonto",SEK,2023-03-22,2023-03-22,2023-03-22,"Intervjumat","Överföring via internet",-255.00,80957.84
-222,83139,0741326839,"Företagskonto",SEK,2023-03-22,2023-03-22,2023-03-22,"Intervjumat","Överföring via internet",-85.00,80872.84
-223,83139,0741326839,"Företagskonto",SEK,2023-03-22,2023-03-22,2023-03-22,"Intervjumat","Överföring via internet",-170.00,80702.84
-224,83139,0741326839,"Företagskonto",SEK,2023-03-22,2023-03-22,2023-03-22,"Intervjumat","Överföring via internet",-170.00,80532.84
-225,83139,0741326839,"Företagskonto",SEK,2023-03-22,2023-03-22,2023-03-22,"Intervjumat","Överföring via internet",-85.00,80447.84
-226,83139,0741326839,"Företagskonto",SEK,2023-03-22,2023-03-22,2023-03-22,"Intervjumat","Överföring via internet",-170.00,80277.84
-227,83139,0741326839,"Företagskonto",SEK,2023-03-22,2023-03-22,2023-03-22,"Intervjumat","Överföring via internet",-170.00,80107.84
-228,83139,0741326839,"Företagskonto",SEK,2023-03-24,2023-03-24,2023-03-24,"Betalning Fotbol","Pg-bet. via internet",-1500.00,78607.84
-229,83139,0741326839,"Företagskonto",SEK,2023-03-27,2023-03-25,2023-03-25,"83139741326870","Överföring via internet",-15000.00,63607.84
-230,83139,0741326839,"Företagskonto",SEK,2023-03-27,2023-03-27,2023-03-28,"6428437","Bankgiro inbetalning",510.00,64117.84
-231,83139,0741326839,"Företagskonto",SEK,2023-03-28,2023-03-28,2023-03-28,"83139741326862","Överföring via internet",-7500.00,56617.84
-232,83139,0741326839,"Företagskonto",SEK,2023-03-29,2023-03-29,2023-03-29,"Internöverföring","Överföring via internet",-17000.00,39617.84
-233,83139,0741326839,"Företagskonto",SEK,2023-03-29,2023-03-29,2023-03-30,"6428437","Bankgiro inbetalning",195.00,39812.84
-234,83139,0741326839,"Företagskonto",SEK,2023-03-30,2023-03-30,2023-03-30,"Revisormat","Överföring via internet",-170.00,39642.84
-235,83139,0741326839,"Företagskonto",SEK,2023-03-30,2023-03-30,2023-03-30,"Mat till Proposi","Överföring via internet",-85.00,39557.84
-236,83139,0741326839,"Företagskonto",SEK,2023-03-30,2023-03-30,2023-03-30,"Fika Likabehandl","Överföring via internet",-494.80,39063.04
-237,83139,0741326839,"Företagskonto",SEK,2023-03-30,2023-03-30,2023-03-30,"Mat till protoko","Överföring via internet",-571.00,38492.04
-238,83139,0741326839,"Företagskonto",SEK,2023-03-30,2023-03-30,2023-03-30,"Syjunta Material","Överföring via internet",-298.00,38194.04
-239,83139,0741326839,"Företagskonto",SEK,2023-03-30,2023-03-30,2023-03-30,"Revisormat","Överföring via internet",-84.70,38109.34
-240,83139,0741326839,"Företagskonto",SEK,2023-03-30,2023-03-30,2023-03-30,"Bokföringsmat","Överföring via internet",-85.00,38024.34
-241,83139,0741326839,"Företagskonto",SEK,2023-03-30,2023-03-30,2023-03-30,"Fika Likabehandl","Överföring via internet",-311.40,37712.94
-242,83139,0741326839,"Företagskonto",SEK,2023-03-30,2023-03-30,2023-03-30,"Vontänen Släpp","Överföring via internet",-79.00,37633.94
-243,83139,0741326839,"Företagskonto",SEK,2023-03-30,2023-03-30,2023-03-30,"Värdtack FARAD","Överföring via internet",-518.10,37115.84
-244,83139,0741326839,"Företagskonto",SEK,2023-03-30,2023-03-30,2023-03-30,"Revisormat","Överföring via internet",-61.00,37054.84
-245,83139,0741326839,"Företagskonto",SEK,2023-03-30,2023-03-30,2023-03-30,"Medaljutdelning","Överföring via internet",-396.00,36658.84
-246,83139,0741326839,"Företagskonto",SEK,2023-03-30,2023-03-30,2023-03-30,"Mat till Proposi","Överföring via internet",-425.00,36233.84
-247,83139,0741326839,"Företagskonto",SEK,2023-03-30,2023-03-30,2023-03-30,"Mat till Proposi","Överföring via internet",-85.00,36148.84
-248,83139,0741326839,"Företagskonto",SEK,2023-03-30,2023-03-30,2023-03-30,"Buss Ölreise","Bg-bet. via internet",-10995.00,25153.84
-249,83139,0741326839,"Företagskonto",SEK,2023-03-30,2023-03-30,2023-03-30,"Betalning Saft 2","Bg-bet. via internet",-398.00,24755.84
-250,83139,0741326839,"Företagskonto",SEK,2023-04-03,2023-04-03,2023-04-03,"83139741326862","Överföring via internet",-1.00,24754.84
-251,83139,0741326839,"Företagskonto",SEK,2023-04-03,2023-04-03,2023-04-04,"6428437","Bankgiro inbetalning",100.00,24854.84
-252,83139,0741326839,"Företagskonto",SEK,2023-04-11,2023-04-11,2023-04-11,"Hoppborg Skvalbo","Bg-bet. via internet",-2500.00,22354.84
-253,83139,0741326839,"Företagskonto",SEK,2023-04-11,2023-04-11,2023-04-11,"Tryckerikostnade","Bg-bet. via internet",-1882.00,20472.84
-254,83139,0741326839,"Företagskonto",SEK,2023-04-11,2023-04-11,2023-04-11,"Förköp ÖG Fadder","Bg-bet. via internet",-7800.00,12672.84
-255,83139,0741326839,"Företagskonto",SEK,2023-04-11,2023-04-11,2023-04-12,"6428437","Bankgiro inbetalning",20000.00,32672.84
-256,83139,0741326839,"Företagskonto",SEK,2023-04-12,2023-04-12,2023-04-12,"83139741326862","Överföring via internet",-1400.00,31272.84
-257,83139,0741326839,"Företagskonto",SEK,2023-04-18,2023-04-18,2023-04-19,"6428437","Bankgiro inbetalning",150.00,31422.84
-258,83139,0741326839,"Företagskonto",SEK,2023-04-20,2023-04-20,2023-04-21,"6428437","Bankgiro inbetalning",134075.00,165497.84
-259,83139,0741326839,"Företagskonto",SEK,2023-04-21,2023-04-21,2023-04-21,"Återbetalning Fa","Överföring via internet",-250.00,165247.84
-260,83139,0741326839,"Företagskonto",SEK,2023-04-24,2023-04-24,2023-04-24,"83139741326862","Överföring via internet",-5000.00,160247.84
-261,83139,0741326839,"Företagskonto",SEK,2023-04-25,2023-04-25,2023-04-25,"83139741326862","Överföring via internet",-4000.00,156247.84
-262,83139,0741326839,"Företagskonto",SEK,2023-04-26,2023-04-26,2023-04-27,"6428437","Bankgiro inbetalning",50.00,156297.84
-263,83139,0741326839,"Företagskonto",SEK,2023-04-28,2023-04-28,2023-04-28,"Internöverföring","Överföring via internet",-4400.00,151897.84
-264,83139,0741326839,"Företagskonto",SEK,2023-04-28,2023-04-28,2023-05-02,"1022304280018262","Internationell bet",18000.00,169897.84
-265,83139,0741326839,"Företagskonto",SEK,2023-04-28,2023-04-28,2023-04-28,"1022304280018262","Pris avisering",-10.00,169887.84
-266,83139,0741326839,"Företagskonto",SEK,2023-05-02,2023-04-29,2023-04-29,"Wii","Överföring via internet",-600.00,169287.84
-267,83139,0741326839,"Företagskonto",SEK,2023-05-02,2023-04-29,2023-04-29,"MötesMat","Överföring via internet",-510.00,168777.84
-268,83139,0741326839,"Företagskonto",SEK,2023-05-02,2023-04-29,2023-04-29,"VonTänen","Överföring via internet",-20.90,168756.94
-269,83139,0741326839,"Företagskonto",SEK,2023-05-02,2023-04-29,2023-04-29,"CEQ-pris","Överföring via internet",-1200.00,167556.94
-270,83139,0741326839,"Företagskonto",SEK,2023-05-02,2023-04-29,2023-04-29,"CykelPump","Överföring via internet",-129.00,167427.94
-271,83139,0741326839,"Företagskonto",SEK,2023-05-02,2023-04-29,2023-04-29,"Värd tack","Överföring via internet",-657.55,166770.39
-272,83139,0741326839,"Företagskonto",SEK,2023-05-02,2023-04-29,2023-04-29,"Tv fot","Överföring via internet",-187.09,166583.30
-273,83139,0741326839,"Företagskonto",SEK,2023-05-02,2023-04-29,2023-04-29,"VonTänen Testar","Överföring via internet",-100.00,166483.30
-274,83139,0741326839,"Företagskonto",SEK,2023-05-02,2023-04-29,2023-04-29,"Tandemutrustning","Överföring via internet",-1470.80,165012.50
-275,83139,0741326839,"Företagskonto",SEK,2023-05-02,2023-04-29,2023-04-29,"Värd Tack","Överföring via internet",-592.00,164420.50
-276,83139,0741326839,"Företagskonto",SEK,2023-05-02,2023-04-29,2023-04-29,"Värd Tack","Överföring via internet",-531.00,163889.50
-277,83139,0741326839,"Företagskonto",SEK,2023-05-02,2023-04-29,2023-04-29,"Klättring","Överföring via internet",-800.00,163089.50
-278,83139,0741326839,"Företagskonto",SEK,2023-05-02,2023-04-29,2023-04-29,"Sprayfärg","Överföring via internet",-149.80,162939.70
-279,83139,0741326839,"Företagskonto",SEK,2023-05-02,2023-04-29,2023-04-29,"ledningsSkål","Överföring via internet",-342.00,162597.70
-280,83139,0741326839,"Företagskonto",SEK,2023-05-02,2023-04-29,2023-04-29,"Wii Inköp","Överföring via internet",-843.00,161754.70
-281,83139,0741326839,"Företagskonto",SEK,2023-05-02,2023-04-29,2023-04-29,"Present ING","Överföring via internet",-75.90,161678.80
-282,83139,0741326839,"Företagskonto",SEK,2023-05-02,2023-04-29,2023-04-29,"Batterier 1","Bg-bet. via internet",-1348.00,160330.80
-283,83139,0741326839,"Företagskonto",SEK,2023-05-02,2023-04-29,2023-04-29,"Batterier 2","Bg-bet. via internet",-1607.00,158723.80
-284,83139,0741326839,"Företagskonto",SEK,2023-05-02,2023-04-29,2023-04-29,"Arbetskläder FNU","Bg-bet. via internet",-4897.00,153826.80
-285,83139,0741326839,"Företagskonto",SEK,2023-05-02,2023-04-29,2023-04-29,"Livsmedelskontro","Bg-bet. via internet",-2674.00,151152.80
-286,83139,0741326839,"Företagskonto",SEK,2023-05-02,2023-04-29,2023-04-29,"Lokalhyra Skifte","Bg-bet. via internet",-14631.00,136521.80
-287,83139,0741326839,"Företagskonto",SEK,2023-05-02,2023-04-29,2023-04-29,"Kontorsmaterial","Bg-bet. via internet",-3816.00,132705.80
-288,83139,0741326839,"Företagskonto",SEK,2023-05-02,2023-05-02,2023-05-02,"83139741326862","Överföring via internet",-2000.00,130705.80
-289,83139,0741326839,"Företagskonto",SEK,2023-05-03,2023-05-03,2023-05-03,"83139741326862","Överföring via internet",-19000.00,111705.80
-290,83139,0741326839,"Företagskonto",SEK,2023-05-08,2023-05-07,2023-05-07,"83139741326862","Överföring via internet",-17000.00,94705.80
-291,83139,0741326839,"Företagskonto",SEK,2023-05-09,2023-05-09,2023-05-09,"83139741326862","Överföring via internet",-40000.00,54705.80
-292,83139,0741326839,"Företagskonto",SEK,2023-05-09,2023-05-09,2023-05-09,"83139741326862","Överföring via internet",-2000.00,52705.80
-293,83139,0741326839,"Företagskonto",SEK,2023-05-09,2023-05-09,2023-05-10,"6428437","Bankgiro inbetalning",25000.00,77705.80
-294,83139,0741326839,"Företagskonto",SEK,2023-05-10,2023-05-10,2023-05-10,"83139741326862","Överföring via internet",-6000.00,71705.80
-295,83139,0741326839,"Företagskonto",SEK,2023-05-10,2023-05-09,2023-05-09,"83139741326862","Överföring via internet",-4000.00,67705.80
-296,83139,0741326839,"Företagskonto",SEK,2023-05-15,2023-05-15,2023-05-15,"Hallon Tandem","Bg-bet. via internet",-210.00,67495.80
-297,83139,0741326839,"Företagskonto",SEK,2023-05-15,2023-05-15,2023-05-15,"Tryckerikostnade","Bg-bet. via internet",-135.13,67360.67
-298,83139,0741326839,"Företagskonto",SEK,2023-05-15,2023-05-15,2023-05-15,"Bokslut + annat","Bg-bet. via internet",-18225.00,49135.67
-299,83139,0741326839,"Företagskonto",SEK,2023-05-15,2023-05-15,2023-05-15,"Backvagnar (igen","Bg-bet. via internet",-10350.00,38785.67
-300,83139,0741326839,"Företagskonto",SEK,2023-05-16,2023-05-15,2023-05-15,"83139741326862","Överföring via internet",23000.00,61785.67
-301,83139,0741326839,"Företagskonto",SEK,2023-05-16,2023-05-16,2023-05-16,"Internöverföring","Överföring via internet",-5863.59,55922.08
-302,83139,0741326839,"Företagskonto",SEK,2023-05-16,2023-05-16,2023-05-16,"Hoodies Studierå","Bg-bet. via internet",-2476.00,53446.08
-303,83139,0741326839,"Företagskonto",SEK,2023-05-16,2023-05-16,2023-05-17,"6428437","Bankgiro inbetalning",1400.00,54846.08
-304,83139,0741326839,"Företagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Syjunta","Överföring via internet",-55.00,54791.08
-305,83139,0741326839,"Företagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Bokföringsmat","Överföring via internet",-85.00,54706.08
-306,83139,0741326839,"Företagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Städ artiklar","Överföring via internet",-123.80,54582.28
-307,83139,0741326839,"Företagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"NyckelDep","Överföring via internet",-300.00,54282.28
-308,83139,0741326839,"Företagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Laga NyckDep","Överföring via internet",-300.00,53982.28
-309,83139,0741326839,"Företagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Syjunta","Överföring via internet",-161.00,53821.28
-310,83139,0741326839,"Företagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Revisormat","Överföring via internet",-85.00,53736.28
-311,83139,0741326839,"Företagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"NyckelDep","Överföring via internet",-300.00,53436.28
-312,83139,0741326839,"Företagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Laga NyckDep","Överföring via internet",-300.00,53136.28
-313,83139,0741326839,"Företagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"NyckelDep","Överföring via internet",-300.00,52836.28
-314,83139,0741326839,"Företagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Laga NyckDep","Överföring via internet",-300.00,52536.28
-315,83139,0741326839,"Företagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"NyckelDep","Överföring via internet",-500.00,52036.28
-316,83139,0741326839,"Företagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Bågfil","Överföring via internet",-129.00,51907.28
-317,83139,0741326839,"Företagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"NyckelDep","Överföring via internet",-300.00,51607.28
-318,83139,0741326839,"Företagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Kontorsmaterial","Överföring via internet",-298.00,51309.28
-319,83139,0741326839,"Företagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"NyckelDep","Överföring via internet",-300.00,51009.28
-320,83139,0741326839,"Företagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Laga NyckDep","Överföring via internet",-300.00,50709.28
-321,83139,0741326839,"Företagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Laga NyckDep","Överföring via internet",-300.00,50409.28
-322,83139,0741326839,"Företagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Syjunta","Överföring via internet",-203.00,50206.28
-323,83139,0741326839,"Företagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"NyckelDep","Överföring via internet",-300.00,49906.28
-324,83139,0741326839,"Företagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Kontorsmaterial","Överföring via internet",-20.00,49886.28
-325,83139,0741326839,"Företagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Laga NyckDep","Överföring via internet",-300.00,49586.28
-326,83139,0741326839,"Företagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Nyckel Depositio","Överföring via internet",-300.00,49286.28
-327,83139,0741326839,"Företagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"NyckelDep","Överföring via internet",-500.00,48786.28
-328,83139,0741326839,"Företagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Intervjumat","Överföring via internet",-170.00,48616.28
-329,83139,0741326839,"Företagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"CeqPris","Överföring via internet",-1200.00,47416.28
-330,83139,0741326839,"Företagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Diesel","Överföring via internet",-1192.11,46224.17
-331,83139,0741326839,"Företagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Laga NyckDep","Överföring via internet",-500.00,45724.17
-332,83139,0741326839,"Företagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Laga NyckDep","Överföring via internet",-300.00,45424.17
-333,83139,0741326839,"Företagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Blommor IKEA","Överföring via internet",-300.00,45124.17
-334,83139,0741326839,"Företagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Revisormat","Överföring via internet",-85.00,45039.17
-335,83139,0741326839,"Företagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Städartiklar","Överföring via internet",-171.80,44867.37
-336,83139,0741326839,"Företagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Laga NyckDep","Överföring via internet",-300.00,44567.37
-337,83139,0741326839,"Företagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Saft Deltagareav","Bg-bet. via internet",-3750.00,40817.37
-338,83139,0741326839,"Företagskonto",SEK,2023-05-17,2023-05-17,2023-05-19,"6428437","Bankgiro inbetalning",26765.00,67582.37
-339,83139,0741326839,"Företagskonto",SEK,2023-05-19,2023-05-18,2023-05-18,"Intervjumat","Överföring via internet",-255.00,67327.37
-340,83139,0741326839,"Företagskonto",SEK,2023-05-23,2023-05-23,2023-05-23,"83139741326862","Överföring via internet",-14800.00,52527.37
-341,83139,0741326839,"Företagskonto",SEK,2023-05-30,2023-05-30,2023-06-01,"6428437","Bankgiro inbetalning",1276.00,53803.37
-342,83139,0741326839,"Företagskonto",SEK,2023-05-31,2023-05-31,2023-05-30,"83139741326862","Överföring via internet",-6000.00,47803.37
-343,83139,0741326839,"Företagskonto",SEK,2023-06-02,2023-06-02,2023-06-05,"6428437","Bankgiro inbetalning",23000.00,70803.37
-344,83139,0741326839,"Företagskonto",SEK,2023-06-05,2023-06-03,2023-06-03,"Intervjumat","Överföring via internet",-164.00,70639.37
-345,83139,0741326839,"Företagskonto",SEK,2023-06-05,2023-06-03,2023-06-03,"Outfit","Överföring via internet",-1869.00,68770.37
-346,83139,0741326839,"Företagskonto",SEK,2023-06-05,2023-06-03,2023-06-03,"Outfit","Överföring via internet",-159.90,68610.47
-347,83139,0741326839,"Företagskonto",SEK,2023-06-05,2023-06-03,2023-06-03,"Deisel","Överföring via internet",-393.20,68217.27
-348,83139,0741326839,"Företagskonto",SEK,2023-06-05,2023-06-03,2023-06-03,"Outfit","Överföring via internet",-50.00,68167.27
-349,83139,0741326839,"Företagskonto",SEK,2023-06-05,2023-06-03,2023-06-03,"Klättring","Överföring via internet",-800.00,67367.27
-350,83139,0741326839,"Företagskonto",SEK,2023-06-05,2023-06-03,2023-06-03,"Outfit","Överföring via internet",-178.50,67188.77
-351,83139,0741326839,"Företagskonto",SEK,2023-06-05,2023-06-03,2023-06-03,"Vårskål","Överföring via internet",-224.70,66964.07
-352,83139,0741326839,"Företagskonto",SEK,2023-06-05,2023-06-03,2023-06-03,"Tandem","Överföring via internet",-89.80,66874.27
-353,83139,0741326839,"Företagskonto",SEK,2023-06-05,2023-06-03,2023-06-03,"Intervju godis","Överföring via internet",-62.68,66811.59
-354,83139,0741326839,"Företagskonto",SEK,2023-06-05,2023-06-03,2023-06-03,"Event Fika","Överföring via internet",-110.50,66701.09
-355,83139,0741326839,"Företagskonto",SEK,2023-06-05,2023-06-03,2023-06-03,"Revisormat","Överföring via internet",-85.00,66616.09
-356,83139,0741326839,"Företagskonto",SEK,2023-06-05,2023-06-03,2023-06-03,"Mat SRF SRpi","Överföring via internet",-133.00,66483.09
-357,83139,0741326839,"Företagskonto",SEK,2023-06-05,2023-06-03,2023-06-03,"Alumnipub","Överföring via internet",-1726.92,64756.17
-358,83139,0741326839,"Företagskonto",SEK,2023-06-05,2023-06-03,2023-06-03,"Event fika","Överföring via internet",-316.00,64440.17
-359,83139,0741326839,"Företagskonto",SEK,2023-06-05,2023-06-03,2023-06-03,"83139741326862","Överföring via internet",-20000.00,44440.17
-360,83139,0741326839,"Företagskonto",SEK,2023-06-07,2023-06-07,2023-06-08,"6428437","Bankgiro inbetalning",585.00,45025.17
-361,83139,0741326839,"Företagskonto",SEK,2023-06-09,2023-06-09,2023-06-09,"83139741326862","Överföring via internet",13076.39,58101.56
-362,83139,0741326839,"Företagskonto",SEK,2023-06-09,2023-06-09,2023-06-09,"Mötesmat Föset","Överföring via internet",-340.00,57761.56
-363,83139,0741326839,"Företagskonto",SEK,2023-06-09,2023-06-09,2023-06-09,"Halsband till Fö","Överföring via internet",-38.00,57723.56
-364,83139,0741326839,"Företagskonto",SEK,2023-06-09,2023-06-09,2023-06-09,"Tyg Mantel Fös-O","Överföring via internet",-42.00,57681.56
-365,83139,0741326839,"Företagskonto",SEK,2023-06-09,2023-06-09,2023-06-09,"Kjol Fös-Outfit","Överföring via internet",-1173.00,56508.56
-366,83139,0741326839,"Företagskonto",SEK,2023-06-09,2023-06-09,2023-06-09,"Mötesmat Föset","Överföring via internet",-461.31,56047.25
-367,83139,0741326839,"Företagskonto",SEK,2023-06-09,2023-06-09,2023-06-09,"Smycken Fös-Outf","Överföring via internet",-208.00,55839.25
-368,83139,0741326839,"Företagskonto",SEK,2023-06-09,2023-06-09,2023-06-09,"Tiara Fös-Outfit","Överföring via internet",-321.00,55518.25
-369,83139,0741326839,"Företagskonto",SEK,2023-06-09,2023-06-09,2023-06-09,"Ringar till Fös-","Överföring via internet",-22.00,55496.25
-370,83139,0741326839,"Företagskonto",SEK,2023-06-09,2023-06-09,2023-06-09,"Skor till Fös-Ou","Överföring via internet",-348.00,55148.25
-371,83139,0741326839,"Företagskonto",SEK,2023-06-09,2023-06-09,2023-06-09,"Skor Fös-Outfit","Överföring via internet",-283.00,54865.25
-372,83139,0741326839,"Företagskonto",SEK,2023-06-09,2023-06-09,2023-06-09,"Glasögon Fös-Out","Överföring via internet",-894.00,53971.25
-373,83139,0741326839,"Företagskonto",SEK,2023-06-09,2023-06-09,2023-06-09,"Klänning Fös-Out","Överföring via internet",-984.50,52986.75
-374,83139,0741326839,"Företagskonto",SEK,2023-06-09,2023-06-09,2023-06-09,"Skor Fös-Outfit","Överföring via internet",-368.50,52618.25
-375,83139,0741326839,"Företagskonto",SEK,2023-06-14,2023-06-14,2023-06-15,"6428437","Bankgiro inbetalning",7801.46,60419.71
-376,83139,0741326839,"Företagskonto",SEK,2023-06-16,2023-06-16,2023-06-16,"Power Banks Tand","Pg-bet. via internet",-1159.80,59259.91
-377,83139,0741326839,"Företagskonto",SEK,2023-06-16,2023-06-16,2023-06-16,"Reise skifte Lop","Bg-bet. via internet",-1250.00,58009.91
-378,83139,0741326839,"Företagskonto",SEK,2023-06-21,2023-06-21,2023-06-22,"6428437","Bankgiro inbetalning",1250.00,59259.91
-379,83139,0741326839,"Företagskonto",SEK,2023-06-22,2023-06-22,2023-06-26,"UF bidrag","Överföring",38400.00,97659.91
-380,83139,0741326839,"Företagskonto",SEK,2023-06-30,2023-06-30,2023-06-30,"Paddel","Bg-bet. via internet",-2765.51,94894.40
-381,83139,0741326839,"Företagskonto",SEK,2023-06-30,2023-06-30,2023-06-30,"Fotoväg","Bg-bet. via internet",-3586.00,91308.40
-382,83139,0741326839,"Företagskonto",SEK,2023-06-30,2023-06-30,2023-06-30,"Ehuset tryckeri","Bg-bet. via internet",-2179.00,89129.40
-383,83139,0741326839,"Företagskonto",SEK,2023-06-30,2023-06-30,2023-06-30,"Mat FNU","Bg-bet. via internet",-7780.00,81349.40
-384,83139,0741326839,"Företagskonto",SEK,2023-07-03,2023-07-03,2023-07-03,"83139741326862","Överföring via internet",-7000.00,74349.40
-385,83139,0741326839,"Företagskonto",SEK,2023-08-08,2023-08-08,2023-08-08,"83139741326847","Överföring via internet",150000.00,224349.40
-386,83139,0741326839,"Företagskonto",SEK,2023-08-09,2023-08-09,2023-08-09,"Lophtet Valborg","Bg-bet. via internet",-2915.00,221434.40
-387,83139,0741326839,"Företagskonto",SEK,2023-08-10,2023-08-10,2023-08-10,"Arbetskläder RM","Överföring via internet",-600.00,220834.40
-388,83139,0741326839,"Företagskonto",SEK,2023-08-10,2023-08-10,2023-08-10,"Ceq mat","Överföring via internet",-170.00,220664.40
-389,83139,0741326839,"Företagskonto",SEK,2023-08-10,2023-08-10,2023-08-10,"Heltidssittning","Överföring via internet",-2000.00,218664.40
-390,83139,0741326839,"Företagskonto",SEK,2023-08-10,2023-08-10,2023-08-10,"Revisormat","Överföring via internet",-170.00,218494.40
-391,83139,0741326839,"Företagskonto",SEK,2023-08-10,2023-08-10,2023-08-10,"Revisormat","Överföring via internet",-84.70,218409.70
-392,83139,0741326839,"Företagskonto",SEK,2023-08-10,2023-08-10,2023-08-10,"Sångböcker","Bg-bet. via internet",-31630.00,186779.70
-393,83139,0741326839,"Företagskonto",SEK,2023-08-10,2023-08-10,2023-08-10,"Alumnipup","Bg-bet. via internet",-2705.00,184074.70
-394,83139,0741326839,"Företagskonto",SEK,2023-08-10,2023-08-10,2023-08-10,"Tandembiljetter","Bg-bet. via internet",-44550.00,139524.70
-395,83139,0741326839,"Företagskonto",SEK,2023-08-10,2023-08-10,2023-08-10,"Skvalborg Teknik","Bg-bet. via internet",-1590.00,137934.70
-396,83139,0741326839,"Företagskonto",SEK,2023-08-10,2023-08-10,2023-08-10,"Uteblivennärvaro","Bg-bet. via internet",-400.00,137534.70
-397,83139,0741326839,"Företagskonto",SEK,2023-08-10,2023-08-10,2023-08-11,"6428437","Bankgiro inbetalning",1000.00,138534.70
-398,83139,0741326839,"Företagskonto",SEK,2023-08-11,2023-08-11,2023-08-11,"Arbetskläder + A","Överföring via internet",-660.70,137874.00
-399,83139,0741326839,"Företagskonto",SEK,2023-08-11,2023-08-11,2023-08-11,"Bokföringsmat","Överföring via internet",-77.00,137797.00
-400,83139,0741326839,"Företagskonto",SEK,2023-08-11,2023-08-11,2023-08-11,"Fordonskatt","Bg-bet. via internet",-1671.00,136126.00
-401,83139,0741326839,"Företagskonto",SEK,2023-08-11,2023-08-11,2023-08-11,"Drönarkörkortsko","Bg-bet. via internet",-135.00,135991.00
-402,83139,0741326839,"Företagskonto",SEK,2023-08-11,2023-08-11,2023-08-11,"Datorryggsäkar F","Bg-bet. via internet",-81046.25,54944.75
-403,83139,0741326839,"Företagskonto",SEK,2023-08-11,2023-08-11,2023-08-11,"Bilförsäkring","Bg-bet. via internet",-1985.00,52959.75
-404,83139,0741326839,"Företagskonto",SEK,2023-08-11,2023-08-11,2023-08-14,"6428437","Bankgiro inbetalning",1300.00,54259.75
-405,83139,0741326839,"Företagskonto",SEK,2023-08-14,2023-08-13,2023-08-13,"83139741326862","Överföring via internet",-210.00,54049.75
-406,83139,0741326839,"Företagskonto",SEK,2023-08-14,2023-08-14,2023-08-15,"6428437","Bankgiro inbetalning",400.00,54449.75
-407,83139,0741326839,"Företagskonto",SEK,2023-08-15,2023-08-15,2023-08-16,"6428437","Bankgiro inbetalning",580.00,55029.75
-408,83139,0741326839,"Företagskonto",SEK,2023-08-16,2023-08-16,2023-08-16,"83139741326862","Överföring via internet",-22000.00,33029.75
-409,83139,0741326839,"Företagskonto",SEK,2023-08-17,2023-08-16,2023-08-16,"83139741326862","Överföring via internet",-5000.00,28029.75
-410,83139,0741326839,"Företagskonto",SEK,2023-08-18,2023-08-18,2023-08-21,"6428437","Bankgiro inbetalning",4500.00,32529.75
-411,83139,0741326839,"Företagskonto",SEK,2023-08-21,2023-08-19,2023-08-19,"Outfit","Överföring via internet",-129.90,32399.85
-412,83139,0741326839,"Företagskonto",SEK,2023-08-21,2023-08-19,2023-08-19,"Outfit","Överföring via internet",-59.38,32340.47
-413,83139,0741326839,"Företagskonto",SEK,2023-08-21,2023-08-19,2023-08-19,"Outfit","Överföring via internet",-345.39,31995.08
-414,83139,0741326839,"Företagskonto",SEK,2023-08-21,2023-08-19,2023-08-19,"Outfit","Överföring via internet",-61.20,31933.88
-415,83139,0741326839,"Företagskonto",SEK,2023-08-21,2023-08-19,2023-08-19,"Outfit","Överföring via internet",-151.20,31782.68
-416,83139,0741326839,"Företagskonto",SEK,2023-08-21,2023-08-19,2023-08-19,"Outfit","Överföring via internet",-248.08,31534.60
-417,83139,0741326839,"Företagskonto",SEK,2023-08-21,2023-08-19,2023-08-19,"Mötesmat Föset","Överföring via internet",-85.00,31449.60
-418,83139,0741326839,"Företagskonto",SEK,2023-08-21,2023-08-19,2023-08-19,"Outfit","Överföring via internet",-155.00,31294.60
-419,83139,0741326839,"Företagskonto",SEK,2023-08-21,2023-08-19,2023-08-19,"Outfit","Överföring via internet",-122.20,31172.40
-420,83139,0741326839,"Företagskonto",SEK,2023-08-21,2023-08-19,2023-08-19,"Outfit","Överföring via internet",-687.00,30485.40
-421,83139,0741326839,"Företagskonto",SEK,2023-08-21,2023-08-19,2023-08-19,"Outfit","Överföring via internet",-118.00,30367.40
-422,83139,0741326839,"Företagskonto",SEK,2023-08-21,2023-08-19,2023-08-19,"Outfit","Överföring via internet",-156.97,30210.43
-423,83139,0741326839,"Företagskonto",SEK,2023-08-21,2023-08-19,2023-08-19,"Outfit","Överföring via internet",-19.00,30191.43
-424,83139,0741326839,"Företagskonto",SEK,2023-08-21,2023-08-19,2023-08-19,"Outfit","Överföring via internet",-138.13,30053.30
-425,83139,0741326839,"Företagskonto",SEK,2023-08-21,2023-08-19,2023-08-19,"Mötesmat Föset","Överföring via internet",-85.00,29968.30
-426,83139,0741326839,"Företagskonto",SEK,2023-08-21,2023-08-19,2023-08-19,"Tyg","Överföring via internet",-66.00,29902.30
-427,83139,0741326839,"Företagskonto",SEK,2023-08-21,2023-08-19,2023-08-19,"Outfit","Överföring via internet",-101.80,29800.50
-428,83139,0741326839,"Företagskonto",SEK,2023-08-21,2023-08-19,2023-08-19,"Adobe-konto","Överföring via internet",-2328.30,27472.20
-429,83139,0741326839,"Företagskonto",SEK,2023-08-21,2023-08-19,2023-08-19,"Outfit","Överföring via internet",-188.60,27283.60
-430,83139,0741326839,"Företagskonto",SEK,2023-08-21,2023-08-19,2023-08-19,"Outfit","Överföring via internet",-379.54,26904.06
-431,83139,0741326839,"Företagskonto",SEK,2023-08-21,2023-08-19,2023-08-19,"Outfit","Överföring via internet",-240.75,26663.31
-432,83139,0741326839,"Företagskonto",SEK,2023-08-21,2023-08-19,2023-08-19,"Outfit","Överföring via internet",-81.95,26581.36
-433,83139,0741326839,"Företagskonto",SEK,2023-08-21,2023-08-19,2023-08-19,"Pompoms (tull)","Överföring via internet",-467.00,26114.36
-434,83139,0741326839,"Företagskonto",SEK,2023-08-21,2023-08-20,2023-08-20,"Märken Nollning","Bg-bet. via internet",-17182.00,8932.36
-435,83139,0741326839,"Företagskonto",SEK,2023-08-22,2023-08-22,2023-08-22,"Internöverföring","Överföring via internet",100000.00,108932.36
-436,83139,0741326839,"Företagskonto",SEK,2023-08-22,2023-08-22,2023-08-22,"Faddergruppsmat","Överföring via internet",-550.00,108382.36
-437,83139,0741326839,"Företagskonto",SEK,2023-08-22,2023-08-22,2023-08-22,"83139741326870","Överföring via internet",-10000.00,98382.36
-438,83139,0741326839,"Företagskonto",SEK,2023-08-22,2023-08-22,2023-08-22,"83139741326862","Överföring via internet",-45000.00,53382.36
-439,83139,0741326839,"Företagskonto",SEK,2023-08-23,2023-08-23,2023-08-23,"Kol Utskottssafa","Överföring via internet",-211.60,53170.76
-440,83139,0741326839,"Företagskonto",SEK,2023-08-23,2023-08-23,2023-08-23,"Faddergruppsmat","Överföring via internet",-390.45,52780.31
-441,83139,0741326839,"Företagskonto",SEK,2023-08-23,2023-08-23,2023-08-23,"Faddergruppsmat","Överföring via internet",-550.00,52230.31
-442,83139,0741326839,"Företagskonto",SEK,2023-08-23,2023-08-23,2023-08-23,"Faddergruppsmat","Överföring via internet",-574.22,51656.09
-443,83139,0741326839,"Företagskonto",SEK,2023-08-23,2023-08-23,2023-08-23,"Faddergruppsmat","Överföring via internet",-530.52,51125.57
-444,83139,0741326839,"Företagskonto",SEK,2023-08-23,2023-08-23,2023-08-23,"Faddergruppsmat","Överföring via internet",-159.80,50965.77
-445,83139,0741326839,"Företagskonto",SEK,2023-08-23,2023-08-23,2023-08-23,"Banbetalning","Bg-bet. via internet",-7800.00,43165.77
-446,83139,0741326839,"Företagskonto",SEK,2023-08-23,2023-08-23,2023-08-23,"Banhyra","Bg-bet. via internet",-3900.00,39265.77
-447,83139,0741326839,"Företagskonto",SEK,2023-08-23,2023-08-23,2023-08-23,"Skumbollar","Bg-bet. via internet",-931.86,38333.91
-448,83139,0741326839,"Företagskonto",SEK,2023-08-23,2023-08-23,2023-08-23,"Domänkostnad","Bg-bet. via internet",-120.00,38213.91
-449,83139,0741326839,"Företagskonto",SEK,2023-08-28,2023-08-27,2023-08-27,"83139741326862","Överföring via internet",-5000.00,33213.91
-450,83139,0741326839,"Företagskonto",SEK,2023-08-28,2023-08-28,2023-08-28,"Faddergruppsmat","Överföring via internet",-475.00,32738.91
-451,83139,0741326839,"Företagskonto",SEK,2023-08-28,2023-08-28,2023-08-28,"Faddergruppsmat","Överföring via internet",-350.00,32388.91
-452,83139,0741326839,"Företagskonto",SEK,2023-08-28,2023-08-28,2023-08-28,"Faddergruppsmat","Överföring via internet",-81.70,32307.21
-453,83139,0741326839,"Företagskonto",SEK,2023-08-29,2023-08-29,2023-08-29,"83139741326862","Överföring via internet",-26000.00,6307.21
-454,83139,0741326839,"Företagskonto",SEK,2023-08-29,2023-08-29,2023-08-29,"Faddergruppsmat","Överföring via internet",-374.94,5932.27
-455,83139,0741326839,"Företagskonto",SEK,2023-08-30,2023-08-30,2023-08-30,"Campetmat","Överföring via internet",-449.90,5482.37
-456,83139,0741326839,"Företagskonto",SEK,2023-08-30,2023-08-30,2023-08-30,"Faddergruppsmat","Överföring via internet",-418.06,5064.31
-457,83139,0741326839,"Företagskonto",SEK,2023-08-30,2023-08-30,2023-08-30,"Faddergruppsmat","Överföring via internet",-550.00,4514.31
-458,83139,0741326839,"Företagskonto",SEK,2023-08-30,2023-08-30,2023-08-30,"Jobbargodis","Överföring via internet",-190.15,4324.16
-459,83139,0741326839,"Företagskonto",SEK,2023-08-30,2023-08-30,2023-08-30,"Campetmat","Överföring via internet",-89.00,4235.16
-460,83139,0741326839,"Företagskonto",SEK,2023-08-30,2023-08-30,2023-08-30,"Faddergruppsmat","Överföring via internet",-131.94,4103.22
-461,83139,0741326839,"Företagskonto",SEK,2023-08-30,2023-08-30,2023-08-30,"Jobbarsnacks","Överföring via internet",-1575.04,2528.18
-462,83139,0741326839,"Företagskonto",SEK,2023-08-30,2023-08-30,2023-08-30,"Jobbarmat","Överföring via internet",-37.80,2490.38
-463,83139,0741326839,"Företagskonto",SEK,2023-08-30,2023-08-30,2023-08-30,"83139741326847","Överföring via internet",100000.00,102490.38
-464,83139,0741326839,"Företagskonto",SEK,2023-08-30,2023-08-30,2023-08-30,"Campetmat","Överföring via internet",-179.00,102311.38
-465,83139,0741326839,"Företagskonto",SEK,2023-08-30,2023-08-30,2023-08-30,"Engångsartiklar","Bg-bet. via internet",-5846.00,96465.38
-466,83139,0741326839,"Företagskonto",SEK,2023-08-30,2023-08-30,2023-09-01,"6428437","Bankgiro inbetalning",150.00,96615.38
-467,83139,0741326839,"Företagskonto",SEK,2023-08-31,2023-08-31,2023-08-30,"Faddergruppsmat","Överföring via internet",-627.00,95988.38
-468,83139,0741326839,"Företagskonto",SEK,2023-08-31,2023-08-31,2023-08-30,"Faddergruppsmat","Överföring via internet",-550.00,95438.38
-469,83139,0741326839,"Företagskonto",SEK,2023-08-31,2023-08-31,2023-08-30,"Tryckerikostnade","Bg-bet. via internet",-2470.00,92968.38
-470,83139,0741326839,"Företagskonto",SEK,2023-08-31,2023-08-31,2023-08-30,"Brodyr","Bg-bet. via internet",-1893.75,91074.63
-471,83139,0741326839,"Företagskonto",SEK,2023-08-31,2023-08-31,2023-08-30,"Lednings Brodyr","Bg-bet. via internet",-4275.00,86799.63
-472,83139,0741326839,"Företagskonto",SEK,2023-08-31,2023-08-31,2023-08-30,"Busscampet","Bg-bet. via internet",-43245.00,43554.63
-473,83139,0741326839,"Företagskonto",SEK,2023-09-04,2023-09-03,2023-09-03,"Camp Drivmedel","Överföring via internet",-279.00,43275.63
-474,83139,0741326839,"Företagskonto",SEK,2023-09-04,2023-09-03,2023-09-03,"Faddergruppsmat","Överföring via internet",-118.91,43156.72
-475,83139,0741326839,"Företagskonto",SEK,2023-09-04,2023-09-03,2023-09-03,"Faddergruppsmat","Överföring via internet",-77.90,43078.82
-476,83139,0741326839,"Företagskonto",SEK,2023-09-04,2023-09-03,2023-09-03,"Faddergruppsmat","Överföring via internet",-493.20,42585.62
-477,83139,0741326839,"Företagskonto",SEK,2023-09-04,2023-09-03,2023-09-03,"Material","Överföring via internet",-105.00,42480.62
-478,83139,0741326839,"Företagskonto",SEK,2023-09-04,2023-09-03,2023-09-03,"Faddergruppsmat","Överföring via internet",-85.60,42395.02
-479,83139,0741326839,"Företagskonto",SEK,2023-09-04,2023-09-03,2023-09-03,"Faddergruppsmat","Överföring via internet",-548.04,41846.98
-480,83139,0741326839,"Företagskonto",SEK,2023-09-04,2023-09-03,2023-09-03,"Faddergruppsmat","Överföring via internet",-504.00,41342.98
-481,83139,0741326839,"Företagskonto",SEK,2023-09-04,2023-09-03,2023-09-03,"Ved","Överföring via internet",-899.10,40443.88
-482,83139,0741326839,"Företagskonto",SEK,2023-09-04,2023-09-03,2023-09-03,"Marschaller","Överföring via internet",-497.30,39946.58
-483,83139,0741326839,"Företagskonto",SEK,2023-09-04,2023-09-03,2023-09-03,"Camp Batterier","Överföring via internet",-134.80,39811.78
-484,83139,0741326839,"Företagskonto",SEK,2023-09-04,2023-09-03,2023-09-03,"Camp Jobbargodis","Överföring via internet",-141.00,39670.78
-485,83139,0741326839,"Företagskonto",SEK,2023-09-04,2023-09-03,2023-09-03,"Camp Städning","Överföring via internet",-125.60,39545.18
-486,83139,0741326839,"Företagskonto",SEK,2023-09-04,2023-09-03,2023-09-03,"Faddergruppsmat","Överföring via internet",-434.04,39111.14
-487,83139,0741326839,"Företagskonto",SEK,2023-09-04,2023-09-03,2023-09-03,"Faddergruppsmat","Överföring via internet",-515.24,38595.90
-488,83139,0741326839,"Företagskonto",SEK,2023-09-04,2023-09-03,2023-09-03,"Camp Blandat","Överföring via internet",-374.40,38221.50
-489,83139,0741326839,"Företagskonto",SEK,2023-09-04,2023-09-03,2023-09-03,"Camp Frukost","Överföring via internet",-27.80,38193.70
-490,83139,0741326839,"Företagskonto",SEK,2023-09-04,2023-09-03,2023-09-03,"Faddergruppsmat","Överföring via internet",-700.00,37493.70
-491,83139,0741326839,"Företagskonto",SEK,2023-09-05,2023-09-05,2023-09-05,"Skifte Fika","Överföring via internet",-249.20,37244.50
-492,83139,0741326839,"Företagskonto",SEK,2023-09-05,2023-09-05,2023-09-05,"Byggmaterial","Överföring via internet",-807.40,36437.10
-493,83139,0741326839,"Företagskonto",SEK,2023-09-05,2023-09-05,2023-09-05,"Nano Heltid","Överföring via internet",-500.00,35937.10
-494,83139,0741326839,"Företagskonto",SEK,2023-09-05,2023-09-05,2023-09-05,"Skiftes buss","Överföring via internet",-438.40,35498.70
-495,83139,0741326839,"Företagskonto",SEK,2023-09-05,2023-09-05,2023-09-05,"Rengöring","Överföring via internet",-99.90,35398.80
-496,83139,0741326839,"Företagskonto",SEK,2023-09-05,2023-09-05,2023-09-05,"Skifte Middag","Överföring via internet",-3319.00,32079.80
-497,83139,0741326839,"Företagskonto",SEK,2023-09-05,2023-09-05,2023-09-05,"Inköp Biltema","Överföring via internet",-274.50,31805.30
-498,83139,0741326839,"Företagskonto",SEK,2023-09-05,2023-09-05,2023-09-05,"Biltvätt","Överföring via internet",-34.72,31770.58
-499,83139,0741326839,"Företagskonto",SEK,2023-09-05,2023-09-05,2023-09-05,"Biltvätt","Överföring via internet",-69.28,31701.30
-500,83139,0741326839,"Företagskonto",SEK,2023-09-05,2023-09-05,2023-09-05,"Byggmaterial Nol","Överföring via internet",-1003.65,30697.65
-501,83139,0741326839,"Företagskonto",SEK,2023-09-05,2023-09-05,2023-09-05,"Inventarie","Överföring via internet",-1595.00,29102.65
-502,83139,0741326839,"Företagskonto",SEK,2023-09-05,2023-09-05,2023-09-05,"Skiftes buss","Överföring via internet",-438.40,28664.25
-503,83139,0741326839,"Företagskonto",SEK,2023-09-05,2023-09-05,2023-09-05,"Skiftes buss","Överföring via internet",-438.00,28226.25
-504,83139,0741326839,"Företagskonto",SEK,2023-09-05,2023-09-05,2023-09-05,"Deisel","Överföring via internet",-1168.37,27057.88
-505,83139,0741326839,"Företagskonto",SEK,2023-09-05,2023-09-05,2023-09-05,"Första hjälpen","Överföring via internet",-296.00,26761.88
-506,83139,0741326839,"Företagskonto",SEK,2023-09-05,2023-09-05,2023-09-05,"Skifte mat","Överföring via internet",-375.00,26386.88
-507,83139,0741326839,"Företagskonto",SEK,2023-09-05,2023-09-05,2023-09-05,"Tack Valleb","Överföring via internet",-650.00,25736.88
-508,83139,0741326839,"Företagskonto",SEK,2023-09-05,2023-09-05,2023-09-05,"Skiftes buss","Överföring via internet",-438.40,25298.48
-509,83139,0741326839,"Företagskonto",SEK,2023-09-05,2023-09-05,2023-09-05,"Inköp Inventarie","Överföring via internet",-1824.30,23474.18
-510,83139,0741326839,"Företagskonto",SEK,2023-09-05,2023-09-05,2023-09-06,"6428437","Bankgiro inbetalning",740.00,24214.18
-511,83139,0741326839,"Företagskonto",SEK,2023-09-06,2023-09-06,2023-09-06,"Gyckel","Överföring via internet",-790.00,23424.18
-512,83139,0741326839,"Företagskonto",SEK,2023-09-06,2023-09-06,2023-09-06,"Milersättning","Överföring via internet",-500.00,22924.18
-513,83139,0741326839,"Företagskonto",SEK,2023-09-06,2023-09-06,2023-09-06,"Diesel","Överföring via internet",-1122.39,21801.79
-514,83139,0741326839,"Företagskonto",SEK,2023-09-06,2023-09-06,2023-09-06,"Skiftes buss","Överföring via internet",-175.50,21626.29
-515,83139,0741326839,"Företagskonto",SEK,2023-09-06,2023-09-06,2023-09-06,"Styrelseutbildni","Överföring via internet",-680.00,20946.29
-516,83139,0741326839,"Företagskonto",SEK,2023-09-06,2023-09-06,2023-09-06,"Mat","Överföring via internet",-211.50,20734.79
-517,83139,0741326839,"Företagskonto",SEK,2023-09-06,2023-09-06,2023-09-06,"Milersättning","Överföring via internet",-1325.00,19409.79
-518,83139,0741326839,"Företagskonto",SEK,2023-09-06,2023-09-06,2023-09-06,"Arbetskläder","Överföring via internet",-248.00,19161.79
-519,83139,0741326839,"Företagskonto",SEK,2023-09-06,2023-09-06,2023-09-06,"Skiftes buss","Överföring via internet",-438.40,18723.39
-520,83139,0741326839,"Företagskonto",SEK,2023-09-06,2023-09-06,2023-09-06,"Valle B Tack","Överföring via internet",-620.00,18103.39
-521,83139,0741326839,"Företagskonto",SEK,2023-09-06,2023-09-06,2023-09-06,"Planhyra","Överföring via internet",-450.00,17653.39
-522,83139,0741326839,"Företagskonto",SEK,2023-09-06,2023-09-06,2023-09-06,"Halloween-märke","Bg-bet. via internet",-2540.00,15113.39
-523,83139,0741326839,"Företagskonto",SEK,2023-09-06,2023-09-06,2023-09-07,"6428437","Bankgiro inbetalning",33000.00,48113.39
-524,83139,0741326839,"Företagskonto",SEK,2023-09-08,2023-09-08,2023-09-11,"6428437","Bankgiro inbetalning",1000.00,49113.39
-525,83139,0741326839,"Företagskonto",SEK,2023-09-11,2023-09-11,2023-09-11,"Faddergruppsmat","Överföring via internet",-488.38,48625.01
-526,83139,0741326839,"Företagskonto",SEK,2023-09-11,2023-09-11,2023-09-11,"Föset Outfit","Överföring via internet",-129.00,48496.01
-527,83139,0741326839,"Företagskonto",SEK,2023-09-11,2023-09-11,2023-09-11,"SING Jobbarmat","Överföring via internet",-47.70,48448.31
-528,83139,0741326839,"Företagskonto",SEK,2023-09-11,2023-09-11,2023-09-11,"Faddergruppsmat","Överföring via internet",-575.00,47873.31
-529,83139,0741326839,"Företagskonto",SEK,2023-09-11,2023-09-11,2023-09-11,"Ovvelekar Grillk","Överföring via internet",-199.50,47673.81
-530,83139,0741326839,"Företagskonto",SEK,2023-09-11,2023-09-11,2023-09-11,"Färg","Överföring via internet",-2312.00,45361.81
-531,83139,0741326839,"Företagskonto",SEK,2023-09-11,2023-09-11,2023-09-11,"Milersättning","Överföring via internet",-550.00,44811.81
-532,83139,0741326839,"Företagskonto",SEK,2023-09-11,2023-09-11,2023-09-11,"SING Jobbarmat","Överföring via internet",-1145.00,43666.81
-533,83139,0741326839,"Företagskonto",SEK,2023-09-11,2023-09-11,2023-09-11,"Färg","Överföring via internet",-418.00,43248.81
-534,83139,0741326839,"Företagskonto",SEK,2023-09-11,2023-09-11,2023-09-11,"Tour de lomma","Överföring via internet",-99.90,43148.91
-535,83139,0741326839,"Företagskonto",SEK,2023-09-11,2023-09-11,2023-09-11,"SING Komp-handli","Överföring via internet",-414.30,42734.61
-536,83139,0741326839,"Företagskonto",SEK,2023-09-11,2023-09-11,2023-09-11,"Cykel hyra TDL","Överföring via internet",-1800.00,40934.61
-537,83139,0741326839,"Företagskonto",SEK,2023-09-11,2023-09-11,2023-09-11,"Faddergruppsmat","Överföring via internet",-581.73,40352.88
-538,83139,0741326839,"Företagskonto",SEK,2023-09-11,2023-09-11,2023-09-11,"SING Komp-handli","Överföring via internet",-119.50,40233.38
-539,83139,0741326839,"Företagskonto",SEK,2023-09-11,2023-09-11,2023-09-11,"SING Jobbarmat","Överföring via internet",-125.00,40108.38
-540,83139,0741326839,"Företagskonto",SEK,2023-09-11,2023-09-11,2023-09-11,"FlyING Tågresa","Överföring via internet",-87.75,40020.63
-541,83139,0741326839,"Företagskonto",SEK,2023-09-11,2023-09-11,2023-09-11,"Milersättning","Överföring via internet",-1325.00,38695.63
-542,83139,0741326839,"Företagskonto",SEK,2023-09-11,2023-09-11,2023-09-11,"Innefotboll","Pg-bet. via internet",-1800.00,36895.63
-543,83139,0741326839,"Företagskonto",SEK,2023-09-11,2023-09-11,2023-09-11,"Utefotboll","Pg-bet. via internet",-1800.00,35095.63
-544,83139,0741326839,"Företagskonto",SEK,2023-09-11,2023-09-11,2023-09-11,"Hemsidaavgift","Bg-bet. via internet",-485.00,34610.63
-545,83139,0741326839,"Företagskonto",SEK,2023-09-11,2023-09-11,2023-09-11,"Märken","Bg-bet. via internet",-9403.00,25207.63
-546,83139,0741326839,"Företagskonto",SEK,2023-09-11,2023-09-11,2023-09-12,"6428437","Bankgiro inbetalning",20325.00,45532.63
-547,83139,0741326839,"Företagskonto",SEK,2023-09-12,2023-09-12,2023-09-12,"Sonnarp","Pg-bet. via internet",-19725.00,25807.63
-548,83139,0741326839,"Företagskonto",SEK,2023-09-12,2023-09-12,2023-09-12,"FlyING bussar","Bg-bet. via internet",-7371.00,18436.63
-549,83139,0741326839,"Företagskonto",SEK,2023-09-12,2023-09-12,2023-09-12,"Mantelbrodyr","Bg-bet. via internet",-3413.00,15023.63
-550,83139,0741326839,"Företagskonto",SEK,2023-09-12,2023-09-12,2023-09-13,"6428437","Bankgiro inbetalning",75.00,15098.63
-551,83139,0741326839,"Företagskonto",SEK,2023-09-19,2023-09-19,2023-09-19,"Internöverföring","Överföring via internet",200000.00,215098.63
-552,83139,0741326839,"Företagskonto",SEK,2023-09-19,2023-09-19,2023-09-19,"Faddergruppsmat","Överföring via internet",-775.00,214323.63
-553,83139,0741326839,"Företagskonto",SEK,2023-09-19,2023-09-19,2023-09-19,"83139741326862","Överföring via internet",-30000.00,184323.63
-554,83139,0741326839,"Företagskonto",SEK,2023-09-19,2023-09-19,2023-09-19,"83139741326862","Överföring via internet",-15000.00,169323.63
-555,83139,0741326839,"Företagskonto",SEK,2023-09-19,2023-09-19,2023-09-20,"6428437","Bankgiro inbetalning",275.00,169598.63
-556,83139,0741326839,"Företagskonto",SEK,2023-09-21,2023-09-21,2023-09-21,"83139741326862","Överföring via internet",-8000.00,161598.63
-557,83139,0741326839,"Företagskonto",SEK,2023-09-25,2023-09-25,2023-09-25,"HÄS Presentkort","Överföring via internet",-4550.00,157048.63
-558,83139,0741326839,"Företagskonto",SEK,2023-09-25,2023-09-25,2023-09-25,"Aspia","Bg-bet. via internet",-4306.25,152742.38
-559,83139,0741326839,"Företagskonto",SEK,2023-09-25,2023-09-25,2023-09-25,"Merch inköp","Bg-bet. via internet",-141.00,152601.38
-560,83139,0741326839,"Företagskonto",SEK,2023-09-25,2023-09-25,2023-09-25,"skadogörelse A s","Bg-bet. via internet",-350.00,152251.38
-561,83139,0741326839,"Företagskonto",SEK,2023-09-25,2023-09-25,2023-09-25,"Sponsring A sekt","Bg-bet. via internet",-5000.00,147251.38
-562,83139,0741326839,"Företagskonto",SEK,2023-09-25,2023-09-25,2023-09-26,"6428437","Bankgiro inbetalning",80.00,147331.38
-563,83139,0741326839,"Företagskonto",SEK,2023-09-27,2023-09-27,2023-09-28,"6428437","Bankgiro inbetalning",359.00,147690.38
-564,83139,0741326839,"Företagskonto",SEK,2023-09-29,2023-09-29,2023-09-29,"Nollesex komp","Överföring via internet",-235.90,147454.48
-565,83139,0741326839,"Företagskonto",SEK,2023-09-29,2023-09-29,2023-09-29,"Nollympiaden","Överföring via internet",-264.70,147189.78
-566,83139,0741326839,"Företagskonto",SEK,2023-09-29,2023-09-29,2023-09-29,"Nollesex komp","Överföring via internet",-332.00,146857.78
-567,83139,0741326839,"Företagskonto",SEK,2023-09-29,2023-09-29,2023-09-29,"Mötesfika","Överföring via internet",-162.90,146694.88
-568,83139,0741326839,"Företagskonto",SEK,2023-09-29,2023-09-29,2023-09-29,"83139741326862","Överföring via internet",14420.38,161115.26
-569,83139,0741326839,"Företagskonto",SEK,2023-09-29,2023-09-29,2023-09-29,"Nollesex jobbarm","Överföring via internet",-2470.00,158645.26
-570,83139,0741326839,"Företagskonto",SEK,2023-09-29,2023-09-29,2023-09-29,"Campet lampa","Överföring via internet",-199.90,158445.36
-571,83139,0741326839,"Företagskonto",SEK,2023-09-29,2023-09-29,2023-09-29,"Faddergruppsmat","Överföring via internet",-466.55,157978.81
-572,83139,0741326839,"Företagskonto",SEK,2023-09-29,2023-09-29,2023-09-29,"Märken Nollesex","Bg-bet. via internet",-2056.00,155922.81
-573,83139,0741326839,"Företagskonto",SEK,2023-09-29,2023-09-29,2023-09-29,"Wermlands","Bg-bet. via internet",-21220.00,134702.81
-574,83139,0741326839,"Företagskonto",SEK,2023-09-29,2023-09-29,2023-10-02,"6428437","Bankgiro inbetalning",5250.00,139952.81
-575,83139,0741326839,"Företagskonto",SEK,2023-10-03,2023-10-03,2023-10-03,"Föset Outfit","Överföring via internet",-408.00,139544.81
-576,83139,0741326839,"Företagskonto",SEK,2023-10-03,2023-10-03,2023-10-03,"Stortorg Band","Överföring via internet",-139.70,139405.11
-577,83139,0741326839,"Företagskonto",SEK,2023-10-03,2023-10-03,2023-10-03,"Regattan Outfit","Överföring via internet",-330.00,139075.11
-578,83139,0741326839,"Företagskonto",SEK,2023-10-03,2023-10-03,2023-10-03,"Föset Outfit","Överföring via internet",-179.95,138895.16
-579,83139,0741326839,"Företagskonto",SEK,2023-10-03,2023-10-03,2023-10-03,"Föset Outfit","Överföring via internet",-179.80,138715.36
-580,83139,0741326839,"Företagskonto",SEK,2023-10-03,2023-10-03,2023-10-03,"Uppdragskväll","Överföring via internet",-176.00,138539.36
-581,83139,0741326839,"Företagskonto",SEK,2023-10-03,2023-10-03,2023-10-03,"Stortorg Städ","Överföring via internet",-49.80,138489.56
-582,83139,0741326839,"Företagskonto",SEK,2023-10-03,2023-10-03,2023-10-03,"Stortorg Folie","Överföring via internet",-113.60,138375.96
-583,83139,0741326839,"Företagskonto",SEK,2023-10-03,2023-10-03,2023-10-03,"Stortorg Mat","Överföring via internet",-171.92,138204.04
-584,83139,0741326839,"Företagskonto",SEK,2023-10-03,2023-10-03,2023-10-03,"Föset Outfit","Överföring via internet",-126.00,138078.04
-585,83139,0741326839,"Företagskonto",SEK,2023-10-03,2023-10-03,2023-10-03,"Stortorg Glas","Överföring via internet",-1557.80,136520.24
-586,83139,0741326839,"Företagskonto",SEK,2023-10-03,2023-10-03,2023-10-03,"Stortorg Matpref","Överföring via internet",-19.90,136500.34
-587,83139,0741326839,"Företagskonto",SEK,2023-10-03,2023-10-03,2023-10-03,"Stortorg Glas","Överföring via internet",-59.80,136440.54
-588,83139,0741326839,"Företagskonto",SEK,2023-10-05,2023-10-05,2023-10-06,"6428437","Bankgiro inbetalning",7000.00,143440.54
-589,83139,0741326839,"Företagskonto",SEK,2023-10-06,2023-10-06,2023-10-09,"6428437","Bankgiro inbetalning",1764.00,145204.54
-590,83139,0741326839,"Företagskonto",SEK,2023-10-09,2023-10-07,2023-10-07,"Pingisbollar","Pg-bet. via internet",-748.00,144456.54
-591,83139,0741326839,"Företagskonto",SEK,2023-10-09,2023-10-07,2023-10-07,"Pingisnät","Pg-bet. via internet",-678.00,143778.54
-592,83139,0741326839,"Företagskonto",SEK,2023-10-09,2023-10-07,2023-10-07,"Försäkring Dröna","Bg-bet. via internet",-1400.00,142378.54
-593,83139,0741326839,"Företagskonto",SEK,2023-10-09,2023-10-07,2023-10-07,"Gasque Hyra WTF","Bg-bet. via internet",-30395.00,111983.54
-594,83139,0741326839,"Företagskonto",SEK,2023-10-09,2023-10-07,2023-10-07,"Parkering Tour d","Bg-bet. via internet",-79.00,111904.54
-595,83139,0741326839,"Företagskonto",SEK,2023-10-09,2023-10-07,2023-10-07,"Nya Skåp","Bg-bet. via internet",-43775.00,68129.54
-596,83139,0741326839,"Företagskonto",SEK,2023-10-09,2023-10-07,2023-10-07,"Engångsartiklar","Bg-bet. via internet",-2067.00,66062.54
-597,83139,0741326839,"Företagskonto",SEK,2023-10-09,2023-10-08,2023-10-08,"Stortorg Bil","Bg-bet. via internet",-2190.00,63872.54
-598,83139,0741326839,"Företagskonto",SEK,2023-10-09,2023-10-09,2023-10-09,"Blombukett","Överföring via internet",-149.00,63723.54
-599,83139,0741326839,"Företagskonto",SEK,2023-10-09,2023-10-09,2023-10-10,"6428437","Bankgiro inbetalning",300.00,64023.54
-600,83139,0741326839,"Företagskonto",SEK,2023-10-10,2023-10-10,2023-10-10,"Material libu","Överföring via internet",-781.90,63241.64
-601,83139,0741326839,"Företagskonto",SEK,2023-10-10,2023-10-10,2023-10-10,"Kaffe varvning","Överföring via internet",-231.70,63009.94
-602,83139,0741326839,"Företagskonto",SEK,2023-10-10,2023-10-10,2023-10-10,"Valle b skifte","Överföring via internet",-428.95,62580.99
-603,83139,0741326839,"Företagskonto",SEK,2023-10-10,2023-10-10,2023-10-10,"Ledningsskifte","Överföring via internet",-438.40,62142.59
-604,83139,0741326839,"Företagskonto",SEK,2023-10-10,2023-10-10,2023-10-10,"Bokföringsmat","Överföring via internet",-85.00,62057.59
-605,83139,0741326839,"Företagskonto",SEK,2023-10-10,2023-10-10,2023-10-10,"Fogskum","Överföring via internet",-119.80,61937.79
-606,83139,0741326839,"Företagskonto",SEK,2023-10-10,2023-10-10,2023-10-10,"Hjälmar","Överföring via internet",-507.00,61430.79
-607,83139,0741326839,"Företagskonto",SEK,2023-10-10,2023-10-10,2023-10-10,"Oljefat + Däckme","Överföring via internet",-379.00,61051.79
-608,83139,0741326839,"Företagskonto",SEK,2023-10-10,2023-10-10,2023-10-10,"Tygg","Överföring via internet",-185.30,60866.49
-609,83139,0741326839,"Företagskonto",SEK,2023-10-10,2023-10-10,2023-10-10,"ValleB tack","Överföring via internet",-280.00,60586.49
-610,83139,0741326839,"Företagskonto",SEK,2023-10-10,2023-10-10,2023-10-10,"Bokföringsmat","Överföring via internet",-56.80,60529.69
-611,83139,0741326839,"Företagskonto",SEK,2023-10-10,2023-10-10,2023-10-10,"Intervjumat","Överföring via internet",-325.00,60204.69
-612,83139,0741326839,"Företagskonto",SEK,2023-10-10,2023-10-10,2023-10-10,"Punktering","Överföring via internet",-400.00,59804.69
-613,83139,0741326839,"Företagskonto",SEK,2023-10-10,2023-10-10,2023-10-10,"Möss dekoratione","Överföring via internet",-287.79,59516.90
-614,83139,0741326839,"Företagskonto",SEK,2023-10-10,2023-10-10,2023-10-10,"Resa till punkte","Överföring via internet",-28.00,59488.90
-615,83139,0741326839,"Företagskonto",SEK,2023-10-10,2023-10-10,2023-10-10,"Ramar till HÄS","Överföring via internet",-839.00,58649.90
-616,83139,0741326839,"Företagskonto",SEK,2023-10-10,2023-10-10,2023-10-10,"Libu nollningsev","Överföring via internet",-277.20,58372.70
-617,83139,0741326839,"Företagskonto",SEK,2023-10-10,2023-10-10,2023-10-10,"Intervjumat","Överföring via internet",-75.00,58297.70
-618,83139,0741326839,"Företagskonto",SEK,2023-10-10,2023-10-10,2023-10-10,"Bocker till HÄS","Överföring via internet",-594.00,57703.70
-619,83139,0741326839,"Företagskonto",SEK,2023-10-10,2023-10-10,2023-10-10,"Bokföringsmat","Överföring via internet",-85.00,57618.70
-620,83139,0741326839,"Företagskonto",SEK,2023-10-10,2023-10-10,2023-10-10,"Utskottsutbildni","Överföring via internet",-480.00,57138.70
-621,83139,0741326839,"Företagskonto",SEK,2023-10-11,2023-10-11,2023-10-11,"Jobbmat Stortorg","Överföring via internet",-2200.00,54938.70
-622,83139,0741326839,"Företagskonto",SEK,2023-10-11,2023-10-11,2023-10-11,"Victoriastadion","Bg-bet. via internet",-3300.00,51638.70
-623,83139,0741326839,"Företagskonto",SEK,2023-10-11,2023-10-11,2023-10-12,"6428437","Bankgiro inbetalning",2000.00,53638.70
-624,83139,0741326839,"Företagskonto",SEK,2023-10-12,2023-10-12,2023-10-12,"83139741326862","Överföring via internet",-2800.00,50838.70
-625,83139,0741326839,"Företagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Intervjumat","Överföring via internet",-95.00,50743.70
-626,83139,0741326839,"Företagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Kyl till SK","Överföring via internet",-1500.00,49243.70
-627,83139,0741326839,"Företagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Sy grejer","Överföring via internet",-373.20,48870.50
-628,83139,0741326839,"Företagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Ceq priser","Överföring via internet",-1200.00,47670.50
-629,83139,0741326839,"Företagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Revisormat","Överföring via internet",-81.80,47588.70
-630,83139,0741326839,"Företagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"smurf","Överföring via internet",-233.00,47355.70
-631,83139,0741326839,"Företagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Libu teckenspråk","Överföring via internet",-811.29,46544.41
-632,83139,0741326839,"Företagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Farad utbildning","Överföring via internet",-85.70,46458.71
-633,83139,0741326839,"Företagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Camp bil ersättn","Överföring via internet",-530.00,45928.71
-634,83139,0741326839,"Företagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Kasseter ettiket","Överföring via internet",-177.00,45751.71
-635,83139,0741326839,"Företagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Menskydd","Överföring via internet",-639.00,45112.71
-636,83139,0741326839,"Företagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"gyckel props","Överföring via internet",-211.70,44901.01
-637,83139,0741326839,"Företagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Mat Studikväll","Överföring via internet",-32.70,44868.31
-638,83139,0741326839,"Företagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"SpindelArbetsmat","Överföring via internet",-890.00,43978.31
-639,83139,0741326839,"Företagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Trä","Överföring via internet",-799.26,43179.05
-640,83139,0741326839,"Företagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Prylgrejer","Överföring via internet",-508.30,42670.75
-641,83139,0741326839,"Företagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Noppbortagare","Överföring via internet",-149.00,42521.75
-642,83139,0741326839,"Företagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Material Byggkvä","Överföring via internet",-140.00,42381.75
-643,83139,0741326839,"Företagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Mötesmat","Överföring via internet",-95.00,42286.75
-644,83139,0741326839,"Företagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Arbetskläder PL","Överföring via internet",-450.00,41836.75
-645,83139,0741326839,"Företagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Intervjumat","Överföring via internet",-290.00,41546.75
-646,83139,0741326839,"Företagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Mötesmat","Överföring via internet",-700.00,40846.75
-647,83139,0741326839,"Företagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Spindelarbetsmat","Överföring via internet",-110.00,40736.75
-648,83139,0741326839,"Företagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Smurf","Överföring via internet",-245.50,40491.25
-649,83139,0741326839,"Företagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Reparetion Cafev","Överföring via internet",-449.50,40041.75
-650,83139,0741326839,"Företagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Revisormat","Överföring via internet",-100.00,39941.75
-651,83139,0741326839,"Företagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Borrhammarborr","Överföring via internet",-49.90,39891.85
-652,83139,0741326839,"Företagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Props Gyckel","Överföring via internet",-55.00,39836.85
-653,83139,0741326839,"Företagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Tyg","Överföring via internet",-28.00,39808.85
-654,83139,0741326839,"Företagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Mötesmat","Överföring via internet",-600.00,39208.85
-655,83139,0741326839,"Företagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Deisel","Överföring via internet",-1494.86,37713.99
-656,83139,0741326839,"Företagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Intervjumat","Överföring via internet",-100.00,37613.99
-657,83139,0741326839,"Företagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Bokföringsmat","Överföring via internet",-90.00,37523.99
-658,83139,0741326839,"Företagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Medaljdisplay","Överföring via internet",-150.00,37373.99
-659,83139,0741326839,"Företagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Libu teckenspråk","Överföring via internet",-203.50,37170.49
-660,83139,0741326839,"Företagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Bubbel nolleg","Överföring via internet",-3555.00,33615.49
-661,83139,0741326839,"Företagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Revisormat","Överföring via internet",-81.80,33533.69
-662,83139,0741326839,"Företagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Revisor + Mötesm","Överföring via internet",-700.00,32833.69
-663,83139,0741326839,"Företagskonto",SEK,2023-10-20,2023-10-20,2023-10-20,"FlyING Bussbilje","Bg-bet. via internet",-8932.00,23901.69
-664,83139,0741326839,"Företagskonto",SEK,2023-10-23,2023-10-23,2023-10-24,"6428437","Bankgiro inbetalning",497.00,24398.69
-665,83139,0741326839,"Företagskonto",SEK,2023-10-25,2023-10-25,2023-10-26,"6428437","Bankgiro inbetalning",3750.00,28148.69
-666,83139,0741326839,"Företagskonto",SEK,2023-10-30,2023-10-30,2023-10-30,"83139741326862","Överföring via internet",-1000.00,27148.69
-667,83139,0741326839,"Företagskonto",SEK,2023-10-30,2023-10-30,2023-10-30,"83139741326847","Överföring via internet",200000.00,227148.69
-668,83139,0741326839,"Företagskonto",SEK,2023-10-30,2023-10-30,2023-10-30,"älgresa","Överföring via internet",-27.90,227120.79
-669,83139,0741326839,"Företagskonto",SEK,2023-10-30,2023-10-30,2023-10-30,"Intervjumat","Överföring via internet",-300.00,226820.79
-670,83139,0741326839,"Företagskonto",SEK,2023-10-30,2023-10-30,2023-10-30,"Gyckel reise","Överföring via internet",-335.00,226485.79
-671,83139,0741326839,"Företagskonto",SEK,2023-10-30,2023-10-30,2023-10-30,"Fordonskatt","Bg-bet. via internet",-1771.00,224714.79
-672,83139,0741326839,"Företagskonto",SEK,2023-10-30,2023-10-30,2023-10-30,"Fordonskatt","Bg-bet. via internet",-100.00,224614.79
-673,83139,0741326839,"Företagskonto",SEK,2023-10-30,2023-10-30,2023-10-30,"Lund, 19 pers, S","Bg-bet. via internet",-7600.00,217014.79
+1,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-02,2023-01-02,2023-01-03,"6428437","Bankgiro inbetalning",47504.00,80455.62
+2,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-03,2023-01-03,2023-01-04,"6428437","Bankgiro inbetalning",2000.00,82455.62
+3,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-04,2023-01-04,2023-01-05,"6428437","Bankgiro inbetalning",150.00,82605.62
+4,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-11,2023-01-11,2023-01-11,"Bokfï¿½ringsmat","ï¿½verfï¿½ring via internet",-85.00,82520.62
+5,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-11,2023-01-11,2023-01-11,"Bokfï¿½ringsmat","ï¿½verfï¿½ring via internet",-85.00,82435.62
+6,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-11,2023-01-11,2023-01-11,"Ledningstack","ï¿½verfï¿½ring via internet",-3457.70,78977.92
+7,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-11,2023-01-11,2023-01-11,"Internï¿½verfï¿½ring","ï¿½verfï¿½ring via internet",80000.00,158977.92
+8,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-11,2023-01-11,2023-01-11,"Bokfï¿½ringsmat","ï¿½verfï¿½ring via internet",-170.00,158807.92
+9,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-11,2023-01-11,2023-01-11,"Intervjumat","ï¿½verfï¿½ring via internet",-85.00,158722.92
+10,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-11,2023-01-11,2023-01-11,"Hyra Gasque Jubi","Bg-bet. via internet",-24595.00,134127.92
+11,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-11,2023-01-11,2023-01-11,"Hyra Nollegasque","Bg-bet. via internet",-34290.00,99837.92
+12,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-11,2023-01-11,2023-01-11,"Hyra Cornelis St","Bg-bet. via internet",-3800.00,96037.92
+13,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-11,2023-01-11,2023-01-11,"E-tryckeriet","Bg-bet. via internet",-5947.00,90090.92
+14,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-11,2023-01-11,2023-01-11,"Hyra gasque SING","Bg-bet. via internet",-16110.00,73980.92
+15,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-11,2023-01-11,2023-01-12,"6428437","Bankgiro inbetalning",1180.00,75160.92
+16,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-12,2023-01-11,2023-01-11,"Tillstï¿½nd Farad","Bg-bet. via internet",-1400.00,73760.92
+17,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-12,2023-01-11,2023-01-11,"Tillstï¿½nd Farad","Bg-bet. via internet",-1400.00,72360.92
+18,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-12,2023-01-12,2023-01-12,"FETSM 1","Bg-bet. via internet",-1400.00,70960.92
+19,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-12,2023-01-12,2023-01-13,"6428437","Bankgiro inbetalning",36000.00,106960.92
+20,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-13,2023-01-13,2023-01-13,"LUNDS KOMMUN","Bg-bet. via internet",-1200.00,105760.92
+21,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-16,2023-01-16,2023-01-17,"6428437","Bankgiro inbetalning",220.00,105980.92
+22,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-17,2023-01-16,2023-01-16,"Internï¿½verfï¿½ring","ï¿½verfï¿½ring via internet",-20000.00,85980.92
+23,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-17,2023-01-17,2023-01-17,"Adobe creative c","Bg-bet. via internet",-6243.00,79737.92
+24,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-17,2023-01-17,2023-01-18,"6428437","Bankgiro inbetalning",1606.00,81343.92
+25,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-18,2023-01-18,2023-01-19,"1022301180007526","Europabetalning",525.00,81868.92
+26,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-18,2023-01-18,2023-01-18,"1022301180007526","Pris betalning",-1.50,81867.42
+27,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-18,2023-01-18,2023-01-18,"1022301180007526","Pris avisering",-10.00,81857.42
+28,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-20,2023-01-20,2023-01-20,"","Pris banktjï¿½nster enligt faktura",-1212.00,80645.42
+29,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-23,2023-01-23,2023-01-23,"83139741326862","ï¿½verfï¿½ring via internet",-800.00,79845.42
+30,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-23,2023-01-23,2023-01-23,"Internï¿½verfï¿½ring","ï¿½verfï¿½ring via internet",-1400.00,78445.42
+31,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-23,2023-01-23,2023-01-23,"Bilfï¿½rsï¿½kring","Bg-bet. via internet",-1952.00,76493.42
+32,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-24,2023-01-24,2023-01-24,"Scenklï¿½der","ï¿½verfï¿½ring via internet",-185.00,76308.42
+33,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-24,2023-01-24,2023-01-24,"Scenklï¿½der","ï¿½verfï¿½ring via internet",-1036.00,75272.42
+34,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-24,2023-01-24,2023-01-24,"Scenklï¿½der","ï¿½verfï¿½ring via internet",-105.00,75167.42
+35,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-24,2023-01-24,2023-01-24,"Bokfï¿½ringsmat","ï¿½verfï¿½ring via internet",-170.00,74997.42
+36,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-24,2023-01-24,2023-01-24,"Alkohol LednTack","ï¿½verfï¿½ring via internet",-2350.20,72647.22
+37,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-24,2023-01-24,2023-01-24,"Diesel F-bil","ï¿½verfï¿½ring via internet",-1198.24,71448.98
+38,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-24,2023-01-24,2023-01-24,"Alk Bordsvise","ï¿½verfï¿½ring via internet",-627.00,70821.98
+39,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-24,2023-01-24,2023-01-24,"Cafe Nycklar","ï¿½verfï¿½ring via internet",-280.00,70541.98
+40,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-24,2023-01-24,2023-01-24,"Mat Bordsvise","ï¿½verfï¿½ring via internet",-2156.00,68385.98
+41,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-24,2023-01-24,2023-01-24,"CafeLï¿½s","ï¿½verfï¿½ring via internet",-449.00,67936.98
+42,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-24,2023-01-24,2023-01-24,"Scenklï¿½der","ï¿½verfï¿½ring via internet",-309.50,67627.48
+43,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-24,2023-01-24,2023-01-24,"Mat Reptillfï¿½lle","ï¿½verfï¿½ring via internet",-919.32,66708.16
+44,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-24,2023-01-24,2023-01-24,"Diesel F-bil","ï¿½verfï¿½ring via internet",-1061.28,65646.88
+45,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-24,2023-01-24,2023-01-24,"TipEx Lim","ï¿½verfï¿½ring via internet",-78.80,65568.08
+46,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-24,2023-01-24,2023-01-24,"Bar Bordsvise","ï¿½verfï¿½ring via internet",-380.00,65188.08
+47,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-24,2023-01-24,2023-01-24,"AuxBil","ï¿½verfï¿½ring via internet",-39.90,65148.18
+48,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-24,2023-01-24,2023-01-24,"Mat Bordsvise","ï¿½verfï¿½ring via internet",-220.00,64928.18
+49,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-24,2023-01-24,2023-01-24,"MatSyrelseUtbild","ï¿½verfï¿½ring via internet",-700.00,64228.18
+50,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-24,2023-01-24,2023-01-24,"PingisBollar","Pg-bet. via internet",-468.00,63760.18
+51,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-24,2023-01-24,2023-01-24,"Hyra Ishall","Bg-bet. via internet",-400.00,63360.18
+52,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-27,2023-01-27,2023-01-27,"83139741326862","ï¿½verfï¿½ring via internet",-1500.00,61860.18
+53,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-27,2023-01-27,2023-01-27,"83139741326862","ï¿½verfï¿½ring via internet",-7000.00,54860.18
+54,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-30,2023-01-30,2023-01-30,"83139741326862","ï¿½verfï¿½ring via internet",-1000.00,53860.18
+55,83139,0741326839,"Fï¿½retagskonto",SEK,2023-01-30,2023-01-30,2023-01-30,"SkiftesStuga","Bg-bet. via internet",-7000.00,46860.18
+56,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-01,2023-02-01,2023-02-01,"83139741326862","ï¿½verfï¿½ring via internet",-700.00,46160.18
+57,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-01,2023-02-01,2023-02-01,"Skï¿½pLï¿½s","ï¿½verfï¿½ring via internet",-1996.00,44164.18
+58,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-01,2023-02-01,2023-02-01,"FaradTejp","ï¿½verfï¿½ring via internet",-39.90,44124.28
+59,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-01,2023-02-01,2023-02-01,"Ansvarspostutbil","ï¿½verfï¿½ring via internet",-1947.00,42177.28
+60,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-01,2023-02-01,2023-02-01,"alkfriPryTack","ï¿½verfï¿½ring via internet",-250.59,41926.69
+61,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-01,2023-02-01,2023-02-01,"AlkoholPryltack","ï¿½verfï¿½ring via internet",-1272.00,40654.69
+62,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-01,2023-02-01,2023-02-01,"Kostym Sï¿½S","ï¿½verfï¿½ring via internet",-791.75,39862.94
+63,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-01,2023-02-01,2023-02-01,"Vï¿½rdutbildning","ï¿½verfï¿½ring via internet",-83.30,39779.64
+64,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-01,2023-02-01,2023-02-01,"AlkTackSex","ï¿½verfï¿½ring via internet",-1877.60,37902.04
+65,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-01,2023-02-01,2023-02-01,"sï¿½smat rep","ï¿½verfï¿½ring via internet",-117.80,37784.24
+66,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-01,2023-02-01,2023-02-01,"FaradMat","ï¿½verfï¿½ring via internet",-5101.50,32682.74
+67,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-01,2023-02-01,2023-02-01,"sï¿½smat rep","ï¿½verfï¿½ring via internet",-490.59,32192.15
+68,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-01,2023-02-01,2023-02-01,"Alkoholcaftack","ï¿½verfï¿½ring via internet",-1104.00,31088.15
+69,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-01,2023-02-01,2023-02-01,"Dricka och snack","ï¿½verfï¿½ring via internet",-341.00,30747.15
+70,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-01,2023-02-01,2023-02-01,"FaradFika","ï¿½verfï¿½ring via internet",-540.50,30206.65
+71,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-01,2023-02-01,2023-02-01,"Kostym Sï¿½S","ï¿½verfï¿½ring via internet",-175.90,30030.75
+72,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-01,2023-02-01,2023-02-01,"SaftUmeï¿½VT22","Bg-bet. via internet",-800.00,29230.75
+73,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-02,2023-02-02,2023-02-02,"83139741326862","ï¿½verfï¿½ring via internet",-14000.00,15230.75
+74,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-03,2023-02-03,2023-02-03,"Lunchfï¿½relï¿½sning","ï¿½verfï¿½ring via internet",-119.00,15111.75
+75,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-03,2023-02-03,2023-02-03,"Bokfï¿½ringsmat","ï¿½verfï¿½ring via internet",-85.00,15026.75
+76,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-03,2023-02-03,2023-02-03,"MattejpFARAD","ï¿½verfï¿½ring via internet",-1791.00,13235.75
+77,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-03,2023-02-03,2023-02-03,"UtbildningFNU","ï¿½verfï¿½ring via internet",-500.00,12735.75
+78,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-06,2023-02-06,2023-02-06,"83139741326862","ï¿½verfï¿½ring via internet",590.00,13325.75
+79,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-07,2023-02-07,2023-02-07,"Internï¿½vf","ï¿½verfï¿½ring via internet",21152.73,34478.48
+80,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-07,2023-02-07,2023-02-07,"83139741326862","ï¿½verfï¿½ring via internet",-10880.00,23598.48
+81,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-07,2023-02-07,2023-02-07,"Bilreperation","Bg-bet. via internet",-6289.00,17309.48
+82,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-08,2023-02-08,2023-02-08,"83139741326847","ï¿½verfï¿½ring via internet",50000.00,67309.48
+83,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-08,2023-02-08,2023-02-08,"AllaHjï¿½rtansDag","ï¿½verfï¿½ring via internet",-195.50,67113.98
+84,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-08,2023-02-08,2023-02-08,"Internï¿½verfï¿½ring","ï¿½verfï¿½ring via internet",-5000.00,62113.98
+85,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-08,2023-02-08,2023-02-08,"AllaHjï¿½rtansDag","ï¿½verfï¿½ring via internet",-454.60,61659.38
+86,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-08,2023-02-08,2023-02-08,"LedningsSkifte","ï¿½verfï¿½ring via internet",-4769.43,56889.95
+87,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-08,2023-02-08,2023-02-08,"AllaHjï¿½rtansDag","ï¿½verfï¿½ring via internet",-60.00,56829.95
+88,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-08,2023-02-08,2023-02-08,"AllaHjï¿½rtansDag","ï¿½verfï¿½ring via internet",-100.00,56729.95
+89,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-08,2023-02-08,2023-02-08,"Bï¿½nkolja","ï¿½verfï¿½ring via internet",-99.90,56630.05
+90,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-08,2023-02-08,2023-02-08,"AlkoholFARADPub","ï¿½verfï¿½ring via internet",-2798.50,53831.55
+91,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-08,2023-02-08,2023-02-08,"Intervjumat","ï¿½verfï¿½ring via internet",-170.00,53661.55
+92,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-08,2023-02-08,2023-02-08,"Lophtet Sexetkic","Bg-bet. via internet",-2500.00,51161.55
+93,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-08,2023-02-08,2023-02-08,"SexetKablar","Bg-bet. via internet",-250.00,50911.55
+94,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-08,2023-02-08,2023-02-08,"EHusetTryckeri","Bg-bet. via internet",-2537.00,48374.55
+95,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-08,2023-02-08,2023-02-08,"GoGSalladFARAD","Bg-bet. via internet",-8062.00,40312.55
+96,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-08,2023-02-08,2023-02-08,"AspiaBetalning","Bg-bet. via internet",-2772.50,37540.05
+97,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-09,2023-02-09,2023-02-09,"83139741326862","ï¿½verfï¿½ring via internet",4200.00,41740.05
+98,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-10,2023-02-10,2023-02-13,"6428437","Bankgiro inbetalning",595.00,42335.05
+99,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-13,2023-02-11,2023-02-11,"83139741326862","ï¿½verfï¿½ring via internet",-49.50,42285.55
+100,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-13,2023-02-13,2023-02-13,"Internï¿½vfï¿½ring","ï¿½verfï¿½ring via internet",-20000.00,22285.55
+101,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-13,2023-02-13,2023-02-13,"Alkohol tacksitt","ï¿½verfï¿½ring via internet",-3140.40,19145.15
+102,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-13,2023-02-13,2023-02-13,"Diverse Tacksitt","ï¿½verfï¿½ring via internet",-188.15,18957.00
+103,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-13,2023-02-13,2023-02-13,"83139742551138","ï¿½verfï¿½ring via internet",20000.00,38957.00
+104,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-13,2023-02-13,2023-02-13,"+1 sittning Loph","Bg-bet. via internet",-2575.00,36382.00
+105,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-13,2023-02-13,2023-02-13,"Tacksittning","Bg-bet. via internet",-10880.00,25502.00
+106,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-13,2023-02-13,2023-02-13,"Tillbehï¿½r Symask","Bg-bet. via internet",-599.00,24903.00
+107,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-13,2023-02-13,2023-02-13,"Symaskiner","Bg-bet. via internet",-5580.00,19323.00
+108,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-13,2023-02-13,2023-02-13,"Slï¿½pp Lophtet","Bg-bet. via internet",-2400.00,16923.00
+109,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-13,2023-02-13,2023-02-13,"Bussar FlyING","Bg-bet. via internet",-11560.00,5363.00
+110,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-13,2023-02-13,2023-02-13,"Tryckeri","Bg-bet. via internet",-1832.00,3531.00
+111,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-13,2023-02-13,2023-02-14,"6428437","Bankgiro inbetalning",800.00,4331.00
+112,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-14,2023-02-14,2023-02-14,"LedningsskifteMa","ï¿½verfï¿½ring via internet",-396.00,3935.00
+113,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-14,2023-02-14,2023-02-14,"Farad","ï¿½verfï¿½ring via internet",-42.90,3892.10
+114,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-14,2023-02-14,2023-02-14,"KakorHTF","ï¿½verfï¿½ring via internet",-46.50,3845.60
+115,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-14,2023-02-14,2023-02-14,"Intervjumat","ï¿½verfï¿½ring via internet",-85.00,3760.60
+116,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-14,2023-02-14,2023-02-14,"Ceq Tï¿½vlingspris","ï¿½verfï¿½ring via internet",-1200.00,2560.60
+117,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-14,2023-02-14,2023-02-14,"Farad","ï¿½verfï¿½ring via internet",-1938.69,621.91
+118,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-14,2023-02-14,2023-02-14,"Farad","ï¿½verfï¿½ring via internet",-286.42,335.49
+119,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-14,2023-02-14,2023-02-14,"Farad","ï¿½verfï¿½ring via internet",-17.90,317.59
+120,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-14,2023-02-14,2023-02-14,"LedningsskifteMa","ï¿½verfï¿½ring via internet",-251.20,66.39
+121,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-14,2023-02-14,2023-02-14,"Farad","ï¿½verfï¿½ring via internet",-565.00,-498.61
+122,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-14,2023-02-14,2023-02-15,"6428437","Bankgiro inbetalning",4500.00,4001.39
+123,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-16,2023-02-16,2023-02-17,"6428437","Bankgiro inbetalning",390.00,4391.39
+124,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-17,2023-02-17,2023-02-17,"Bokfï¿½ringsmat","ï¿½verfï¿½ring via internet",-85.00,4306.39
+125,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-17,2023-02-17,2023-02-17,"Alkohol KMtack","ï¿½verfï¿½ring via internet",-3933.40,372.99
+126,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-17,2023-02-17,2023-02-17,"Internï¿½verfï¿½ring","ï¿½verfï¿½ring via internet",30000.00,30372.99
+127,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-17,2023-02-17,2023-02-17,"Milersï¿½ttning","ï¿½verfï¿½ring via internet",-203.50,30169.49
+128,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-17,2023-02-17,2023-02-17,"83139742551138","ï¿½verfï¿½ring via internet",20000.00,50169.49
+129,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-17,2023-02-17,2023-02-17,"FARAD","ï¿½verfï¿½ring via internet",-2705.81,47463.68
+130,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-17,2023-02-17,2023-02-17,"Bokfï¿½ringsmat","ï¿½verfï¿½ring via internet",-85.00,47378.68
+131,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-17,2023-02-17,2023-02-17,"PingisPriser","ï¿½verfï¿½ring via internet",-84.00,47294.68
+132,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-17,2023-02-17,2023-02-17,"Milersï¿½ttning","ï¿½verfï¿½ring via internet",-185.00,47109.68
+133,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-17,2023-02-17,2023-02-17,"83139742551138","ï¿½verfï¿½ring via internet",30000.00,77109.68
+134,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-17,2023-02-17,2023-02-17,"Revisormat","ï¿½verfï¿½ring via internet",-170.00,76939.68
+135,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-17,2023-02-17,2023-02-17,"Donation Regnbï¿½g","ï¿½verfï¿½ring via internet",-1735.50,75204.18
+136,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-17,2023-02-17,2023-02-17,"Anmï¿½lanVolleybol","Pg-bet. via internet",-1300.00,73904.18
+137,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-17,2023-02-17,2023-02-17,"Anmï¿½lanFotboll","Pg-bet. via internet",-1600.00,72304.18
+138,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-17,2023-02-17,2023-02-17,"Pingisbollar","Pg-bet. via internet",-389.00,71915.18
+139,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-17,2023-02-17,2023-02-17,"Utskottstack","Bg-bet. via internet",-26000.00,45915.18
+140,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-17,2023-02-17,2023-02-17,"Funktionï¿½rstack","Bg-bet. via internet",-36750.00,9165.18
+141,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-20,2023-02-18,2023-02-18,"83139741326862","ï¿½verfï¿½ring via internet",-2000.00,7165.18
+142,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-20,2023-02-18,2023-02-18,"83139741326862","ï¿½verfï¿½ring via internet",-1000.00,6165.18
+143,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-20,2023-02-20,2023-02-20,"83139741326862","ï¿½verfï¿½ring via internet",-2200.00,3965.18
+144,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-21,2023-02-21,2023-02-21,"Internï¿½verfï¿½ring","ï¿½verfï¿½ring via internet",30000.00,33965.18
+145,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-22,2023-02-22,2023-02-22,"Arbetsklï¿½der FAR","ï¿½verfï¿½ring via internet",-3200.00,30765.18
+146,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-22,2023-02-22,2023-02-22,"Intervjumat","ï¿½verfï¿½ring via internet",-150.00,30615.18
+147,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-23,2023-02-23,2023-02-23,"Internï¿½verfï¿½ring","ï¿½verfï¿½ring via internet",-10240.00,20375.18
+148,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-24,2023-02-24,2023-02-24,"Internï¿½verfï¿½ring","ï¿½verfï¿½ring via internet",100000.00,120375.18
+149,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-24,2023-02-24,2023-02-24,"83139741326862","ï¿½verfï¿½ring via internet",-15000.00,105375.18
+150,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-24,2023-02-24,2023-02-24,"83139741326862","ï¿½verfï¿½ring via internet",-17000.00,88375.18
+151,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-27,2023-02-27,2023-02-27,"Pingisbordsfrakt","ï¿½verfï¿½ring via internet",-66.60,88308.58
+152,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-27,2023-02-27,2023-02-27,"Svetshandskar","ï¿½verfï¿½ring via internet",-119.00,88189.58
+153,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-27,2023-02-27,2023-02-27,"Svetsfï¿½rklï¿½de","ï¿½verfï¿½ring via internet",-499.00,87690.58
+154,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-27,2023-02-27,2023-02-27,"Svetshjï¿½lm","ï¿½verfï¿½ring via internet",-250.00,87440.58
+155,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-27,2023-02-27,2023-02-27,"CEQ-mat","ï¿½verfï¿½ring via internet",-61.00,87379.58
+156,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-27,2023-02-27,2023-02-27,"Carrom brï¿½de","ï¿½verfï¿½ring via internet",-1244.80,86134.78
+157,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-27,2023-02-27,2023-02-27,"FNU Kick Off","ï¿½verfï¿½ring via internet",-380.56,85754.22
+158,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-27,2023-02-27,2023-02-27,"Sexet Brodyr","Bg-bet. via internet",-7237.50,78516.72
+159,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-27,2023-02-27,2023-02-28,"6428437","Bankgiro inbetalning",590.00,79106.72
+160,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-28,2023-02-28,2023-02-28,"Intervjumat","ï¿½verfï¿½ring via internet",-82.00,79024.72
+161,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-28,2023-02-28,2023-02-28,"Intervjumat","ï¿½verfï¿½ring via internet",-76.00,78948.72
+162,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-28,2023-02-28,2023-02-28,"Intervjumat","ï¿½verfï¿½ring via internet",-68.00,78880.72
+163,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-28,2023-02-28,2023-02-28,"Intervjumat","ï¿½verfï¿½ring via internet",-85.00,78795.72
+164,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-28,2023-02-28,2023-02-28,"Intervjumat","ï¿½verfï¿½ring via internet",-255.00,78540.72
+165,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-28,2023-02-28,2023-02-28,"Intervjumat","ï¿½verfï¿½ring via internet",-85.00,78455.72
+166,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-28,2023-02-28,2023-02-28,"Intervjumat","ï¿½verfï¿½ring via internet",-170.00,78285.72
+167,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-28,2023-02-28,2023-02-28,"Intervjumat","ï¿½verfï¿½ring via internet",-85.00,78200.72
+168,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-28,2023-02-28,2023-02-28,"Intervjumat","ï¿½verfï¿½ring via internet",-85.00,78115.72
+169,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-28,2023-02-28,2023-02-28,"Intervjumat","ï¿½verfï¿½ring via internet",-80.00,78035.72
+170,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-28,2023-02-28,2023-02-28,"Intervjumat","ï¿½verfï¿½ring via internet",-73.00,77962.72
+171,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-28,2023-02-28,2023-02-28,"Intervjumat","ï¿½verfï¿½ring via internet",-82.00,77880.72
+172,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-28,2023-02-28,2023-02-28,"Intervjumat","ï¿½verfï¿½ring via internet",-80.00,77800.72
+173,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-28,2023-02-28,2023-02-28,"Intervjumat","ï¿½verfï¿½ring via internet",-72.00,77728.72
+174,83139,0741326839,"Fï¿½retagskonto",SEK,2023-02-28,2023-02-28,2023-03-01,"6428437","Bankgiro inbetalning",225.00,77953.72
+175,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-01,2023-03-01,2023-03-01,"Intervjumat","ï¿½verfï¿½ring via internet",-68.80,77884.92
+176,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-01,2023-03-01,2023-03-01,"Intervjumat","ï¿½verfï¿½ring via internet",-57.53,77827.39
+177,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-01,2023-03-01,2023-03-01,"Intervjumat","ï¿½verfï¿½ring via internet",-80.00,77747.39
+178,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-01,2023-03-01,2023-03-01,"Intervjumat","ï¿½verfï¿½ring via internet",-80.00,77667.39
+179,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-01,2023-03-01,2023-03-02,"6428437","Bankgiro inbetalning",450.00,78117.39
+180,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-02,2023-03-02,2023-03-03,"6428437","Bankgiro inbetalning",2000.00,80117.39
+181,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-03,2023-03-03,2023-03-03,"Betalning Domï¿½n","Bg-bet. via internet",-236.25,79881.14
+182,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-03,2023-03-03,2023-03-06,"6428437","Bankgiro inbetalning",133.00,80014.14
+183,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-06,2023-03-06,2023-03-07,"6428437","Bankgiro inbetalning",20000.00,100014.14
+184,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-07,2023-03-07,2023-03-08,"6428437","Bankgiro inbetalning",556.32,100570.46
+185,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-08,2023-03-08,2023-03-08,"Revisorsmat","ï¿½verfï¿½ring via internet",-85.00,100485.46
+186,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-08,2023-03-08,2023-03-08,"Farad Mï¿½rken","ï¿½verfï¿½ring via internet",-1246.00,99239.46
+187,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-08,2023-03-08,2023-03-08,"Ljus","ï¿½verfï¿½ring via internet",-114.75,99124.71
+188,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-08,2023-03-08,2023-03-08,"Revisorsmat","ï¿½verfï¿½ring via internet",-170.00,98954.71
+189,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-08,2023-03-08,2023-03-08,"Klubbor","ï¿½verfï¿½ring via internet",-150.00,98804.71
+190,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-08,2023-03-08,2023-03-08,"code sprint mat","ï¿½verfï¿½ring via internet",-834.00,97970.71
+191,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-08,2023-03-08,2023-03-08,"Milersï¿½ttning","ï¿½verfï¿½ring via internet",-185.00,97785.71
+192,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-08,2023-03-08,2023-03-08,"@1337 Fika","ï¿½verfï¿½ring via internet",-104.70,97681.01
+193,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-08,2023-03-08,2023-03-08,"K sek Present","ï¿½verfï¿½ring via internet",-399.00,97282.01
+194,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-08,2023-03-08,2023-03-08,"Tandem","ï¿½verfï¿½ring via internet",-3500.00,93782.01
+195,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-08,2023-03-08,2023-03-08,"Transformator","ï¿½verfï¿½ring via internet",-2627.00,91155.01
+196,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-08,2023-03-08,2023-03-08,"Bokfï¿½ringsmat","ï¿½verfï¿½ring via internet",-85.00,91070.01
+197,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-08,2023-03-08,2023-03-08,"Revisorsmat","ï¿½verfï¿½ring via internet",-64.00,91006.01
+198,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-08,2023-03-08,2023-03-08,"godis smurf","ï¿½verfï¿½ring via internet",-279.33,90726.68
+199,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-08,2023-03-08,2023-03-08,"Revisorsmat","ï¿½verfï¿½ring via internet",-84.70,90641.98
+200,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-08,2023-03-08,2023-03-08,"Mikrofoner","Bg-bet. via internet",-5000.00,85641.98
+201,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-08,2023-03-08,2023-03-08,"Farad Mattor","Bg-bet. via internet",-2100.00,83541.98
+202,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-08,2023-03-08,2023-03-08,"Farad Parkering","Bg-bet. via internet",-120.00,83421.98
+203,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-08,2023-03-08,2023-03-08,"EHusetTryckeri","Bg-bet. via internet",-403.00,83018.98
+204,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-08,2023-03-08,2023-03-09,"6428437","Bankgiro inbetalning",57.06,83076.04
+205,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-10,2023-03-10,2023-03-13,"6428437","Bankgiro inbetalning",4590.00,87666.04
+206,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-13,2023-03-13,2023-03-14,"1022303130010591","Internationell bet",4000.00,91666.04
+207,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-13,2023-03-13,2023-03-13,"1022303130010591","Pris avisering",-10.00,91656.04
+208,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-13,2023-03-13,2023-03-14,"6428437","Bankgiro inbetalning",175.00,91831.04
+209,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-15,2023-03-15,2023-03-16,"6428437","Bankgiro inbetalning",270.00,92101.04
+210,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-20,2023-03-20,2023-03-20,"Internï¿½vfï¿½ring","ï¿½verfï¿½ring via internet",-7000.00,85101.04
+211,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-20,2023-03-20,2023-03-20,"Internï¿½verfï¿½ring","ï¿½verfï¿½ring via internet",12689.00,97790.04
+212,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-21,2023-03-21,2023-03-21,"Bokfï¿½ringsmat","ï¿½verfï¿½ring via internet",-85.00,97705.04
+213,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-21,2023-03-21,2023-03-21,"Parkering","ï¿½verfï¿½ring via internet",-143.00,97562.04
+214,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-21,2023-03-21,2023-03-21,"Bokfï¿½ringsmat","ï¿½verfï¿½ring via internet",-80.00,97482.04
+215,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-21,2023-03-21,2023-03-21,"Revisormat","ï¿½verfï¿½ring via internet",-170.00,97312.04
+216,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-21,2023-03-21,2023-03-21,"CykelSaker","ï¿½verfï¿½ring via internet",-958.20,96353.84
+217,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-21,2023-03-21,2023-03-21,"Farad Bord o Sto","Bg-bet. via internet",-13238.00,83115.84
+218,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-21,2023-03-21,2023-03-21,"Fordonsskatt","Bg-bet. via internet",-1733.00,81382.84
+219,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-22,2023-03-22,2023-03-22,"Intervjumat","ï¿½verfï¿½ring via internet",-85.00,81297.84
+220,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-22,2023-03-22,2023-03-22,"Intervjumat","ï¿½verfï¿½ring via internet",-85.00,81212.84
+221,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-22,2023-03-22,2023-03-22,"Intervjumat","ï¿½verfï¿½ring via internet",-255.00,80957.84
+222,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-22,2023-03-22,2023-03-22,"Intervjumat","ï¿½verfï¿½ring via internet",-85.00,80872.84
+223,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-22,2023-03-22,2023-03-22,"Intervjumat","ï¿½verfï¿½ring via internet",-170.00,80702.84
+224,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-22,2023-03-22,2023-03-22,"Intervjumat","ï¿½verfï¿½ring via internet",-170.00,80532.84
+225,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-22,2023-03-22,2023-03-22,"Intervjumat","ï¿½verfï¿½ring via internet",-85.00,80447.84
+226,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-22,2023-03-22,2023-03-22,"Intervjumat","ï¿½verfï¿½ring via internet",-170.00,80277.84
+227,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-22,2023-03-22,2023-03-22,"Intervjumat","ï¿½verfï¿½ring via internet",-170.00,80107.84
+228,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-24,2023-03-24,2023-03-24,"Betalning Fotbol","Pg-bet. via internet",-1500.00,78607.84
+229,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-27,2023-03-25,2023-03-25,"83139741326870","ï¿½verfï¿½ring via internet",-15000.00,63607.84
+230,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-27,2023-03-27,2023-03-28,"6428437","Bankgiro inbetalning",510.00,64117.84
+231,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-28,2023-03-28,2023-03-28,"83139741326862","ï¿½verfï¿½ring via internet",-7500.00,56617.84
+232,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-29,2023-03-29,2023-03-29,"Internï¿½verfï¿½ring","ï¿½verfï¿½ring via internet",-17000.00,39617.84
+233,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-29,2023-03-29,2023-03-30,"6428437","Bankgiro inbetalning",195.00,39812.84
+234,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-30,2023-03-30,2023-03-30,"Revisormat","ï¿½verfï¿½ring via internet",-170.00,39642.84
+235,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-30,2023-03-30,2023-03-30,"Mat till Proposi","ï¿½verfï¿½ring via internet",-85.00,39557.84
+236,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-30,2023-03-30,2023-03-30,"Fika Likabehandl","ï¿½verfï¿½ring via internet",-494.80,39063.04
+237,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-30,2023-03-30,2023-03-30,"Mat till protoko","ï¿½verfï¿½ring via internet",-571.00,38492.04
+238,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-30,2023-03-30,2023-03-30,"Syjunta Material","ï¿½verfï¿½ring via internet",-298.00,38194.04
+239,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-30,2023-03-30,2023-03-30,"Revisormat","ï¿½verfï¿½ring via internet",-84.70,38109.34
+240,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-30,2023-03-30,2023-03-30,"Bokfï¿½ringsmat","ï¿½verfï¿½ring via internet",-85.00,38024.34
+241,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-30,2023-03-30,2023-03-30,"Fika Likabehandl","ï¿½verfï¿½ring via internet",-311.40,37712.94
+242,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-30,2023-03-30,2023-03-30,"Vontï¿½nen Slï¿½pp","ï¿½verfï¿½ring via internet",-79.00,37633.94
+243,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-30,2023-03-30,2023-03-30,"Vï¿½rdtack FARAD","ï¿½verfï¿½ring via internet",-518.10,37115.84
+244,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-30,2023-03-30,2023-03-30,"Revisormat","ï¿½verfï¿½ring via internet",-61.00,37054.84
+245,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-30,2023-03-30,2023-03-30,"Medaljutdelning","ï¿½verfï¿½ring via internet",-396.00,36658.84
+246,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-30,2023-03-30,2023-03-30,"Mat till Proposi","ï¿½verfï¿½ring via internet",-425.00,36233.84
+247,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-30,2023-03-30,2023-03-30,"Mat till Proposi","ï¿½verfï¿½ring via internet",-85.00,36148.84
+248,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-30,2023-03-30,2023-03-30,"Buss ï¿½lreise","Bg-bet. via internet",-10995.00,25153.84
+249,83139,0741326839,"Fï¿½retagskonto",SEK,2023-03-30,2023-03-30,2023-03-30,"Betalning Saft 2","Bg-bet. via internet",-398.00,24755.84
+250,83139,0741326839,"Fï¿½retagskonto",SEK,2023-04-03,2023-04-03,2023-04-03,"83139741326862","ï¿½verfï¿½ring via internet",-1.00,24754.84
+251,83139,0741326839,"Fï¿½retagskonto",SEK,2023-04-03,2023-04-03,2023-04-04,"6428437","Bankgiro inbetalning",100.00,24854.84
+252,83139,0741326839,"Fï¿½retagskonto",SEK,2023-04-11,2023-04-11,2023-04-11,"Hoppborg Skvalbo","Bg-bet. via internet",-2500.00,22354.84
+253,83139,0741326839,"Fï¿½retagskonto",SEK,2023-04-11,2023-04-11,2023-04-11,"Tryckerikostnade","Bg-bet. via internet",-1882.00,20472.84
+254,83139,0741326839,"Fï¿½retagskonto",SEK,2023-04-11,2023-04-11,2023-04-11,"Fï¿½rkï¿½p ï¿½G Fadder","Bg-bet. via internet",-7800.00,12672.84
+255,83139,0741326839,"Fï¿½retagskonto",SEK,2023-04-11,2023-04-11,2023-04-12,"6428437","Bankgiro inbetalning",20000.00,32672.84
+256,83139,0741326839,"Fï¿½retagskonto",SEK,2023-04-12,2023-04-12,2023-04-12,"83139741326862","ï¿½verfï¿½ring via internet",-1400.00,31272.84
+257,83139,0741326839,"Fï¿½retagskonto",SEK,2023-04-18,2023-04-18,2023-04-19,"6428437","Bankgiro inbetalning",150.00,31422.84
+258,83139,0741326839,"Fï¿½retagskonto",SEK,2023-04-20,2023-04-20,2023-04-21,"6428437","Bankgiro inbetalning",134075.00,165497.84
+259,83139,0741326839,"Fï¿½retagskonto",SEK,2023-04-21,2023-04-21,2023-04-21,"ï¿½terbetalning Fa","ï¿½verfï¿½ring via internet",-250.00,165247.84
+260,83139,0741326839,"Fï¿½retagskonto",SEK,2023-04-24,2023-04-24,2023-04-24,"83139741326862","ï¿½verfï¿½ring via internet",-5000.00,160247.84
+261,83139,0741326839,"Fï¿½retagskonto",SEK,2023-04-25,2023-04-25,2023-04-25,"83139741326862","ï¿½verfï¿½ring via internet",-4000.00,156247.84
+262,83139,0741326839,"Fï¿½retagskonto",SEK,2023-04-26,2023-04-26,2023-04-27,"6428437","Bankgiro inbetalning",50.00,156297.84
+263,83139,0741326839,"Fï¿½retagskonto",SEK,2023-04-28,2023-04-28,2023-04-28,"Internï¿½verfï¿½ring","ï¿½verfï¿½ring via internet",-4400.00,151897.84
+264,83139,0741326839,"Fï¿½retagskonto",SEK,2023-04-28,2023-04-28,2023-05-02,"1022304280018262","Internationell bet",18000.00,169897.84
+265,83139,0741326839,"Fï¿½retagskonto",SEK,2023-04-28,2023-04-28,2023-04-28,"1022304280018262","Pris avisering",-10.00,169887.84
+266,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-02,2023-04-29,2023-04-29,"Wii","ï¿½verfï¿½ring via internet",-600.00,169287.84
+267,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-02,2023-04-29,2023-04-29,"Mï¿½tesMat","ï¿½verfï¿½ring via internet",-510.00,168777.84
+268,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-02,2023-04-29,2023-04-29,"VonTï¿½nen","ï¿½verfï¿½ring via internet",-20.90,168756.94
+269,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-02,2023-04-29,2023-04-29,"CEQ-pris","ï¿½verfï¿½ring via internet",-1200.00,167556.94
+270,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-02,2023-04-29,2023-04-29,"CykelPump","ï¿½verfï¿½ring via internet",-129.00,167427.94
+271,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-02,2023-04-29,2023-04-29,"Vï¿½rd tack","ï¿½verfï¿½ring via internet",-657.55,166770.39
+272,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-02,2023-04-29,2023-04-29,"Tv fot","ï¿½verfï¿½ring via internet",-187.09,166583.30
+273,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-02,2023-04-29,2023-04-29,"VonTï¿½nen Testar","ï¿½verfï¿½ring via internet",-100.00,166483.30
+274,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-02,2023-04-29,2023-04-29,"Tandemutrustning","ï¿½verfï¿½ring via internet",-1470.80,165012.50
+275,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-02,2023-04-29,2023-04-29,"Vï¿½rd Tack","ï¿½verfï¿½ring via internet",-592.00,164420.50
+276,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-02,2023-04-29,2023-04-29,"Vï¿½rd Tack","ï¿½verfï¿½ring via internet",-531.00,163889.50
+277,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-02,2023-04-29,2023-04-29,"Klï¿½ttring","ï¿½verfï¿½ring via internet",-800.00,163089.50
+278,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-02,2023-04-29,2023-04-29,"Sprayfï¿½rg","ï¿½verfï¿½ring via internet",-149.80,162939.70
+279,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-02,2023-04-29,2023-04-29,"ledningsSkï¿½l","ï¿½verfï¿½ring via internet",-342.00,162597.70
+280,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-02,2023-04-29,2023-04-29,"Wii Inkï¿½p","ï¿½verfï¿½ring via internet",-843.00,161754.70
+281,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-02,2023-04-29,2023-04-29,"Present ING","ï¿½verfï¿½ring via internet",-75.90,161678.80
+282,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-02,2023-04-29,2023-04-29,"Batterier 1","Bg-bet. via internet",-1348.00,160330.80
+283,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-02,2023-04-29,2023-04-29,"Batterier 2","Bg-bet. via internet",-1607.00,158723.80
+284,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-02,2023-04-29,2023-04-29,"Arbetsklï¿½der FNU","Bg-bet. via internet",-4897.00,153826.80
+285,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-02,2023-04-29,2023-04-29,"Livsmedelskontro","Bg-bet. via internet",-2674.00,151152.80
+286,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-02,2023-04-29,2023-04-29,"Lokalhyra Skifte","Bg-bet. via internet",-14631.00,136521.80
+287,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-02,2023-04-29,2023-04-29,"Kontorsmaterial","Bg-bet. via internet",-3816.00,132705.80
+288,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-02,2023-05-02,2023-05-02,"83139741326862","ï¿½verfï¿½ring via internet",-2000.00,130705.80
+289,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-03,2023-05-03,2023-05-03,"83139741326862","ï¿½verfï¿½ring via internet",-19000.00,111705.80
+290,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-08,2023-05-07,2023-05-07,"83139741326862","ï¿½verfï¿½ring via internet",-17000.00,94705.80
+291,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-09,2023-05-09,2023-05-09,"83139741326862","ï¿½verfï¿½ring via internet",-40000.00,54705.80
+292,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-09,2023-05-09,2023-05-09,"83139741326862","ï¿½verfï¿½ring via internet",-2000.00,52705.80
+293,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-09,2023-05-09,2023-05-10,"6428437","Bankgiro inbetalning",25000.00,77705.80
+294,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-10,2023-05-10,2023-05-10,"83139741326862","ï¿½verfï¿½ring via internet",-6000.00,71705.80
+295,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-10,2023-05-09,2023-05-09,"83139741326862","ï¿½verfï¿½ring via internet",-4000.00,67705.80
+296,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-15,2023-05-15,2023-05-15,"Hallon Tandem","Bg-bet. via internet",-210.00,67495.80
+297,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-15,2023-05-15,2023-05-15,"Tryckerikostnade","Bg-bet. via internet",-135.13,67360.67
+298,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-15,2023-05-15,2023-05-15,"Bokslut + annat","Bg-bet. via internet",-18225.00,49135.67
+299,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-15,2023-05-15,2023-05-15,"Backvagnar (igen","Bg-bet. via internet",-10350.00,38785.67
+300,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-16,2023-05-15,2023-05-15,"83139741326862","ï¿½verfï¿½ring via internet",23000.00,61785.67
+301,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-16,2023-05-16,2023-05-16,"Internï¿½verfï¿½ring","ï¿½verfï¿½ring via internet",-5863.59,55922.08
+302,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-16,2023-05-16,2023-05-16,"Hoodies Studierï¿½","Bg-bet. via internet",-2476.00,53446.08
+303,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-16,2023-05-16,2023-05-17,"6428437","Bankgiro inbetalning",1400.00,54846.08
+304,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Syjunta","ï¿½verfï¿½ring via internet",-55.00,54791.08
+305,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Bokfï¿½ringsmat","ï¿½verfï¿½ring via internet",-85.00,54706.08
+306,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Stï¿½d artiklar","ï¿½verfï¿½ring via internet",-123.80,54582.28
+307,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"NyckelDep","ï¿½verfï¿½ring via internet",-300.00,54282.28
+308,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Laga NyckDep","ï¿½verfï¿½ring via internet",-300.00,53982.28
+309,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Syjunta","ï¿½verfï¿½ring via internet",-161.00,53821.28
+310,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Revisormat","ï¿½verfï¿½ring via internet",-85.00,53736.28
+311,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"NyckelDep","ï¿½verfï¿½ring via internet",-300.00,53436.28
+312,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Laga NyckDep","ï¿½verfï¿½ring via internet",-300.00,53136.28
+313,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"NyckelDep","ï¿½verfï¿½ring via internet",-300.00,52836.28
+314,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Laga NyckDep","ï¿½verfï¿½ring via internet",-300.00,52536.28
+315,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"NyckelDep","ï¿½verfï¿½ring via internet",-500.00,52036.28
+316,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Bï¿½gfil","ï¿½verfï¿½ring via internet",-129.00,51907.28
+317,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"NyckelDep","ï¿½verfï¿½ring via internet",-300.00,51607.28
+318,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Kontorsmaterial","ï¿½verfï¿½ring via internet",-298.00,51309.28
+319,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"NyckelDep","ï¿½verfï¿½ring via internet",-300.00,51009.28
+320,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Laga NyckDep","ï¿½verfï¿½ring via internet",-300.00,50709.28
+321,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Laga NyckDep","ï¿½verfï¿½ring via internet",-300.00,50409.28
+322,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Syjunta","ï¿½verfï¿½ring via internet",-203.00,50206.28
+323,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"NyckelDep","ï¿½verfï¿½ring via internet",-300.00,49906.28
+324,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Kontorsmaterial","ï¿½verfï¿½ring via internet",-20.00,49886.28
+325,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Laga NyckDep","ï¿½verfï¿½ring via internet",-300.00,49586.28
+326,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Nyckel Depositio","ï¿½verfï¿½ring via internet",-300.00,49286.28
+327,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"NyckelDep","ï¿½verfï¿½ring via internet",-500.00,48786.28
+328,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Intervjumat","ï¿½verfï¿½ring via internet",-170.00,48616.28
+329,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"CeqPris","ï¿½verfï¿½ring via internet",-1200.00,47416.28
+330,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Diesel","ï¿½verfï¿½ring via internet",-1192.11,46224.17
+331,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Laga NyckDep","ï¿½verfï¿½ring via internet",-500.00,45724.17
+332,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Laga NyckDep","ï¿½verfï¿½ring via internet",-300.00,45424.17
+333,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Blommor IKEA","ï¿½verfï¿½ring via internet",-300.00,45124.17
+334,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Revisormat","ï¿½verfï¿½ring via internet",-85.00,45039.17
+335,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Stï¿½dartiklar","ï¿½verfï¿½ring via internet",-171.80,44867.37
+336,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Laga NyckDep","ï¿½verfï¿½ring via internet",-300.00,44567.37
+337,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-17,2023-05-17,2023-05-17,"Saft Deltagareav","Bg-bet. via internet",-3750.00,40817.37
+338,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-17,2023-05-17,2023-05-19,"6428437","Bankgiro inbetalning",26765.00,67582.37
+339,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-19,2023-05-18,2023-05-18,"Intervjumat","ï¿½verfï¿½ring via internet",-255.00,67327.37
+340,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-23,2023-05-23,2023-05-23,"83139741326862","ï¿½verfï¿½ring via internet",-14800.00,52527.37
+341,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-30,2023-05-30,2023-06-01,"6428437","Bankgiro inbetalning",1276.00,53803.37
+342,83139,0741326839,"Fï¿½retagskonto",SEK,2023-05-31,2023-05-31,2023-05-30,"83139741326862","ï¿½verfï¿½ring via internet",-6000.00,47803.37
+343,83139,0741326839,"Fï¿½retagskonto",SEK,2023-06-02,2023-06-02,2023-06-05,"6428437","Bankgiro inbetalning",23000.00,70803.37
+344,83139,0741326839,"Fï¿½retagskonto",SEK,2023-06-05,2023-06-03,2023-06-03,"Intervjumat","ï¿½verfï¿½ring via internet",-164.00,70639.37
+345,83139,0741326839,"Fï¿½retagskonto",SEK,2023-06-05,2023-06-03,2023-06-03,"Outfit","ï¿½verfï¿½ring via internet",-1869.00,68770.37
+346,83139,0741326839,"Fï¿½retagskonto",SEK,2023-06-05,2023-06-03,2023-06-03,"Outfit","ï¿½verfï¿½ring via internet",-159.90,68610.47
+347,83139,0741326839,"Fï¿½retagskonto",SEK,2023-06-05,2023-06-03,2023-06-03,"Deisel","ï¿½verfï¿½ring via internet",-393.20,68217.27
+348,83139,0741326839,"Fï¿½retagskonto",SEK,2023-06-05,2023-06-03,2023-06-03,"Outfit","ï¿½verfï¿½ring via internet",-50.00,68167.27
+349,83139,0741326839,"Fï¿½retagskonto",SEK,2023-06-05,2023-06-03,2023-06-03,"Klï¿½ttring","ï¿½verfï¿½ring via internet",-800.00,67367.27
+350,83139,0741326839,"Fï¿½retagskonto",SEK,2023-06-05,2023-06-03,2023-06-03,"Outfit","ï¿½verfï¿½ring via internet",-178.50,67188.77
+351,83139,0741326839,"Fï¿½retagskonto",SEK,2023-06-05,2023-06-03,2023-06-03,"Vï¿½rskï¿½l","ï¿½verfï¿½ring via internet",-224.70,66964.07
+352,83139,0741326839,"Fï¿½retagskonto",SEK,2023-06-05,2023-06-03,2023-06-03,"Tandem","ï¿½verfï¿½ring via internet",-89.80,66874.27
+353,83139,0741326839,"Fï¿½retagskonto",SEK,2023-06-05,2023-06-03,2023-06-03,"Intervju godis","ï¿½verfï¿½ring via internet",-62.68,66811.59
+354,83139,0741326839,"Fï¿½retagskonto",SEK,2023-06-05,2023-06-03,2023-06-03,"Event Fika","ï¿½verfï¿½ring via internet",-110.50,66701.09
+355,83139,0741326839,"Fï¿½retagskonto",SEK,2023-06-05,2023-06-03,2023-06-03,"Revisormat","ï¿½verfï¿½ring via internet",-85.00,66616.09
+356,83139,0741326839,"Fï¿½retagskonto",SEK,2023-06-05,2023-06-03,2023-06-03,"Mat SRF SRpi","ï¿½verfï¿½ring via internet",-133.00,66483.09
+357,83139,0741326839,"Fï¿½retagskonto",SEK,2023-06-05,2023-06-03,2023-06-03,"Alumnipub","ï¿½verfï¿½ring via internet",-1726.92,64756.17
+358,83139,0741326839,"Fï¿½retagskonto",SEK,2023-06-05,2023-06-03,2023-06-03,"Event fika","ï¿½verfï¿½ring via internet",-316.00,64440.17
+359,83139,0741326839,"Fï¿½retagskonto",SEK,2023-06-05,2023-06-03,2023-06-03,"83139741326862","ï¿½verfï¿½ring via internet",-20000.00,44440.17
+360,83139,0741326839,"Fï¿½retagskonto",SEK,2023-06-07,2023-06-07,2023-06-08,"6428437","Bankgiro inbetalning",585.00,45025.17
+361,83139,0741326839,"Fï¿½retagskonto",SEK,2023-06-09,2023-06-09,2023-06-09,"83139741326862","ï¿½verfï¿½ring via internet",13076.39,58101.56
+362,83139,0741326839,"Fï¿½retagskonto",SEK,2023-06-09,2023-06-09,2023-06-09,"Mï¿½tesmat Fï¿½set","ï¿½verfï¿½ring via internet",-340.00,57761.56
+363,83139,0741326839,"Fï¿½retagskonto",SEK,2023-06-09,2023-06-09,2023-06-09,"Halsband till Fï¿½","ï¿½verfï¿½ring via internet",-38.00,57723.56
+364,83139,0741326839,"Fï¿½retagskonto",SEK,2023-06-09,2023-06-09,2023-06-09,"Tyg Mantel Fï¿½s-O","ï¿½verfï¿½ring via internet",-42.00,57681.56
+365,83139,0741326839,"Fï¿½retagskonto",SEK,2023-06-09,2023-06-09,2023-06-09,"Kjol Fï¿½s-Outfit","ï¿½verfï¿½ring via internet",-1173.00,56508.56
+366,83139,0741326839,"Fï¿½retagskonto",SEK,2023-06-09,2023-06-09,2023-06-09,"Mï¿½tesmat Fï¿½set","ï¿½verfï¿½ring via internet",-461.31,56047.25
+367,83139,0741326839,"Fï¿½retagskonto",SEK,2023-06-09,2023-06-09,2023-06-09,"Smycken Fï¿½s-Outf","ï¿½verfï¿½ring via internet",-208.00,55839.25
+368,83139,0741326839,"Fï¿½retagskonto",SEK,2023-06-09,2023-06-09,2023-06-09,"Tiara Fï¿½s-Outfit","ï¿½verfï¿½ring via internet",-321.00,55518.25
+369,83139,0741326839,"Fï¿½retagskonto",SEK,2023-06-09,2023-06-09,2023-06-09,"Ringar till Fï¿½s-","ï¿½verfï¿½ring via internet",-22.00,55496.25
+370,83139,0741326839,"Fï¿½retagskonto",SEK,2023-06-09,2023-06-09,2023-06-09,"Skor till Fï¿½s-Ou","ï¿½verfï¿½ring via internet",-348.00,55148.25
+371,83139,0741326839,"Fï¿½retagskonto",SEK,2023-06-09,2023-06-09,2023-06-09,"Skor Fï¿½s-Outfit","ï¿½verfï¿½ring via internet",-283.00,54865.25
+372,83139,0741326839,"Fï¿½retagskonto",SEK,2023-06-09,2023-06-09,2023-06-09,"Glasï¿½gon Fï¿½s-Out","ï¿½verfï¿½ring via internet",-894.00,53971.25
+373,83139,0741326839,"Fï¿½retagskonto",SEK,2023-06-09,2023-06-09,2023-06-09,"Klï¿½nning Fï¿½s-Out","ï¿½verfï¿½ring via internet",-984.50,52986.75
+374,83139,0741326839,"Fï¿½retagskonto",SEK,2023-06-09,2023-06-09,2023-06-09,"Skor Fï¿½s-Outfit","ï¿½verfï¿½ring via internet",-368.50,52618.25
+375,83139,0741326839,"Fï¿½retagskonto",SEK,2023-06-14,2023-06-14,2023-06-15,"6428437","Bankgiro inbetalning",7801.46,60419.71
+376,83139,0741326839,"Fï¿½retagskonto",SEK,2023-06-16,2023-06-16,2023-06-16,"Power Banks Tand","Pg-bet. via internet",-1159.80,59259.91
+377,83139,0741326839,"Fï¿½retagskonto",SEK,2023-06-16,2023-06-16,2023-06-16,"Reise skifte Lop","Bg-bet. via internet",-1250.00,58009.91
+378,83139,0741326839,"Fï¿½retagskonto",SEK,2023-06-21,2023-06-21,2023-06-22,"6428437","Bankgiro inbetalning",1250.00,59259.91
+379,83139,0741326839,"Fï¿½retagskonto",SEK,2023-06-22,2023-06-22,2023-06-26,"UF bidrag","ï¿½verfï¿½ring",38400.00,97659.91
+380,83139,0741326839,"Fï¿½retagskonto",SEK,2023-06-30,2023-06-30,2023-06-30,"Paddel","Bg-bet. via internet",-2765.51,94894.40
+381,83139,0741326839,"Fï¿½retagskonto",SEK,2023-06-30,2023-06-30,2023-06-30,"Fotovï¿½g","Bg-bet. via internet",-3586.00,91308.40
+382,83139,0741326839,"Fï¿½retagskonto",SEK,2023-06-30,2023-06-30,2023-06-30,"Ehuset tryckeri","Bg-bet. via internet",-2179.00,89129.40
+383,83139,0741326839,"Fï¿½retagskonto",SEK,2023-06-30,2023-06-30,2023-06-30,"Mat FNU","Bg-bet. via internet",-7780.00,81349.40
+384,83139,0741326839,"Fï¿½retagskonto",SEK,2023-07-03,2023-07-03,2023-07-03,"83139741326862","ï¿½verfï¿½ring via internet",-7000.00,74349.40
+385,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-08,2023-08-08,2023-08-08,"83139741326847","ï¿½verfï¿½ring via internet",150000.00,224349.40
+386,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-09,2023-08-09,2023-08-09,"Lophtet Valborg","Bg-bet. via internet",-2915.00,221434.40
+387,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-10,2023-08-10,2023-08-10,"Arbetsklï¿½der RM","ï¿½verfï¿½ring via internet",-600.00,220834.40
+388,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-10,2023-08-10,2023-08-10,"Ceq mat","ï¿½verfï¿½ring via internet",-170.00,220664.40
+389,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-10,2023-08-10,2023-08-10,"Heltidssittning","ï¿½verfï¿½ring via internet",-2000.00,218664.40
+390,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-10,2023-08-10,2023-08-10,"Revisormat","ï¿½verfï¿½ring via internet",-170.00,218494.40
+391,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-10,2023-08-10,2023-08-10,"Revisormat","ï¿½verfï¿½ring via internet",-84.70,218409.70
+392,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-10,2023-08-10,2023-08-10,"Sï¿½ngbï¿½cker","Bg-bet. via internet",-31630.00,186779.70
+393,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-10,2023-08-10,2023-08-10,"Alumnipup","Bg-bet. via internet",-2705.00,184074.70
+394,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-10,2023-08-10,2023-08-10,"Tandembiljetter","Bg-bet. via internet",-44550.00,139524.70
+395,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-10,2023-08-10,2023-08-10,"Skvalborg Teknik","Bg-bet. via internet",-1590.00,137934.70
+396,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-10,2023-08-10,2023-08-10,"Uteblivennï¿½rvaro","Bg-bet. via internet",-400.00,137534.70
+397,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-10,2023-08-10,2023-08-11,"6428437","Bankgiro inbetalning",1000.00,138534.70
+398,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-11,2023-08-11,2023-08-11,"Arbetsklï¿½der + A","ï¿½verfï¿½ring via internet",-660.70,137874.00
+399,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-11,2023-08-11,2023-08-11,"Bokfï¿½ringsmat","ï¿½verfï¿½ring via internet",-77.00,137797.00
+400,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-11,2023-08-11,2023-08-11,"Fordonskatt","Bg-bet. via internet",-1671.00,136126.00
+401,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-11,2023-08-11,2023-08-11,"Drï¿½narkï¿½rkortsko","Bg-bet. via internet",-135.00,135991.00
+402,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-11,2023-08-11,2023-08-11,"Datorryggsï¿½kar F","Bg-bet. via internet",-81046.25,54944.75
+403,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-11,2023-08-11,2023-08-11,"Bilfï¿½rsï¿½kring","Bg-bet. via internet",-1985.00,52959.75
+404,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-11,2023-08-11,2023-08-14,"6428437","Bankgiro inbetalning",1300.00,54259.75
+405,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-14,2023-08-13,2023-08-13,"83139741326862","ï¿½verfï¿½ring via internet",-210.00,54049.75
+406,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-14,2023-08-14,2023-08-15,"6428437","Bankgiro inbetalning",400.00,54449.75
+407,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-15,2023-08-15,2023-08-16,"6428437","Bankgiro inbetalning",580.00,55029.75
+408,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-16,2023-08-16,2023-08-16,"83139741326862","ï¿½verfï¿½ring via internet",-22000.00,33029.75
+409,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-17,2023-08-16,2023-08-16,"83139741326862","ï¿½verfï¿½ring via internet",-5000.00,28029.75
+410,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-18,2023-08-18,2023-08-21,"6428437","Bankgiro inbetalning",4500.00,32529.75
+411,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-21,2023-08-19,2023-08-19,"Outfit","ï¿½verfï¿½ring via internet",-129.90,32399.85
+412,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-21,2023-08-19,2023-08-19,"Outfit","ï¿½verfï¿½ring via internet",-59.38,32340.47
+413,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-21,2023-08-19,2023-08-19,"Outfit","ï¿½verfï¿½ring via internet",-345.39,31995.08
+414,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-21,2023-08-19,2023-08-19,"Outfit","ï¿½verfï¿½ring via internet",-61.20,31933.88
+415,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-21,2023-08-19,2023-08-19,"Outfit","ï¿½verfï¿½ring via internet",-151.20,31782.68
+416,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-21,2023-08-19,2023-08-19,"Outfit","ï¿½verfï¿½ring via internet",-248.08,31534.60
+417,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-21,2023-08-19,2023-08-19,"Mï¿½tesmat Fï¿½set","ï¿½verfï¿½ring via internet",-85.00,31449.60
+418,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-21,2023-08-19,2023-08-19,"Outfit","ï¿½verfï¿½ring via internet",-155.00,31294.60
+419,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-21,2023-08-19,2023-08-19,"Outfit","ï¿½verfï¿½ring via internet",-122.20,31172.40
+420,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-21,2023-08-19,2023-08-19,"Outfit","ï¿½verfï¿½ring via internet",-687.00,30485.40
+421,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-21,2023-08-19,2023-08-19,"Outfit","ï¿½verfï¿½ring via internet",-118.00,30367.40
+422,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-21,2023-08-19,2023-08-19,"Outfit","ï¿½verfï¿½ring via internet",-156.97,30210.43
+423,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-21,2023-08-19,2023-08-19,"Outfit","ï¿½verfï¿½ring via internet",-19.00,30191.43
+424,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-21,2023-08-19,2023-08-19,"Outfit","ï¿½verfï¿½ring via internet",-138.13,30053.30
+425,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-21,2023-08-19,2023-08-19,"Mï¿½tesmat Fï¿½set","ï¿½verfï¿½ring via internet",-85.00,29968.30
+426,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-21,2023-08-19,2023-08-19,"Tyg","ï¿½verfï¿½ring via internet",-66.00,29902.30
+427,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-21,2023-08-19,2023-08-19,"Outfit","ï¿½verfï¿½ring via internet",-101.80,29800.50
+428,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-21,2023-08-19,2023-08-19,"Adobe-konto","ï¿½verfï¿½ring via internet",-2328.30,27472.20
+429,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-21,2023-08-19,2023-08-19,"Outfit","ï¿½verfï¿½ring via internet",-188.60,27283.60
+430,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-21,2023-08-19,2023-08-19,"Outfit","ï¿½verfï¿½ring via internet",-379.54,26904.06
+431,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-21,2023-08-19,2023-08-19,"Outfit","ï¿½verfï¿½ring via internet",-240.75,26663.31
+432,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-21,2023-08-19,2023-08-19,"Outfit","ï¿½verfï¿½ring via internet",-81.95,26581.36
+433,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-21,2023-08-19,2023-08-19,"Pompoms (tull)","ï¿½verfï¿½ring via internet",-467.00,26114.36
+434,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-21,2023-08-20,2023-08-20,"Mï¿½rken Nollning","Bg-bet. via internet",-17182.00,8932.36
+435,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-22,2023-08-22,2023-08-22,"Internï¿½verfï¿½ring","ï¿½verfï¿½ring via internet",100000.00,108932.36
+436,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-22,2023-08-22,2023-08-22,"Faddergruppsmat","ï¿½verfï¿½ring via internet",-550.00,108382.36
+437,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-22,2023-08-22,2023-08-22,"83139741326870","ï¿½verfï¿½ring via internet",-10000.00,98382.36
+438,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-22,2023-08-22,2023-08-22,"83139741326862","ï¿½verfï¿½ring via internet",-45000.00,53382.36
+439,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-23,2023-08-23,2023-08-23,"Kol Utskottssafa","ï¿½verfï¿½ring via internet",-211.60,53170.76
+440,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-23,2023-08-23,2023-08-23,"Faddergruppsmat","ï¿½verfï¿½ring via internet",-390.45,52780.31
+441,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-23,2023-08-23,2023-08-23,"Faddergruppsmat","ï¿½verfï¿½ring via internet",-550.00,52230.31
+442,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-23,2023-08-23,2023-08-23,"Faddergruppsmat","ï¿½verfï¿½ring via internet",-574.22,51656.09
+443,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-23,2023-08-23,2023-08-23,"Faddergruppsmat","ï¿½verfï¿½ring via internet",-530.52,51125.57
+444,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-23,2023-08-23,2023-08-23,"Faddergruppsmat","ï¿½verfï¿½ring via internet",-159.80,50965.77
+445,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-23,2023-08-23,2023-08-23,"Banbetalning","Bg-bet. via internet",-7800.00,43165.77
+446,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-23,2023-08-23,2023-08-23,"Banhyra","Bg-bet. via internet",-3900.00,39265.77
+447,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-23,2023-08-23,2023-08-23,"Skumbollar","Bg-bet. via internet",-931.86,38333.91
+448,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-23,2023-08-23,2023-08-23,"Domï¿½nkostnad","Bg-bet. via internet",-120.00,38213.91
+449,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-28,2023-08-27,2023-08-27,"83139741326862","ï¿½verfï¿½ring via internet",-5000.00,33213.91
+450,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-28,2023-08-28,2023-08-28,"Faddergruppsmat","ï¿½verfï¿½ring via internet",-475.00,32738.91
+451,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-28,2023-08-28,2023-08-28,"Faddergruppsmat","ï¿½verfï¿½ring via internet",-350.00,32388.91
+452,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-28,2023-08-28,2023-08-28,"Faddergruppsmat","ï¿½verfï¿½ring via internet",-81.70,32307.21
+453,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-29,2023-08-29,2023-08-29,"83139741326862","ï¿½verfï¿½ring via internet",-26000.00,6307.21
+454,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-29,2023-08-29,2023-08-29,"Faddergruppsmat","ï¿½verfï¿½ring via internet",-374.94,5932.27
+455,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-30,2023-08-30,2023-08-30,"Campetmat","ï¿½verfï¿½ring via internet",-449.90,5482.37
+456,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-30,2023-08-30,2023-08-30,"Faddergruppsmat","ï¿½verfï¿½ring via internet",-418.06,5064.31
+457,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-30,2023-08-30,2023-08-30,"Faddergruppsmat","ï¿½verfï¿½ring via internet",-550.00,4514.31
+458,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-30,2023-08-30,2023-08-30,"Jobbargodis","ï¿½verfï¿½ring via internet",-190.15,4324.16
+459,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-30,2023-08-30,2023-08-30,"Campetmat","ï¿½verfï¿½ring via internet",-89.00,4235.16
+460,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-30,2023-08-30,2023-08-30,"Faddergruppsmat","ï¿½verfï¿½ring via internet",-131.94,4103.22
+461,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-30,2023-08-30,2023-08-30,"Jobbarsnacks","ï¿½verfï¿½ring via internet",-1575.04,2528.18
+462,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-30,2023-08-30,2023-08-30,"Jobbarmat","ï¿½verfï¿½ring via internet",-37.80,2490.38
+463,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-30,2023-08-30,2023-08-30,"83139741326847","ï¿½verfï¿½ring via internet",100000.00,102490.38
+464,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-30,2023-08-30,2023-08-30,"Campetmat","ï¿½verfï¿½ring via internet",-179.00,102311.38
+465,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-30,2023-08-30,2023-08-30,"Engï¿½ngsartiklar","Bg-bet. via internet",-5846.00,96465.38
+466,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-30,2023-08-30,2023-09-01,"6428437","Bankgiro inbetalning",150.00,96615.38
+467,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-31,2023-08-31,2023-08-30,"Faddergruppsmat","ï¿½verfï¿½ring via internet",-627.00,95988.38
+468,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-31,2023-08-31,2023-08-30,"Faddergruppsmat","ï¿½verfï¿½ring via internet",-550.00,95438.38
+469,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-31,2023-08-31,2023-08-30,"Tryckerikostnade","Bg-bet. via internet",-2470.00,92968.38
+470,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-31,2023-08-31,2023-08-30,"Brodyr","Bg-bet. via internet",-1893.75,91074.63
+471,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-31,2023-08-31,2023-08-30,"Lednings Brodyr","Bg-bet. via internet",-4275.00,86799.63
+472,83139,0741326839,"Fï¿½retagskonto",SEK,2023-08-31,2023-08-31,2023-08-30,"Busscampet","Bg-bet. via internet",-43245.00,43554.63
+473,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-04,2023-09-03,2023-09-03,"Camp Drivmedel","ï¿½verfï¿½ring via internet",-279.00,43275.63
+474,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-04,2023-09-03,2023-09-03,"Faddergruppsmat","ï¿½verfï¿½ring via internet",-118.91,43156.72
+475,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-04,2023-09-03,2023-09-03,"Faddergruppsmat","ï¿½verfï¿½ring via internet",-77.90,43078.82
+476,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-04,2023-09-03,2023-09-03,"Faddergruppsmat","ï¿½verfï¿½ring via internet",-493.20,42585.62
+477,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-04,2023-09-03,2023-09-03,"Material","ï¿½verfï¿½ring via internet",-105.00,42480.62
+478,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-04,2023-09-03,2023-09-03,"Faddergruppsmat","ï¿½verfï¿½ring via internet",-85.60,42395.02
+479,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-04,2023-09-03,2023-09-03,"Faddergruppsmat","ï¿½verfï¿½ring via internet",-548.04,41846.98
+480,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-04,2023-09-03,2023-09-03,"Faddergruppsmat","ï¿½verfï¿½ring via internet",-504.00,41342.98
+481,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-04,2023-09-03,2023-09-03,"Ved","ï¿½verfï¿½ring via internet",-899.10,40443.88
+482,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-04,2023-09-03,2023-09-03,"Marschaller","ï¿½verfï¿½ring via internet",-497.30,39946.58
+483,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-04,2023-09-03,2023-09-03,"Camp Batterier","ï¿½verfï¿½ring via internet",-134.80,39811.78
+484,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-04,2023-09-03,2023-09-03,"Camp Jobbargodis","ï¿½verfï¿½ring via internet",-141.00,39670.78
+485,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-04,2023-09-03,2023-09-03,"Camp Stï¿½dning","ï¿½verfï¿½ring via internet",-125.60,39545.18
+486,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-04,2023-09-03,2023-09-03,"Faddergruppsmat","ï¿½verfï¿½ring via internet",-434.04,39111.14
+487,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-04,2023-09-03,2023-09-03,"Faddergruppsmat","ï¿½verfï¿½ring via internet",-515.24,38595.90
+488,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-04,2023-09-03,2023-09-03,"Camp Blandat","ï¿½verfï¿½ring via internet",-374.40,38221.50
+489,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-04,2023-09-03,2023-09-03,"Camp Frukost","ï¿½verfï¿½ring via internet",-27.80,38193.70
+490,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-04,2023-09-03,2023-09-03,"Faddergruppsmat","ï¿½verfï¿½ring via internet",-700.00,37493.70
+491,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-05,2023-09-05,2023-09-05,"Skifte Fika","ï¿½verfï¿½ring via internet",-249.20,37244.50
+492,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-05,2023-09-05,2023-09-05,"Byggmaterial","ï¿½verfï¿½ring via internet",-807.40,36437.10
+493,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-05,2023-09-05,2023-09-05,"Nano Heltid","ï¿½verfï¿½ring via internet",-500.00,35937.10
+494,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-05,2023-09-05,2023-09-05,"Skiftes buss","ï¿½verfï¿½ring via internet",-438.40,35498.70
+495,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-05,2023-09-05,2023-09-05,"Rengï¿½ring","ï¿½verfï¿½ring via internet",-99.90,35398.80
+496,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-05,2023-09-05,2023-09-05,"Skifte Middag","ï¿½verfï¿½ring via internet",-3319.00,32079.80
+497,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-05,2023-09-05,2023-09-05,"Inkï¿½p Biltema","ï¿½verfï¿½ring via internet",-274.50,31805.30
+498,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-05,2023-09-05,2023-09-05,"Biltvï¿½tt","ï¿½verfï¿½ring via internet",-34.72,31770.58
+499,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-05,2023-09-05,2023-09-05,"Biltvï¿½tt","ï¿½verfï¿½ring via internet",-69.28,31701.30
+500,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-05,2023-09-05,2023-09-05,"Byggmaterial Nol","ï¿½verfï¿½ring via internet",-1003.65,30697.65
+501,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-05,2023-09-05,2023-09-05,"Inventarie","ï¿½verfï¿½ring via internet",-1595.00,29102.65
+502,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-05,2023-09-05,2023-09-05,"Skiftes buss","ï¿½verfï¿½ring via internet",-438.40,28664.25
+503,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-05,2023-09-05,2023-09-05,"Skiftes buss","ï¿½verfï¿½ring via internet",-438.00,28226.25
+504,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-05,2023-09-05,2023-09-05,"Deisel","ï¿½verfï¿½ring via internet",-1168.37,27057.88
+505,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-05,2023-09-05,2023-09-05,"Fï¿½rsta hjï¿½lpen","ï¿½verfï¿½ring via internet",-296.00,26761.88
+506,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-05,2023-09-05,2023-09-05,"Skifte mat","ï¿½verfï¿½ring via internet",-375.00,26386.88
+507,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-05,2023-09-05,2023-09-05,"Tack Valleb","ï¿½verfï¿½ring via internet",-650.00,25736.88
+508,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-05,2023-09-05,2023-09-05,"Skiftes buss","ï¿½verfï¿½ring via internet",-438.40,25298.48
+509,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-05,2023-09-05,2023-09-05,"Inkï¿½p Inventarie","ï¿½verfï¿½ring via internet",-1824.30,23474.18
+510,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-05,2023-09-05,2023-09-06,"6428437","Bankgiro inbetalning",740.00,24214.18
+511,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-06,2023-09-06,2023-09-06,"Gyckel","ï¿½verfï¿½ring via internet",-790.00,23424.18
+512,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-06,2023-09-06,2023-09-06,"Milersï¿½ttning","ï¿½verfï¿½ring via internet",-500.00,22924.18
+513,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-06,2023-09-06,2023-09-06,"Diesel","ï¿½verfï¿½ring via internet",-1122.39,21801.79
+514,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-06,2023-09-06,2023-09-06,"Skiftes buss","ï¿½verfï¿½ring via internet",-175.50,21626.29
+515,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-06,2023-09-06,2023-09-06,"Styrelseutbildni","ï¿½verfï¿½ring via internet",-680.00,20946.29
+516,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-06,2023-09-06,2023-09-06,"Mat","ï¿½verfï¿½ring via internet",-211.50,20734.79
+517,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-06,2023-09-06,2023-09-06,"Milersï¿½ttning","ï¿½verfï¿½ring via internet",-1325.00,19409.79
+518,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-06,2023-09-06,2023-09-06,"Arbetsklï¿½der","ï¿½verfï¿½ring via internet",-248.00,19161.79
+519,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-06,2023-09-06,2023-09-06,"Skiftes buss","ï¿½verfï¿½ring via internet",-438.40,18723.39
+520,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-06,2023-09-06,2023-09-06,"Valle B Tack","ï¿½verfï¿½ring via internet",-620.00,18103.39
+521,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-06,2023-09-06,2023-09-06,"Planhyra","ï¿½verfï¿½ring via internet",-450.00,17653.39
+522,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-06,2023-09-06,2023-09-06,"Halloween-mï¿½rke","Bg-bet. via internet",-2540.00,15113.39
+523,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-06,2023-09-06,2023-09-07,"6428437","Bankgiro inbetalning",33000.00,48113.39
+524,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-08,2023-09-08,2023-09-11,"6428437","Bankgiro inbetalning",1000.00,49113.39
+525,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-11,2023-09-11,2023-09-11,"Faddergruppsmat","ï¿½verfï¿½ring via internet",-488.38,48625.01
+526,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-11,2023-09-11,2023-09-11,"Fï¿½set Outfit","ï¿½verfï¿½ring via internet",-129.00,48496.01
+527,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-11,2023-09-11,2023-09-11,"SING Jobbarmat","ï¿½verfï¿½ring via internet",-47.70,48448.31
+528,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-11,2023-09-11,2023-09-11,"Faddergruppsmat","ï¿½verfï¿½ring via internet",-575.00,47873.31
+529,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-11,2023-09-11,2023-09-11,"Ovvelekar Grillk","ï¿½verfï¿½ring via internet",-199.50,47673.81
+530,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-11,2023-09-11,2023-09-11,"Fï¿½rg","ï¿½verfï¿½ring via internet",-2312.00,45361.81
+531,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-11,2023-09-11,2023-09-11,"Milersï¿½ttning","ï¿½verfï¿½ring via internet",-550.00,44811.81
+532,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-11,2023-09-11,2023-09-11,"SING Jobbarmat","ï¿½verfï¿½ring via internet",-1145.00,43666.81
+533,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-11,2023-09-11,2023-09-11,"Fï¿½rg","ï¿½verfï¿½ring via internet",-418.00,43248.81
+534,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-11,2023-09-11,2023-09-11,"Tour de lomma","ï¿½verfï¿½ring via internet",-99.90,43148.91
+535,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-11,2023-09-11,2023-09-11,"SING Komp-handli","ï¿½verfï¿½ring via internet",-414.30,42734.61
+536,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-11,2023-09-11,2023-09-11,"Cykel hyra TDL","ï¿½verfï¿½ring via internet",-1800.00,40934.61
+537,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-11,2023-09-11,2023-09-11,"Faddergruppsmat","ï¿½verfï¿½ring via internet",-581.73,40352.88
+538,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-11,2023-09-11,2023-09-11,"SING Komp-handli","ï¿½verfï¿½ring via internet",-119.50,40233.38
+539,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-11,2023-09-11,2023-09-11,"SING Jobbarmat","ï¿½verfï¿½ring via internet",-125.00,40108.38
+540,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-11,2023-09-11,2023-09-11,"FlyING Tï¿½gresa","ï¿½verfï¿½ring via internet",-87.75,40020.63
+541,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-11,2023-09-11,2023-09-11,"Milersï¿½ttning","ï¿½verfï¿½ring via internet",-1325.00,38695.63
+542,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-11,2023-09-11,2023-09-11,"Innefotboll","Pg-bet. via internet",-1800.00,36895.63
+543,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-11,2023-09-11,2023-09-11,"Utefotboll","Pg-bet. via internet",-1800.00,35095.63
+544,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-11,2023-09-11,2023-09-11,"Hemsidaavgift","Bg-bet. via internet",-485.00,34610.63
+545,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-11,2023-09-11,2023-09-11,"Mï¿½rken","Bg-bet. via internet",-9403.00,25207.63
+546,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-11,2023-09-11,2023-09-12,"6428437","Bankgiro inbetalning",20325.00,45532.63
+547,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-12,2023-09-12,2023-09-12,"Sonnarp","Pg-bet. via internet",-19725.00,25807.63
+548,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-12,2023-09-12,2023-09-12,"FlyING bussar","Bg-bet. via internet",-7371.00,18436.63
+549,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-12,2023-09-12,2023-09-12,"Mantelbrodyr","Bg-bet. via internet",-3413.00,15023.63
+550,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-12,2023-09-12,2023-09-13,"6428437","Bankgiro inbetalning",75.00,15098.63
+551,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-19,2023-09-19,2023-09-19,"Internï¿½verfï¿½ring","ï¿½verfï¿½ring via internet",200000.00,215098.63
+552,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-19,2023-09-19,2023-09-19,"Faddergruppsmat","ï¿½verfï¿½ring via internet",-775.00,214323.63
+553,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-19,2023-09-19,2023-09-19,"83139741326862","ï¿½verfï¿½ring via internet",-30000.00,184323.63
+554,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-19,2023-09-19,2023-09-19,"83139741326862","ï¿½verfï¿½ring via internet",-15000.00,169323.63
+555,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-19,2023-09-19,2023-09-20,"6428437","Bankgiro inbetalning",275.00,169598.63
+556,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-21,2023-09-21,2023-09-21,"83139741326862","ï¿½verfï¿½ring via internet",-8000.00,161598.63
+557,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-25,2023-09-25,2023-09-25,"Hï¿½S Presentkort","ï¿½verfï¿½ring via internet",-4550.00,157048.63
+558,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-25,2023-09-25,2023-09-25,"Aspia","Bg-bet. via internet",-4306.25,152742.38
+559,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-25,2023-09-25,2023-09-25,"Merch inkï¿½p","Bg-bet. via internet",-141.00,152601.38
+560,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-25,2023-09-25,2023-09-25,"skadogï¿½relse A s","Bg-bet. via internet",-350.00,152251.38
+561,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-25,2023-09-25,2023-09-25,"Sponsring A sekt","Bg-bet. via internet",-5000.00,147251.38
+562,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-25,2023-09-25,2023-09-26,"6428437","Bankgiro inbetalning",80.00,147331.38
+563,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-27,2023-09-27,2023-09-28,"6428437","Bankgiro inbetalning",359.00,147690.38
+564,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-29,2023-09-29,2023-09-29,"Nollesex komp","ï¿½verfï¿½ring via internet",-235.90,147454.48
+565,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-29,2023-09-29,2023-09-29,"Nollympiaden","ï¿½verfï¿½ring via internet",-264.70,147189.78
+566,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-29,2023-09-29,2023-09-29,"Nollesex komp","ï¿½verfï¿½ring via internet",-332.00,146857.78
+567,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-29,2023-09-29,2023-09-29,"Mï¿½tesfika","ï¿½verfï¿½ring via internet",-162.90,146694.88
+568,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-29,2023-09-29,2023-09-29,"83139741326862","ï¿½verfï¿½ring via internet",14420.38,161115.26
+569,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-29,2023-09-29,2023-09-29,"Nollesex jobbarm","ï¿½verfï¿½ring via internet",-2470.00,158645.26
+570,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-29,2023-09-29,2023-09-29,"Campet lampa","ï¿½verfï¿½ring via internet",-199.90,158445.36
+571,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-29,2023-09-29,2023-09-29,"Faddergruppsmat","ï¿½verfï¿½ring via internet",-466.55,157978.81
+572,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-29,2023-09-29,2023-09-29,"Mï¿½rken Nollesex","Bg-bet. via internet",-2056.00,155922.81
+573,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-29,2023-09-29,2023-09-29,"Wermlands","Bg-bet. via internet",-21220.00,134702.81
+574,83139,0741326839,"Fï¿½retagskonto",SEK,2023-09-29,2023-09-29,2023-10-02,"6428437","Bankgiro inbetalning",5250.00,139952.81
+575,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-03,2023-10-03,2023-10-03,"Fï¿½set Outfit","ï¿½verfï¿½ring via internet",-408.00,139544.81
+576,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-03,2023-10-03,2023-10-03,"Stortorg Band","ï¿½verfï¿½ring via internet",-139.70,139405.11
+577,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-03,2023-10-03,2023-10-03,"Regattan Outfit","ï¿½verfï¿½ring via internet",-330.00,139075.11
+578,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-03,2023-10-03,2023-10-03,"Fï¿½set Outfit","ï¿½verfï¿½ring via internet",-179.95,138895.16
+579,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-03,2023-10-03,2023-10-03,"Fï¿½set Outfit","ï¿½verfï¿½ring via internet",-179.80,138715.36
+580,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-03,2023-10-03,2023-10-03,"Uppdragskvï¿½ll","ï¿½verfï¿½ring via internet",-176.00,138539.36
+581,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-03,2023-10-03,2023-10-03,"Stortorg Stï¿½d","ï¿½verfï¿½ring via internet",-49.80,138489.56
+582,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-03,2023-10-03,2023-10-03,"Stortorg Folie","ï¿½verfï¿½ring via internet",-113.60,138375.96
+583,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-03,2023-10-03,2023-10-03,"Stortorg Mat","ï¿½verfï¿½ring via internet",-171.92,138204.04
+584,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-03,2023-10-03,2023-10-03,"Fï¿½set Outfit","ï¿½verfï¿½ring via internet",-126.00,138078.04
+585,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-03,2023-10-03,2023-10-03,"Stortorg Glas","ï¿½verfï¿½ring via internet",-1557.80,136520.24
+586,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-03,2023-10-03,2023-10-03,"Stortorg Matpref","ï¿½verfï¿½ring via internet",-19.90,136500.34
+587,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-03,2023-10-03,2023-10-03,"Stortorg Glas","ï¿½verfï¿½ring via internet",-59.80,136440.54
+588,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-05,2023-10-05,2023-10-06,"6428437","Bankgiro inbetalning",7000.00,143440.54
+589,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-06,2023-10-06,2023-10-09,"6428437","Bankgiro inbetalning",1764.00,145204.54
+590,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-09,2023-10-07,2023-10-07,"Pingisbollar","Pg-bet. via internet",-748.00,144456.54
+591,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-09,2023-10-07,2023-10-07,"Pingisnï¿½t","Pg-bet. via internet",-678.00,143778.54
+592,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-09,2023-10-07,2023-10-07,"Fï¿½rsï¿½kring Drï¿½na","Bg-bet. via internet",-1400.00,142378.54
+593,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-09,2023-10-07,2023-10-07,"Gasque Hyra WTF","Bg-bet. via internet",-30395.00,111983.54
+594,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-09,2023-10-07,2023-10-07,"Parkering Tour d","Bg-bet. via internet",-79.00,111904.54
+595,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-09,2023-10-07,2023-10-07,"Nya Skï¿½p","Bg-bet. via internet",-43775.00,68129.54
+596,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-09,2023-10-07,2023-10-07,"Engï¿½ngsartiklar","Bg-bet. via internet",-2067.00,66062.54
+597,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-09,2023-10-08,2023-10-08,"Stortorg Bil","Bg-bet. via internet",-2190.00,63872.54
+598,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-09,2023-10-09,2023-10-09,"Blombukett","ï¿½verfï¿½ring via internet",-149.00,63723.54
+599,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-09,2023-10-09,2023-10-10,"6428437","Bankgiro inbetalning",300.00,64023.54
+600,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-10,2023-10-10,2023-10-10,"Material libu","ï¿½verfï¿½ring via internet",-781.90,63241.64
+601,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-10,2023-10-10,2023-10-10,"Kaffe varvning","ï¿½verfï¿½ring via internet",-231.70,63009.94
+602,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-10,2023-10-10,2023-10-10,"Valle b skifte","ï¿½verfï¿½ring via internet",-428.95,62580.99
+603,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-10,2023-10-10,2023-10-10,"Ledningsskifte","ï¿½verfï¿½ring via internet",-438.40,62142.59
+604,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-10,2023-10-10,2023-10-10,"Bokfï¿½ringsmat","ï¿½verfï¿½ring via internet",-85.00,62057.59
+605,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-10,2023-10-10,2023-10-10,"Fogskum","ï¿½verfï¿½ring via internet",-119.80,61937.79
+606,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-10,2023-10-10,2023-10-10,"Hjï¿½lmar","ï¿½verfï¿½ring via internet",-507.00,61430.79
+607,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-10,2023-10-10,2023-10-10,"Oljefat + Dï¿½ckme","ï¿½verfï¿½ring via internet",-379.00,61051.79
+608,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-10,2023-10-10,2023-10-10,"Tygg","ï¿½verfï¿½ring via internet",-185.30,60866.49
+609,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-10,2023-10-10,2023-10-10,"ValleB tack","ï¿½verfï¿½ring via internet",-280.00,60586.49
+610,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-10,2023-10-10,2023-10-10,"Bokfï¿½ringsmat","ï¿½verfï¿½ring via internet",-56.80,60529.69
+611,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-10,2023-10-10,2023-10-10,"Intervjumat","ï¿½verfï¿½ring via internet",-325.00,60204.69
+612,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-10,2023-10-10,2023-10-10,"Punktering","ï¿½verfï¿½ring via internet",-400.00,59804.69
+613,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-10,2023-10-10,2023-10-10,"Mï¿½ss dekoratione","ï¿½verfï¿½ring via internet",-287.79,59516.90
+614,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-10,2023-10-10,2023-10-10,"Resa till punkte","ï¿½verfï¿½ring via internet",-28.00,59488.90
+615,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-10,2023-10-10,2023-10-10,"Ramar till Hï¿½S","ï¿½verfï¿½ring via internet",-839.00,58649.90
+616,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-10,2023-10-10,2023-10-10,"Libu nollningsev","ï¿½verfï¿½ring via internet",-277.20,58372.70
+617,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-10,2023-10-10,2023-10-10,"Intervjumat","ï¿½verfï¿½ring via internet",-75.00,58297.70
+618,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-10,2023-10-10,2023-10-10,"Bocker till Hï¿½S","ï¿½verfï¿½ring via internet",-594.00,57703.70
+619,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-10,2023-10-10,2023-10-10,"Bokfï¿½ringsmat","ï¿½verfï¿½ring via internet",-85.00,57618.70
+620,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-10,2023-10-10,2023-10-10,"Utskottsutbildni","ï¿½verfï¿½ring via internet",-480.00,57138.70
+621,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-11,2023-10-11,2023-10-11,"Jobbmat Stortorg","ï¿½verfï¿½ring via internet",-2200.00,54938.70
+622,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-11,2023-10-11,2023-10-11,"Victoriastadion","Bg-bet. via internet",-3300.00,51638.70
+623,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-11,2023-10-11,2023-10-12,"6428437","Bankgiro inbetalning",2000.00,53638.70
+624,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-12,2023-10-12,2023-10-12,"83139741326862","ï¿½verfï¿½ring via internet",-2800.00,50838.70
+625,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Intervjumat","ï¿½verfï¿½ring via internet",-95.00,50743.70
+626,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Kyl till SK","ï¿½verfï¿½ring via internet",-1500.00,49243.70
+627,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Sy grejer","ï¿½verfï¿½ring via internet",-373.20,48870.50
+628,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Ceq priser","ï¿½verfï¿½ring via internet",-1200.00,47670.50
+629,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Revisormat","ï¿½verfï¿½ring via internet",-81.80,47588.70
+630,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"smurf","ï¿½verfï¿½ring via internet",-233.00,47355.70
+631,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Libu teckensprï¿½k","ï¿½verfï¿½ring via internet",-811.29,46544.41
+632,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Farad utbildning","ï¿½verfï¿½ring via internet",-85.70,46458.71
+633,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Camp bil ersï¿½ttn","ï¿½verfï¿½ring via internet",-530.00,45928.71
+634,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Kasseter ettiket","ï¿½verfï¿½ring via internet",-177.00,45751.71
+635,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Menskydd","ï¿½verfï¿½ring via internet",-639.00,45112.71
+636,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"gyckel props","ï¿½verfï¿½ring via internet",-211.70,44901.01
+637,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Mat Studikvï¿½ll","ï¿½verfï¿½ring via internet",-32.70,44868.31
+638,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"SpindelArbetsmat","ï¿½verfï¿½ring via internet",-890.00,43978.31
+639,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Trï¿½","ï¿½verfï¿½ring via internet",-799.26,43179.05
+640,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Prylgrejer","ï¿½verfï¿½ring via internet",-508.30,42670.75
+641,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Noppbortagare","ï¿½verfï¿½ring via internet",-149.00,42521.75
+642,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Material Byggkvï¿½","ï¿½verfï¿½ring via internet",-140.00,42381.75
+643,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Mï¿½tesmat","ï¿½verfï¿½ring via internet",-95.00,42286.75
+644,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Arbetsklï¿½der PL","ï¿½verfï¿½ring via internet",-450.00,41836.75
+645,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Intervjumat","ï¿½verfï¿½ring via internet",-290.00,41546.75
+646,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Mï¿½tesmat","ï¿½verfï¿½ring via internet",-700.00,40846.75
+647,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Spindelarbetsmat","ï¿½verfï¿½ring via internet",-110.00,40736.75
+648,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Smurf","ï¿½verfï¿½ring via internet",-245.50,40491.25
+649,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Reparetion Cafev","ï¿½verfï¿½ring via internet",-449.50,40041.75
+650,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Revisormat","ï¿½verfï¿½ring via internet",-100.00,39941.75
+651,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Borrhammarborr","ï¿½verfï¿½ring via internet",-49.90,39891.85
+652,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Props Gyckel","ï¿½verfï¿½ring via internet",-55.00,39836.85
+653,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Tyg","ï¿½verfï¿½ring via internet",-28.00,39808.85
+654,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Mï¿½tesmat","ï¿½verfï¿½ring via internet",-600.00,39208.85
+655,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Deisel","ï¿½verfï¿½ring via internet",-1494.86,37713.99
+656,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Intervjumat","ï¿½verfï¿½ring via internet",-100.00,37613.99
+657,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Bokfï¿½ringsmat","ï¿½verfï¿½ring via internet",-90.00,37523.99
+658,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Medaljdisplay","ï¿½verfï¿½ring via internet",-150.00,37373.99
+659,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Libu teckensprï¿½k","ï¿½verfï¿½ring via internet",-203.50,37170.49
+660,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Bubbel nolleg","ï¿½verfï¿½ring via internet",-3555.00,33615.49
+661,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Revisormat","ï¿½verfï¿½ring via internet",-81.80,33533.69
+662,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-16,2023-10-15,2023-10-15,"Revisor + Mï¿½tesm","ï¿½verfï¿½ring via internet",-700.00,32833.69
+663,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-20,2023-10-20,2023-10-20,"FlyING Bussbilje","Bg-bet. via internet",-8932.00,23901.69
+664,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-23,2023-10-23,2023-10-24,"6428437","Bankgiro inbetalning",497.00,24398.69
+665,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-25,2023-10-25,2023-10-26,"6428437","Bankgiro inbetalning",3750.00,28148.69
+666,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-30,2023-10-30,2023-10-30,"83139741326862","ï¿½verfï¿½ring via internet",-1000.00,27148.69
+667,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-30,2023-10-30,2023-10-30,"83139741326847","ï¿½verfï¿½ring via internet",200000.00,227148.69
+668,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-30,2023-10-30,2023-10-30,"ï¿½lgresa","ï¿½verfï¿½ring via internet",-27.90,227120.79
+669,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-30,2023-10-30,2023-10-30,"Intervjumat","ï¿½verfï¿½ring via internet",-300.00,226820.79
+670,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-30,2023-10-30,2023-10-30,"Gyckel reise","ï¿½verfï¿½ring via internet",-335.00,226485.79
+671,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-30,2023-10-30,2023-10-30,"Fordonskatt","Bg-bet. via internet",-1771.00,224714.79
+672,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-30,2023-10-30,2023-10-30,"Fordonskatt","Bg-bet. via internet",-100.00,224614.79
+673,83139,0741326839,"Fï¿½retagskonto",SEK,2023-10-30,2023-10-30,2023-10-30,"Lund, 19 pers, S","Bg-bet. via internet",-7600.00,217014.79
+674,83139,0741326839,"Fï¿½retagskonto",SEK,2023-11-02,2023-11-02,2023-11-02,"83139741326862","ï¿½verfï¿½ring via internet",-35000.00,182014.79
+675,83139,0741326839,"Fï¿½retagskonto",SEK,2023-11-06,2023-11-04,2023-11-04,"Mï¿½rken Pry/KM","Bg-bet. via internet",-29686.00,152328.79
+676,83139,0741326839,"Fï¿½retagskonto",SEK,2023-11-06,2023-11-04,2023-11-04,"Sunny saturdays","Bg-bet. via internet",-3750.00,148578.79
+677,83139,0741326839,"Fï¿½retagskonto",SEK,2023-11-06,2023-11-04,2023-11-04,"FNU sallader","Bg-bet. via internet",-5504.00,143074.79
+678,83139,0741326839,"Fï¿½retagskonto",SEK,2023-11-06,2023-11-04,2023-11-04,"Hyror sexet","Bg-bet. via internet",-51047.00,92027.79
+679,83139,0741326839,"Fï¿½retagskonto",SEK,2023-11-06,2023-11-04,2023-11-04,"Buss ï¿½lgresa","Bg-bet. via internet",-13360.00,78667.79
+680,83139,0741326839,"Fï¿½retagskonto",SEK,2023-11-06,2023-11-04,2023-11-04,"Bronsï¿½lgen mï¿½rke","Bg-bet. via internet",-1331.00,77336.79
+681,83139,0741326839,"Fï¿½retagskonto",SEK,2023-11-06,2023-11-04,2023-11-04,"Parkering storto","Bg-bet. via internet",-79.00,77257.79
+682,83139,0741326839,"Fï¿½retagskonto",SEK,2023-11-06,2023-11-04,2023-11-04,"Diversa hyror","Bg-bet. via internet",-29104.00,48153.79
+683,83139,0741326839,"Fï¿½retagskonto",SEK,2023-11-06,2023-11-04,2023-11-04,"Tryckkostnader","Bg-bet. via internet",-3069.00,45084.79
+684,83139,0741326839,"Fï¿½retagskonto",SEK,2023-11-06,2023-11-04,2023-11-04,"UteDischo","Bg-bet. via internet",-33950.00,11134.79
+685,83139,0741326839,"Fï¿½retagskonto",SEK,2023-11-06,2023-11-04,2023-11-04,"Grï¿½nt o Gott","Bg-bet. via internet",-7558.00,3576.79
+686,83139,0741326839,"Fï¿½retagskonto",SEK,2023-11-06,2023-11-06,2023-11-07,"6428437","Bankgiro inbetalning",910.00,4486.79
+687,83139,0741326839,"Fï¿½retagskonto",SEK,2023-11-08,2023-11-08,2023-11-08,"Internï¿½verfï¿½ring","ï¿½verfï¿½ring via internet",50000.00,54486.79
+688,83139,0741326839,"Fï¿½retagskonto",SEK,2023-11-08,2023-11-08,2023-11-08,"ï¿½lgresan Slott","Bg-bet. via internet",-11550.00,42936.79
+689,83139,0741326839,"Fï¿½retagskonto",SEK,2023-11-10,2023-11-10,2023-11-13,"6428437","Bankgiro inbetalning",800.00,43736.79
+690,83139,0741326839,"Fï¿½retagskonto",SEK,2023-11-13,2023-11-11,2023-11-11,"Korregering Dive","Bg-bet. via internet",-360.00,43376.79
+691,83139,0741326839,"Fï¿½retagskonto",SEK,2023-11-13,2023-11-13,2023-11-14,"6428437","Bankgiro inbetalning",24440.00,67816.79
+692,83139,0741326839,"Fï¿½retagskonto",SEK,2023-11-15,2023-11-14,2023-11-14,"83139741326862","ï¿½verfï¿½ring via internet",2053.39,69870.18
+693,83139,0741326839,"Fï¿½retagskonto",SEK,2023-11-16,2023-11-16,2023-11-16,"83139741326862","ï¿½verfï¿½ring via internet",-1400.00,68470.18
+694,83139,0741326839,"Fï¿½retagskonto",SEK,2023-11-17,2023-11-17,2023-11-17,"Lundapyrot","Bg-bet. via internet",-10000.00,58470.18
+695,83139,0741326839,"Fï¿½retagskonto",SEK,2023-11-17,2023-11-17,2023-11-20,"6428437","Bankgiro inbetalning",1297.00,59767.18
+696,83139,0741326839,"Fï¿½retagskonto",SEK,2023-11-20,2023-11-19,2023-11-19,"83139741326862","ï¿½verfï¿½ring via internet",-30000.00,29767.18
+697,83139,0741326839,"Fï¿½retagskonto",SEK,2023-11-20,2023-11-20,2023-11-20,"Intervjumat","ï¿½verfï¿½ring via internet",-300.00,29467.18
+698,83139,0741326839,"Fï¿½retagskonto",SEK,2023-11-20,2023-11-20,2023-11-21,"6428437","Bankgiro inbetalning",1800.00,31267.18
+699,83139,0741326839,"Fï¿½retagskonto",SEK,2023-11-21,2023-11-21,2023-11-21,"Funk.tack","ï¿½verfï¿½ring via internet",-1300.00,29967.18
+700,83139,0741326839,"Fï¿½retagskonto",SEK,2023-11-21,2023-11-21,2023-11-21,"Byggkvï¿½ll","ï¿½verfï¿½ring via internet",-545.00,29422.18
+701,83139,0741326839,"Fï¿½retagskonto",SEK,2023-11-21,2023-11-21,2023-11-21,"Faddergruppsmat","ï¿½verfï¿½ring via internet",-650.00,28772.18
+702,83139,0741326839,"Fï¿½retagskonto",SEK,2023-11-22,2023-11-22,2023-11-22,"Sï¿½S Tyg","ï¿½verfï¿½ring via internet",-40.00,28732.18
+703,83139,0741326839,"Fï¿½retagskonto",SEK,2023-11-22,2023-11-22,2023-11-22,"Sï¿½S Jobbarmat","ï¿½verfï¿½ring via internet",-97.80,28634.38
+704,83139,0741326839,"Fï¿½retagskonto",SEK,2023-11-22,2023-11-22,2023-11-22,"Sï¿½s Lakan","ï¿½verfï¿½ring via internet",-416.00,28218.38
+705,83139,0741326839,"Fï¿½retagskonto",SEK,2023-11-22,2023-11-22,2023-11-22,"Utlï¿½gg Sï¿½S Glute","ï¿½verfï¿½ring via internet",-59.80,28158.58
+706,83139,0741326839,"Fï¿½retagskonto",SEK,2023-11-22,2023-11-22,2023-11-22,"Sï¿½S Tejp","ï¿½verfï¿½ring via internet",-179.80,27978.78
+707,83139,0741326839,"Fï¿½retagskonto",SEK,2023-11-22,2023-11-22,2023-11-22,"Utlï¿½gg Sï¿½s Dekor","ï¿½verfï¿½ring via internet",-567.00,27411.78
+708,83139,0741326839,"Fï¿½retagskonto",SEK,2023-11-22,2023-11-22,2023-11-22,"Utlï¿½gg Sï¿½S dekor","ï¿½verfï¿½ring via internet",-49.90,27361.88
+709,83139,0741326839,"Fï¿½retagskonto",SEK,2023-11-22,2023-11-22,2023-11-22,"Utlï¿½gg Sï¿½S dekor","ï¿½verfï¿½ring via internet",-99.90,27261.98
+710,83139,0741326839,"Fï¿½retagskonto",SEK,2023-11-22,2023-11-22,2023-11-22,"Bokfï¿½ringsmat","ï¿½verfï¿½ring via internet",-100.00,27161.98
+711,83139,0741326839,"Fï¿½retagskonto",SEK,2023-11-23,2023-11-23,2023-11-24,"6428437","Bankgiro inbetalning",20250.00,47411.98
+712,83139,0741326839,"Fï¿½retagskonto",SEK,2023-11-24,2023-11-24,2023-11-24,"83139741326870","ï¿½verfï¿½ring via internet",-20000.00,27411.98

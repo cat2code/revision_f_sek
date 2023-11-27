@@ -21,6 +21,8 @@ def parse(transactions, verifikat):
     aspiaFile = 'aspia.csv'
 
     #Här skapas all csv reader/writers för framtida användning
+    # Try 2 use below if error with unicode characters.
+    # bankFReader = csv.reader(open(bankfFile, encoding='utf-8', errors='ignore'), dialect='excel')
     bankFReader = csv.reader(open(bankfFile, 'r'), dialect='excel')
     bankCafeReader = csv.reader(open(bankCafeFile, 'r'), dialect='excel')
     bankNollningReader = csv.reader(open(bankNollningFile, 'r'), dialect='excel')
