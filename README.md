@@ -101,7 +101,7 @@ För felsökning av transaktioner är det nästa samma som för verifikat fast o
 
 I sällsynta fall kan man råka ut för Pythons decimalhantering. Ett exempel från verkligheten är 
 ```py
->>> 51641.24-809.23 == 50831.01
+>>> 51641.24-809.23 == 50832.01
 False
 ```
 
